@@ -14,21 +14,21 @@ llama_key = os.environ.get("LLAMA_CLOUD_API_KEY")
 
 parser = LlamaParse(
     api_key= llama_key,
-    result_type="markdown", # "markdown" and "text" are available
+    result_type="text",  # "markdown" and "text" are available
     parsing_instruction=
     """
-    -Organizalo en parrafos tratando de mantener la estructura original.
-    -Traducelo al español.
+    - Elimina encabezados, numeracion y pies de pagina de cada pagina del PDF.
+    - organiza tablas en lineas de texto.
     """,
     verbose=True,
 )
 
 file_extractor = {".pdf": parser}
 documents = SimpleDirectoryReader(
-    "./PDF", file_extractor=file_extractor
+    "./EPID", file_extractor=file_extractor
 ).load_data()
 
-#print(document[0].text)
+#print(documents[0].text)
 
 filename = "output_tx.txt"
 with open(filename, "w") as f:
