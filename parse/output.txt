@@ -1,0 +1,1611 @@
+  UpToDate
+                    Official reprint from UpToDate® www.uptodate.com
+            © 2024 UpToDate, Inc. and/or its affiliates. All Rights Reserved.
+
+
+Treatment of adult-onset Still's disease
+
+
+Authors: Lisa A Mandl, MD, MPH, Peter A Nigrovic, MD
+Section Editor: James R O'Dell, MD
+Deputy Editor: Siobhan M Case, MD, MHS
+Contributor Disclosures
+All topics are updated as new evidence becomes available and our peer review
+process is complete.
+Literature review current through: Apr 2024. | This topic last updated: Sep
+11, 2023.
+INTRODUCTION — Adult-onset Still's disease (AOSD) is an inflammatory
+disorder characterized by quotidian (daily) fevers, arthritis, and an evanescent
+rash. The disease can have a monophasic, intermittent, or chronic course.
+
+
+Following its initial description in children by George Still in 1896, "Still's disease"
+became the eponymous term for all childhood-onset arthritis, subsequently
+restricted to the febrile form now termed systemic juvenile idiopathic arthritis
+(sJIA) [1,2]. In 1971, Bywaters described a series of adult patients with a
+syndrome that closely resembled sJIA [3]. "Adult-onset Still's disease" is now the
+most widely used term for the condition when it begins after the patient's 16th
+birthday. AOSD and sJIA are increasingly recognized as belonging to the same
+clinical continuum [4]. (See "Systemic juvenile idiopathic arthritis: Clinical
+manifestations and diagnosis".)
+
+
+The treatment and prognosis of AOSD will be reviewed here. The clinical
+manifestations and diagnosis of AOSD and the treatment of sJIA are presented
+separately. (See "Clinical manifestations and diagnosis of adult-onset Still's
+disease" and "Systemic juvenile idiopathic arthritis: Treatment".)
+
+
+GOALS OF THERAPY — The goals of therapy include:
+    ●  Control of the physical signs and symptoms of inflammation (eg, fever, rash,
+       morning stiffness, joint pain, and swelling) and, secondarily, control of
+       laboratory indices of inflammation (eg, elevations in the erythrocyte
+       sedimentation rate [ESR] and levels of C-reactive protein [CRP]). (See
+       "Clinical manifestations and diagnosis of adult-onset Still's disease", section
+       on 'Clinical presentation'.)
+
+
+    ●  Prompt recognition and treatment of a hyperinflammatory complication of
+       adult-onset Still's disease (AOSD) termed macrophage activation syndrome
+       (MAS). (See "Systemic juvenile idiopathic arthritis: Course, prognosis, and
+---
+      complications", section on 'Macrophage activation syndrome' and "Systemic
+      juvenile idiopathic arthritis: Treatment", section on 'Macrophage activation
+      syndrome' and "Clinical features and diagnosis of hemophagocytic
+      lymphohistiocytosis" and "Treatment and prognosis of hemophagocytic
+      lymphohistiocytosis", section on 'MAS/Rheumatologic conditions' and
+      "Systemic juvenile idiopathic arthritis: Treatment".)
+
+
+      Initiation of many treatments has been associated temporally with the
+      appearance or worsening of MAS [5-9]. Such reports may simply reflect
+      inadequate treatment of subclinical MAS but highlight the need for close
+      observation of patients with AOSD beginning treatment, including screening
+      laboratory tests for MAS within two weeks of any substantial changes in
+      therapy. (See 'Monitoring for MAS' below.)
+   ●  Prevention of end-organ damage, including joint injury and other major
+      organ complications. (See "Clinical manifestations and diagnosis of adult-
+      onset Still's disease", section on 'Clinical presentation'.)
+   ●  Minimization of the risk of adverse effects of therapy, including long-term
+      effects of glucocorticoids. (See "Major adverse effects of systemic
+      glucocorticoids".)
+
+
+PRETREATMENT EVALUATION AND PREVENTION OF ADVERSE DRUG
+EFFECTS
+   ●  Confirmation of the diagnosis – It is important to exclude other systemic
+      conditions that may present with symptoms similar to adult-onset Still's
+      disease (AOSD), such as infection and malignancy, before initiating
+      immunosuppressive therapies. Where uncertainty remains, initiation of
+      treatment with an interleukin (IL) 1 antagonist rather than glucocorticoids
+      can provide important diagnostic information (see 'Anakinra: Efficacy and
+      rationale' below). The diagnosis and differential diagnosis of AOSD are
+      described in detail separately. (See "Clinical manifestations and diagnosis of
+      adult-onset Still's disease".)
+   ●  Pretreatment testing – The baseline testing, screening, and preventive
+      interventions generally performed prior to initiating therapy with any
+      nonbiologic, targeted synthetic (small molecule), or biologic disease-
+      modifying antirheumatic drug (DMARD), and glucocorticoids are generally
+      the same as those used for rheumatoid arthritis (RA); these are described in
+      detail separately (see "General principles and overview of management of
+      rheumatoid arthritis in adults", section on 'Pretreatment evaluation' and
+      "Interleukin 1 inhibitors: Biology, principles of use, and adverse events",
+      section on 'Pretreatment testing'). Briefly, these include:
+       •  General testing for all patients – Baseline complete blood count
+          (CBC), serum creatinine, aminotransferases, erythrocyte sedimentation
+          rate (ESR), and C-reactive protein (CRP). In patients receiving IL-6
+          inhibitors and Janus kinase (JAK) inhibitors, lipids are also monitored. In
+          AOSD, to assess for the presence of macrophage activation syndrome
+          (MAS), we also assess ferritin and D-dimer.
+---
+       •  Hepatitis virus screening – In all patients without serologically
+          confirmed hepatitis, we screen for hepatitis B and C before initiating
+          therapy with conventional DMARDs, including methotrexate (MTX) and
+          leflunomide (LEF); biologic DMARDs; and JAK inhibitors.
+
+
+       •  Testing for latent tuberculosis – We screen for latent tuberculosis
+          (TB) with an interferon-gamma release assay or with skin testing prior to
+          all biologic DMARDs and prior to use of a JAK inhibitor.
+
+
+          We obtain a chest radiograph in patients with a history of other risk
+          factors for latent TB, even if screening tests are negative, given the risks
+          of false-negative testing. Additionally, screening should be repeated in
+          patients with new TB exposures. Glucocorticoids and other factors may
+          cause false-negative results. Screening for latent TB is discussed in detail
+          separately. (See "Risk of mycobacterial infection associated with biologic
+          agents and JAK inhibitors" and "Tuberculosis infection (latent
+          tuberculosis) in adults: Approach to diagnosis (screening)".)
+
+
+      It is not always necessary to await completion of screening for latent TB
+      before beginning short-term IL-1 inhibition with anakinra, particularly when
+      it is urgent to initiate such treatment since IL-1 inhibition does not pose a
+      demonstrated risk for TB reactivation. (See 'Approach to initial therapy'
+      below and "Interleukin 1 inhibitors: Biology, principles of use, and adverse
+      events", section on 'Infection'.)
+   ●  Immunization – The approach to immunization is generally the same as in
+      patients with RA and other autoimmune rheumatic diseases. To the extent
+      possible, patients should receive vaccines at appropriate intervals prior to
+      the start of immunosuppressive drug therapy, although this may not always
+      be feasible. Vaccines should not be given until febrile episodes are
+      controlled. Immunization in patients with rheumatic diseases is described in
+      detail separately. (See "Immunizations in autoimmune inflammatory
+      rheumatic disease in adults".)
+   ●  Antibiotic prophylaxis – There is uncertainty regarding which patients
+      with AOSD, based upon their respective treatment regimens and medication
+      doses, are likely to benefit from the additional use of prophylactic antibiotics
+      to prevent Pneumocystis pneumonia. Generally, patients being treated with
+      prednisone (or equivalent) in a dose of at least 20 mg daily for greater than
+      a month, especially if in combination with another immunosuppressive
+      medication, are among those most likely to benefit from prophylactic
+      treatment. (See "Treatment and prevention of Pneumocystis pneumonia in
+      patients without HIV", section on 'Indications' and "Treatment and
+      prevention of Pneumocystis pneumonia in patients without HIV", section on
+      'Regimens'.)
+
+
+INITIAL THERAPY: NEW-ONSET DISEASE
+
+
+Approach to initial therapy — Therapeutic decisions in newly diagnosed adult-
+onset Still’s disease (AOSD) are based upon whether macrophage activation
+syndrome (MAS), a "cytokine storm" that can be life threatening, is present or
+---
+suspected, and by the severity of disease; it may be influenced by whether
+systemic or arthritic features are predominant. During periods of active systemic
+disease, patients are at highest risk of developing MAS. (See "Clinical
+manifestations and diagnosis of adult-onset Still's disease".)
+
+
+Arthritis may be evident early in disease or appear subsequently and often
+persists after systemic symptoms have resolved. In new-onset disease, severe or
+highly symptomatic arthritis can be an important target of therapy. Treatment of
+established AOSD may differ from new-onset disease. (See 'Subsequent therapy:
+Established disease' below.)
+
+
+We address the following clinical questions before starting therapy:
+   ●  Is MAS present? – The first priority in new-onset AOSD is to exclude
+      incipient or active MAS requiring immediate intervention. Criteria developed
+      for the diagnosis of MAS in systemic juvenile idiopathic arthritis (sJIA) [10]
+      have been applied but not extensively tested in patients with AOSD [11].
+      The diagnosis of MAS in AOSD and in sJIA is described in detail separately.
+      (See 'Concern for incipient or active MAS' below and 'Monitoring for MAS'
+      below and "Clinical manifestations and diagnosis of adult-onset Still's
+      disease", section on 'Macrophage activation syndrome' and "Systemic
+      juvenile idiopathic arthritis: Course, prognosis, and complications", section
+      on 'Macrophage activation syndrome'.)
+
+
+      The treatment of MAS, including in patients with rheumatic disease such as
+      AOSD, is also described separately. (See "Treatment and prognosis of
+      hemophagocytic lymphohistiocytosis", section on 'MAS/Rheumatologic
+      conditions'.)
+
+
+      The management of AOSD in patients with a high degree of suspicion of
+      concomitant or incipient MAS frequently involves the use of combination
+      therapy with a biologic, such as anakinra, together with glucocorticoids.
+      (See 'Concern for incipient or active MAS' below.)
+
+
+   ●  Is disease mild to moderate or moderate to severe? – For patients
+      without evidence of active or incipient MAS, a distinction should be made
+      between patients with mild or mild to moderate disease, who may initially be
+      treated with nonsteroidal antiinflammatory drugs (NSAIDs), and patients
+      with moderate to severe disease, who require treatment with a biologic
+      agent, usually anakinra or another interleukin (IL) 1 inhibitor,
+      glucocorticoids, or combination therapy. (See 'Mild to moderate disease'
+      below and 'Moderate to severe disease' below.)
+
+
+       •  Mild to moderate – Mild to moderate disease at disease onset is
+          characterized by nondisabling fever, rash, arthralgias or mild arthritis,
+          and the absence of MAS.
+       •  Moderate to severe – Moderate to severe disease may be defined by
+          the additional presence of clinically significant serositis (eg, pleurisy or
+          peritonitis), moderate to severe and debilitating polyarthritis, persistent
+          high fevers despite treatment with NSAIDs, or internal organ
+          involvement. (See "Clinical manifestations and diagnosis of adult-onset
+---
+          Still's disease", section on 'Clinical presentation'.)
+
+
+There are no reliable prognostic criteria in new-onset AOSD to discriminate
+patients who will have a mild, self-limited course from those who will have a
+more severe chronic course [12]. For this reason, we do not base our decision to
+use or withhold biologic therapy on particular clinical features at presentation,
+and generally initiate a disease-modifying antirheumatic drug (DMARD) if
+symptoms are not completely controlled after two weeks of NSAIDs. In patients
+with severe or highly symptomatic disease, we frequently begin biologic therapy
+as soon as possible, beginning with a combination of biologics and glucocorticoids
+if incipient or early MAS is suspected.
+
+
+Direct evidence regarding the efficacy of different treatment strategies for new-
+onset AOSD is derived from observational case series and from clinical
+experience, both in AOSD and in sJIA.
+
+
+Mild to moderate disease — For patients suspected of new-onset AOSD with
+no more than mild to moderate symptoms (see 'Approach to initial therapy'
+above), and in the absence of MAS, we suggest initial management with NSAIDs
+alone, rather than glucocorticoids, DMARDs, or biologics, especially while
+evaluation for alternate causes of fever (eg, infection or lymphoma) is ongoing.
+An antiinflammatory dose and regimen of NSAIDs should be used; typical choices
+include naproxen (500 mg twice daily), ibuprofen (800 mg three times daily), and
+indomethacin (25 to 50 mg three times daily). There is no evidence that any one
+NSAID has greater efficacy for AOSD than another.
+
+
+Up to 20 percent of patients achieve control of the signs and symptoms of mild
+AOSD with NSAIDs [3,5,13-15]. However, NSAIDs are often insufficient, and in
+many patients, fevers, rash, and joint symptoms become or remain intolerable
+despite the use of NSAIDs or more severe features develop necessitating
+additional intervention. The approach for patients who have not responded
+sufficiently to a 7- to 14-day trial of an NSAID alone during the acute phase of
+the illness is similar to that for patients who present with moderate to severe
+disease. (See 'Moderate to severe disease' below.)
+
+
+Most patients in whom NSAIDs alone are inadequate to control symptoms should
+discontinue NSAIDs as soon as possible after they are switched to
+glucocorticoids. Patients receiving NSAIDs together with glucocorticoids should
+receive prophylactic therapy for the prevention of NSAID gastropathy. (See
+"NSAIDs (including aspirin): Primary prevention of gastroduodenal toxicity".)
+
+
+The adverse effects of NSAIDs are generally the same as in other conditions and
+are described in detail separately (see "Nonselective NSAIDs: Overview of
+adverse effects" and "Overview of COX-2 selective NSAIDs", section on 'Toxicities
+and possible toxicities'). Underlying cardiovascular and gastrointestinal risk
+factors should be considered during NSAID initiation but are not absolute
+contraindications as there are limited effective options for initial AOSD therapy.
+(See "NSAIDs: Adverse cardiovascular effects" and "NSAIDs (including aspirin):
+Primary prevention of gastroduodenal toxicity" and "NSAIDs (including aspirin):
+Treatment and secondary prevention of gastroduodenal toxicity".)
+---
+Salicylates, historically a mainstay of therapy for sJIA, are now seldom used to
+treat either AOSD or sJIA because their therapeutic index is narrower than that of
+most nonsalicylate NSAIDs.
+
+
+In patients unable to tolerate NSAIDs, glucocorticoids in low to moderate doses
+(eg, prednisone 10 to 30 mg orally once daily or equivalent) can be an effective
+alternative. However, since glucocorticoid monotherapy tends to become
+prolonged, we prefer in such cases to advance rapidly to a biologic DMARD, in
+order to discontinue glucocorticoids within two months. For patients primarily
+with arthritis rather than systemic symptoms, methotrexate (MTX) is a
+reasonable alternative to a biologic DMARD as the initial glucocorticoid-sparing
+agent. (See 'Glucocorticoid-sparing therapy for chronic management' below.)
+
+
+Moderate to severe disease
+
+
+   Treatment approach — For patients with new-onset moderate to severe
+AOSD and those with milder disease in whom NSAIDs are inadequate, we prefer
+to initiate therapy with anakinra. Glucocorticoids are a reasonable alternative but
+have some comparative disadvantages in this setting. (See 'Anakinra: Efficacy
+and rationale' below and 'Glucocorticoids: Efficacy and rationale' below.)
+   ●  Anakinra – For management of new-onset moderate to severe AOSD (see
+      'Approach to initial therapy' above) and for patients in whom two weeks of
+      NSAIDs are insufficient (see 'Mild to moderate disease' above), we suggest
+      anakinra rather than continued NSAIDs alone, glucocorticoids, or another
+      DMARD (such as biologics and conventional synthetic DMARDs). Our usual
+      initial dose is 100 mg subcutaneously daily. For patients in whom a partial
+      response is observed after 7 to 14 days, the dose can be increased to 100
+      mg twice daily. (See 'Anakinra: Efficacy and rationale' below.)
+
+
+      For patients who have attained remission, spacing of anakinra injections to
+      every other day and then every third day provides an opportunity to test
+      whether the underlying disease is truly in remission, facilitating
+      discontinuation of therapy. The duration of remission required to optimize
+      the probability of sustained remission is unknown; a three-month period of
+      remission is reasonable [16].
+
+
+      Given greater concerns about exacerbating bacterial infections with IL-6
+      blockade than with IL-1 blockade, and the much longer half-lives of the IL-6
+      inhibitors tocilizumab or sarilumab (approximately 8 to 14 days) than
+      anakinra (six hours), we prefer anakinra in this setting and typically do not
+      employ tocilizumab or sarilumab in new-onset disease where diagnostic
+      uncertainty remains, as is often the case.
+
+
+   ●  Glucocorticoids – Glucocorticoids are a reasonable alternative to anakinra,
+      particularly for patients unable to obtain anakinra. Initial doses of
+      prednisone for AOSD range from 20 to 60 mg orally daily, depending upon
+      an individualized assessment of the severity of disease and the rapidity of
+      the initial response to therapy. (See 'Glucocorticoids: Efficacy and rationale'
+      below.)
+
+
+      Oral glucocorticoids treat both systemic and arthritic features of AOSD.
+---
+      Patients usually respond to glucocorticoids within hours to a few days, but a
+      longer period of therapy may be required in some patients [5,14].
+      Approximately 70 percent of patients respond to glucocorticoids alone or to
+      glucocorticoids used after a trial of NSAIDs [13,17].
+
+
+      Some patients with monoarthritis or oligoarthritis and those with very severe
+      or refractory disease may benefit from intraarticular or intravenous
+      glucocorticoid administration, respectively:
+       •  Intraarticular glucocorticoids – Patients with one or two inflamed joints
+          despite use of systemic medications may benefit from intraarticular
+          glucocorticoid injections. In such cases, consideration should always be
+          given to the possibility of an alternate cause of arthritis, such as bacterial
+          infection or Lyme disease, which may be assessed by additional studies
+          such as synovial fluid Gram stain and culture and Lyme serology,
+          respectively. (See "Use of glucocorticoids in the treatment of rheumatoid
+          arthritis", section on 'Intraarticular therapy' and "Musculoskeletal
+          manifestations of Lyme disease" and "Septic arthritis in adults" and
+          "Diagnosis of Lyme disease".)
+       •  Intravenous glucocorticoids – Pulse intravenous methylprednisolone,
+          1000 mg daily for one to three days, is typically reserved for patients
+          with MAS but represents an option for patients with otherwise refractory
+          systemic or arthritic disease [18,19].
+
+
+      Once control of symptoms is achieved for at least two weeks and laboratory
+      indices have normalized, glucocorticoids are tapered rapidly to a low-
+      maintenance dose for two to three months to maintain control of signs and
+      symptoms of disease. As an example, in a patient initially receiving 60 mg of
+      prednisone daily, we may decrease the daily dose of glucocorticoids every
+      week with the aim of reducing prednisone dosing to below 10 mg daily
+      within eight weeks, then discontinuing glucocorticoid therapy over the
+      subsequent three months. Since only a relatively small proportion of
+      patients with AOSD will achieve sustained remission with glucocorticoids
+      alone, we generally initiate traditional or biologic DMARD therapy in patients
+      requiring prednisone 10 mg daily or more for greater than one month. Our
+      long-term goal is complete discontinuation of glucocorticoids, although some
+      patients may continue to require up to 5 mg daily. (See 'Subsequent
+      therapy: Established disease' below and "Use of glucocorticoids in the
+      treatment of rheumatoid arthritis" and "Glucocorticoid withdrawal".)
+
+
+    Anakinra: Efficacy and rationale — Initiating treatment with the IL-1
+antagonist anakinra as monotherapy may be effective in AOSD, especially early
+in disease, and avoid serious adverse effects that are often associated with the
+use of glucocorticoids. Anakinra is a recombinant human IL-1 receptor antagonist
+and represents our preferred first-line biologic therapy for AOSD because of its
+efficacy, short half-life (six hours), and easy titratability, on the basis primarily of
+data accumulated within new-onset sJIA [16,20-22]. (See "Systemic juvenile
+idiopathic arthritis: Treatment", section on 'Anakinra' and "Systemic juvenile
+idiopathic arthritis: Course, prognosis, and complications".)
+---
+While not all patients with AOSD respond to anakinra, absence of any reduction
+in fever and rash is sufficiently uncommon to justify careful reconsideration of the
+diagnosis. Importantly, since anakinra is not typically associated with reactivation
+of tuberculosis (TB) infection and exhibits a favorable safety profile as
+monotherapy even in serious bacterial infection, if clinically necessary, anakinra
+can be part of the diagnostic and therapeutic evaluation for AOSD even before
+occult infection has been fully excluded [23,24]. By contrast, a response to
+glucocorticoids is nonspecific and may complicate the ongoing search for
+alternate underlying diagnoses, such as lymphoproliferative malignancy. The
+mechanism of action and adverse effects of anakinra and other IL-1 inhibitors are
+described in detail separately. (See "Interleukin 1 inhibitors: Biology, principles of
+use, and adverse events".)
+
+
+Much of the support for initiating therapy with anakinra in AOSD has been
+extrapolated from the experience in patients with sJIA, in whom a substantial
+response to anakinra monotherapy is observed in approximately 70 to 90 percent
+of patients; the response to anakinra in AOSD appears comparable [25,26]. (See
+"Systemic juvenile idiopathic arthritis: Treatment", section on 'Anakinra'.)
+
+
+Some evidence also indicates that incorporating anakinra into initial therapy could
+help to reduce the subsequent development of chronic arthritis, despite the
+relatively modest efficacy of anakinra in rheumatoid arthritis (RA) in adults
+[12,20]. More extensive investigation is needed to determine whether there is in
+fact a "window of opportunity" in sJIA/AOSD during which early effective
+intervention might alter the natural history of disease, although this possibility is
+now supported by correlative observational and experimental evidence
+[12,22,27-29].
+
+
+    Glucocorticoids: Efficacy and rationale — Glucocorticoids are an
+alternative to anakinra and an acceptable first option in patients with AOSD who
+remain symptomatic after 7 to 14 days of NSAIDs. Glucocorticoids are rapidly
+effective, simple to titrate, and inexpensive. However, we generally prefer
+anakinra if available to minimize short- and long-term exposure to
+glucocorticoids. (See 'Moderate to severe disease' above and 'Anakinra: Efficacy
+and rationale' above.)
+
+
+Higher initial doses (equivalent to prednisone 0.8 to 1 mg/kg daily) may be
+preferable to lower doses when glucocorticoids are used as initial therapy, but
+even with higher doses the disease fails to respond completely in many patients,
+and effective therapy often requires a prolonged treatment course. This was
+illustrated in a retrospective series that compared 40 patients with AOSD treated
+with low-dose glucocorticoids (0.2 to 0.3 mg/kg daily) with 40 patients treated
+with high-dose glucocorticoids (0.8 to 1 mg/kg daily); the doses used were based
+upon the clinical judgment of the treating clinicians [30]. Remission rates after
+six months were lower in the low-dose group (25 versus 65 percent), and
+glucocorticoid therapy could be discontinued by 18 months in fewer of the
+patients treated with low-dose therapy (9 versus 34 percent). These findings are
+similar to those of an observational series in sJIA, where conventional
+(nonbiologic) treatment was associated with ongoing glucocorticoid therapy six
+months after diagnosis in nearly 70 percent of children [31].
+---
+Additionally, in a study of 45 patients with AOSD, among whom there were 56
+trials of glucocorticoid therapy, those with the chronic articular pattern of disease
+were less likely to respond than were patients with AOSD with systemic disease
+but without chronic articular involvement (7 of 20 [35 percent] versus 28 of 36
+[78 percent]) [13].
+
+
+In patients treated with systemic glucocorticoids, appropriate preventive
+measures to minimize impact on bone health and to prevent other adverse
+effects of glucocorticoids should be pursued. The prevention of bone loss and the
+major side effects of systemic glucocorticoid use are described separately. (See
+"Prevention and treatment of glucocorticoid-induced osteoporosis" and "Major
+adverse effects of systemic glucocorticoids".)
+
+
+Concern for incipient or active MAS — In patients with new-onset AOSD
+where incipient or active MAS remains a concern, we typically combine anakinra
+with glucocorticoid therapy. Concern for MAS is particularly high in patients with
+elevation in ferritin levels out of proportion to other inflammatory markers,
+transaminase elevation, marked elevation in D-dimer, thrombocytopenia, and/or
+a decreasing erythrocyte sedimentation rate (ESR) despite continued elevation of
+C-reactive protein (CRP). In hospitalized patients, we frequently employ anakinra
+in high doses (up to 100 mg four times daily, potentially via the intravenous
+route [32]) as well as pulse-dose intravenous glucocorticoids (methylprednisolone
+1000 mg intravenously daily for one to three days). The clinical manifestations,
+diagnosis, and management of MAS are described separately. (See "Clinical
+manifestations and diagnosis of adult-onset Still's disease", section on
+'Macrophage activation syndrome' and "Clinical features and diagnosis of
+hemophagocytic lymphohistiocytosis", section on 'Rheumatologic disorders/MAS'
+and "Treatment and prognosis of hemophagocytic lymphohistiocytosis" and
+"Treatment and prognosis of hemophagocytic lymphohistiocytosis", section on
+'MAS/Rheumatologic conditions'.)
+
+
+SUBSEQUENT THERAPY: ESTABLISHED DISEASE
+
+
+Treatment approach — The specific drug choices for subsequent management
+of adult-onset Still’s disease (AOSD) after initial treatment of new disease depend
+upon the effectiveness and risks of first-line therapies and the range and severity
+of disease manifestations.
+
+
+Treatment decisions are based upon the same general principles as in new-onset
+disease (ie, control of inflammation, prevention of end-organ damage, adverse
+effects of medications [especially glucocorticoids], and rapid recognition and
+intervention for macrophage activation syndrome [MAS]) (see 'Goals of therapy'
+above). As with new-onset disease, evidence for specific treatments in AOSD is
+principally available as case series, in some cases supplemented by small clinical
+trials. Treatment depends upon the prior response to therapy and clinical
+features:
+
+
+   ●  Good response to initial therapy – In patients who respond to initial
+      management of AOSD, the key priority is minimization of glucocorticoid
+      exposure if present. Achieving discontinuation of glucocorticoids may require
+      optimization of dosing, for example, by an adjustment in the dose or
+---
+      frequency of a biologic agent or the dose or route of administration of
+      methotrexate (MTX).
+
+
+      For patients who have attained complete remission off glucocorticoids,
+      including resolution of clinical symptoms and normalization of laboratory
+      values, we typically maintain the disease-modifying antirheumatic drug
+      (DMARD) regimen for three to six months before we consider drug tapering,
+      beginning with the agent of greatest concern with respect to side effects.
+      (See 'Medication tapering and duration of therapy' below.)
+   ●  Mild systemic and/or articular disease – Nonsteroidal antiinflammatory
+      drugs (NSAIDs) can provide relief for mild systemic and arthritic features of
+      AOSD. Although they are particularly useful in the initial treatment of mild to
+      moderate disease, we also use NSAIDs in a limited fashion for several days
+      to weeks on an as-needed basis as an antiinflammatory adjunctive therapy
+      in patients with established or chronic disease [5,13-16]. The use of NSAIDs
+      in AOSD is described in more detail elsewhere in this topic review (see 'Mild
+      to moderate disease' above). Patients receiving NSAIDs together with
+      glucocorticoids should receive prophylactic therapy for the prevention of
+      NSAID gastropathy; prophylaxis should also be considered for all patients on
+      chronic NSAIDs after review of individual risk factors. (See "NSAIDs
+      (including aspirin): Primary prevention of gastroduodenal toxicity".)
+   ●  Moderate to severe disease requiring chronic glucocorticoid therapy
+      – Patients unable to taper glucocorticoids to ≤10 mg daily of prednisone (or
+      equivalent) or who have evidence of joint injury require additional therapy,
+      usually with a conventional synthetic DMARD, a biologic DMARD, or both, to
+      control disease and limit or prevent adverse effects of chronic glucocorticoid
+      therapy. (See 'Glucocorticoid-sparing therapy for chronic management'
+      below.)
+
+
+Glucocorticoid-sparing therapy for chronic management — For patients
+unable to reduce glucocorticoids to ≤10 mg daily of prednisone (or equivalent)
+we suggest the addition of a glucocorticoid-sparing DMARD rather than
+continuing the same level of glucocorticoid therapy. For patients with arthritis,
+and patients with evidence of erosive joint disease on joint radiographs, we
+prefer methotrexate (MTX); for patients with predominantly systemic symptoms
+and/or suspected incipient MAS, we prefer anakinra, an interleukin (IL) 1
+inhibitor. (See 'Methotrexate and other conventional DMARDs' below and
+'Anakinra' below.)
+
+
+Alternatives to MTX include leflunomide (LEF), another conventional synthetic
+DMARD, and tocilizumab or another IL-6 inhibitor (see 'Methotrexate and other
+conventional DMARDs' below and 'Interleukin 6 inhibition' below). We tend to
+prefer IL-6 blockade to IL-1 blockade in a patient with AOSD in whom arthritis is
+the major clinical feature. By contrast, evidence that high-dose anakinra can be
+effective in MAS leads us to prefer IL-1 blockade in patients at high risk for this
+complication [20,33], and IL-1 inhibition also remains an option for patients with
+arthritis who are resistant to MTX and to an IL-6 inhibitor. Canakinumab, a
+longer-acting IL-1 inhibitor than anakinra, may also be effective in some patients
+---
+with arthritis, and we prefer it over anakinra for chronic therapy in patients with
+arthritis who need an IL-1 inhibitor because of its requirement for monthly rather
+than daily injection. (See 'Canakinumab and rilonacept' below.)
+
+
+For patients with arthritis that has not responded to conventional DMARDs (MTX
+or LEF) after 8 to 12 weeks, we add an IL-6 inhibitor, or alternatively an IL-1
+inhibitor. For those who are refractory to IL-1 and IL-6 blockade, a tumor
+necrosis factor (TNF) inhibitor, usually infliximab, may be used, but we restrict its
+use to this setting because of the relative inefficacy of TNF blockade for systemic
+manifestations of AOSD. (See 'Tumor necrosis factor inhibitors' below.)
+
+
+For patients with systemic disease who are unable to obtain anakinra or who are
+intolerant of daily injections, the IL-1 inhibitor canakinumab (or potentially
+rilonacept) is a reasonable alternative, followed by tocilizumab. Sarilumab,
+another IL-6 inhibitor, could be considered as a third-line agent as well [34].
+(See 'Canakinumab and rilonacept' below and 'Interleukin 6 inhibition' below.)
+
+
+Therapeutic agents
+
+
+   Methotrexate and other conventional DMARDs
+   ●  Dosing and administration – Methotrexate (MTX) is given on a once-
+      weekly basis using the same approach as in adult rheumatoid arthritis (RA).
+      We typically initiate MTX at a dose between 10 to 15 mg once weekly for
+      most patients, escalating as tolerated after four weeks to 20 to 25 mg
+      weekly. Split-dose oral therapy and subcutaneous injection can enhance
+      absorption in case of partial responses, as absorption may not be
+      commensurate with dose increases in patients receiving ≥15 mg, in some
+      cases also helping to overcome gastrointestinal intolerance. Concomitant
+      folic acid or folinic acid is also taken, which helps to minimize adverse
+      events. (See "Initial treatment of rheumatoid arthritis in adults" and "Use of
+      methotrexate in the treatment of rheumatoid arthritis".)
+
+
+   ●  Efficacy of methotrexate – Generally regarded as less effective for the
+      systemic manifestations of AOSD, including MAS, MTX can help to address
+      arthritic manifestations as reflected in its utilization in approximately half of
+      patients with AOSD [13,35,36]. Limited data from observational studies
+      suggest that MTX is an effective glucocorticoid-sparing agent, enabling
+      patients to taper or discontinue glucocorticoids and providing some
+      improvement in systemic symptoms [37,38]. The only randomized
+      controlled trial of MTX was performed in 45 patients with systemic juvenile
+      idiopathic arthritis (sJIA), finding nonsignificant improvement in joint
+      features and no change in systemic features, though combined analysis with
+      other forms of JIA within the same trial suggested modest improvement in
+      arthritis severity [39].
+   ●  Alternatives to methotrexate – For patients in whom MTX is poorly
+      tolerated or ineffective, other conventional DMARDs may also be employed,
+      although data for efficacy remain scant. In our experience, LEF (10 to 20 mg
+      daily) can be a helpful adjunct in AOSD patients with arthritis who cannot
+      tolerate full-dose MTX or in whom MTX is insufficiently effective [40,41].
+---
+      Combined MTX/LEF therapy can be effective but requires particular vigilance
+      with respect to monitoring for hepatotoxicity [42,43]. The approach to using
+      LEF is generally the same as in RA. (See "Pharmacology, dosing, and
+      adverse effects of leflunomide in the treatment of rheumatoid arthritis" and
+      "Alternatives to methotrexate for the initial treatment of rheumatoid arthritis
+      in adults", section on 'Leflunomide'.)
+
+
+      Hydroxychloroquine (HCQ) and sulfasalazine (SSZ), common DMARDs in RA,
+      do not appear to have a routine role in the treatment of AOSD. HCQ therapy
+      is often reported in series of AOSD, but to our knowledge, no efficacy data
+      are available, and we do not regularly use it for this indication [13,35,36].
+      SSZ is anecdotally associated with an unusually high rate of adverse events
+      in AOSD, including provocation of MAS, and is typically avoided [6,14].
+
+
+   Interleukin 1 blockade
+
+
+       Anakinra — Anakinra is most effective for patients with AOSD when used
+as treatment of new-onset disease (see 'Anakinra: Efficacy and rationale' above)
+but also shows substantial benefit for chronic disease, as shown best in patients
+with sJIA (see "Systemic juvenile idiopathic arthritis: Treatment" and "Systemic
+juvenile idiopathic arthritis: Treatment", section on 'Interleukin 1 inhibitors').
+Observational data suggest that the efficacy of anakinra in AOSD is similar to that
+in sJIA [25,26]. Case series report utility in AOSD that has been refractory to
+treatment with other medications, including glucocorticoids, MTX, other
+traditional (nonbiologic) DMARDs, and TNF inhibitors [13,44-49]. Anakinra 100
+mg administered by daily subcutaneous injection is the typical dosing for patients
+with chronic AOSD, although escalation to twice-daily dosing is necessary in some
+patients.
+
+
+The response to anakinra in patients with AOSD is illustrated by the following
+examples:
+
+
+   ●  In a randomized, open-label trial of 22 patients with AOSD whose disease
+      was not responsive to glucocorticoids with or without a traditional DMARD,
+      administration of anakinra (100 mg administered subcutaneously daily)
+      resulted in remission in 6 of 12 patients, compared with only 2 of 10
+      receiving a nonbiologic DMARD (MTX, azathioprine, or LEF) [46]. Three
+      patients receiving anakinra, but none receiving DMARDs alone, were able to
+      discontinue glucocorticoids.
+   ●  A retrospective nationwide French survey identified 28 patients with AOSD
+      resistant to NSAIDs, glucocorticoids, and prior DMARDs (including 14 who
+      had not responded adequately to biologic agents) who were treated with
+      anakinra (100 mg administered by daily subcutaneous injection) alone or
+      together with MTX. All patients responded to therapy, and patients were
+      able to reduce glucocorticoid doses [49]. After a mean follow-up of 23
+      months, 16 patients (57 percent) experienced complete remission, and three
+      of these patients could discontinue anakinra. Eight patients (29 percent) had
+      a partial response and four patients (14 percent) had a period of complete
+      remission but then experienced loss of efficacy. Dose tapering or
+      discontinuation was associated with relapse in half of the patients. Two
+---
+      patients discontinued anakinra because of intensely pruritic rashes at the
+      injection site, and two with inadequate responses discontinued the
+      medication.
+
+
+       Canakinumab and rilonacept — The IL-1 inhibitors canakinumab and
+rilonacept can be effective in patients with AOSD [25,45,50,51]. Unlike anakinra,
+canakinumab (an anti-IL-1 beta monoclonal antibody) is approved for AOSD by
+the US Food and Drug Administration, helping to facilitate access, and is
+administered by monthly subcutaneous injection. For these reasons, it is
+appealing for patients who are unable to obtain anakinra or intolerant of daily
+injections [52]. Canakinumab has been employed as the first biologic in some
+patients with AOSD, although use as first-line therapy before patients have failed
+other treatments has not been reported [50-53].
+
+
+A randomized trial of canakinumab in 36 patients with AOSD revealed results
+consistent with efficacy data in sJIA, although in this small study the formal
+endpoint was not met [52]. Canakinumab is dosed at 4 mg/kg, maximum 300
+mg, by subcutaneous route every four weeks [52]. Canakinumab can be effective
+in patients in whom treatment with anakinra was unsuccessful [50]. Although
+supported by fewer data, rilonacept (an IL-1 trap molecule that is a soluble
+dimeric fusion protein) may be an alternative for patients in whom both anakinra
+and canakinumab have failed [54]. (See "Systemic juvenile idiopathic arthritis:
+Treatment", section on 'Interleukin 1 inhibitors'.)
+
+
+   Interleukin 6 inhibition — Tocilizumab (a blocking antibody directed at the
+IL-6 receptor) is employed in AOSD and sJIA at doses typically higher than those
+used in RA. Clinical trials employed doses of 8 mg/kg intravenously every two
+weeks [55,56]. In practice, for reasons of convenience, we often begin with
+tocilizumab using the subcutaneous route, 162 mg weekly, although intravenous
+dosing and dose escalation can be helpful in some patients who fail to respond
+fully. A role for IL-6 in sJIA was defined in the 1990s and confirmed through a
+randomized trial of the IL-6 receptor antagonist tocilizumab in 2012, showing
+responses both for systemic and arthritic features [55,57,58]. The use and
+adverse effects of tocilizumab are described in further detail separately. (See
+"Treatment of rheumatoid arthritis in adults resistant to initial conventional
+synthetic (nonbiologic) DMARD therapy", section on 'Methotrexate plus IL-6
+inhibitor/IL-6 inhibitor monotherapy' and "Treatment of rheumatoid arthritis in
+adults resistant to initial biologic DMARD therapy", section on 'IL-6 inhibitor
+therapies'.)
+
+
+The benefits of tocilizumab in AOSD have been shown in case series and a small
+randomized trial [59-63]. The findings are illustrated by the following reports:
+   ●  The efficacy and safety of tocilizumab were examined in a randomized trial
+      in Japan involving 27 patients with active AOSD refractory to glucocorticoids
+      (≥0.5 mg/kg daily of prednisolone or equivalent given for more than two
+      weeks) who were randomly assigned to also receive either tocilizumab (8
+      mg/kg intravenously every two weeks) or placebo [59]. A higher proportion
+      of patients achieved an American College of Rheumatology (ACR) response
+      criteria for 50 percent improvement in disease activity (ACR50) response at
+---
+      week 4, although this difference did not reach statistical significance (61.5
+      percent, 95% CI 31.6-86.1 versus 30.8 percent, 95% CI 9.1-61.4, p =
+      0.24). At 12 weeks, patients receiving tocilizumab had greater reductions in
+      systemic features of AOSD based upon the systemic features scoring tool
+      used in the study (least square means for change -4.1 versus -2.3, p =
+      0.003) and greater reductions in glucocorticoid dose (46.2 versus 21.0
+      percent reduction compared with baseline, p = 0.017).
+
+
+      No serious adverse events were noted in the 12-week blinded portion of the
+      trial; serious adverse effects seen with tocilizumab during the 40-week
+      open-label extension included infections, aseptic necrosis in the hips,
+      exacerbation of the AOSD, drug eruption, and anaphylactic shock, but there
+      were no deaths or episodes of MAS. Limitations of the trial included its small
+      size and some imbalances in baseline characteristics of treatment and
+      control groups.
+
+
+   ●  The benefits of IL-6 inhibition were described in a multicenter, open-label,
+      retrospective study of 34 patients with AOSD treated with tocilizumab
+      (usually 8 mg/kg administered intravenously every four weeks [22 of 34
+      patients] or every two weeks [10 of 34 patients]); all patients had failed
+      treatment with glucocorticoids and at least one traditional DMARD (typically
+      MTX), and 50 percent had also received a biologic DMARD, typically a TNF
+      inhibitor or anakinra [61]. Acute phase reactants and systemic
+      manifestations typically improved in the first month of tocilizumab therapy,
+      while the frequency of joint manifestations (arthralgia and/or arthritis)
+      decreased modestly during that interval (from 97 to 68 percent). After one
+      year, the frequency of joint manifestations was reduced to 32 percent. Other
+      findings improved to a greater degree and responses were sustained at one
+      year. Decreases were seen in the frequency of cutaneous manifestations and
+      fever (both from 59 to 6 percent), in lymphadenopathy (from 29 percent to
+      none), and in acute phase reactants. The median dose of prednisone was
+      reduced from 14 to 2.5 mg daily.
+
+
+      Treatment was permanently discontinued in two patients, both with severe
+      infections (one with pyelonephritis and acute enterocolitis and the other with
+      spondylodiscitis and a psoas abscess due to Staphylococcus aureus).
+      Additional, more common adverse effects, none of which required
+      permanent discontinuation of the drug, included other infections (eight
+      cases, including one patient with herpes zoster), mild leukopenia or
+      neutropenia (four patients), and elevated liver enzymes (four patients).
+
+
+The correlation of elevated IL-6 with arthritic presentation in both sJIA and AOSD
+has raised the possibility that tocilizumab may be superior to IL-1 blockade in
+patients with primarily arthritic manifestations [56,64]. Some evidence supports
+this possibility. A retrospective series of 27 patients found that systemic
+symptoms in the absence of arthritis predicted good response to IL-1 blockade
+while an arthritis-dominant phenotype was associated with response to IL-6
+blockade [65]. However, no comparable results were identified in a 140-patient
+series of patients with AOSD treated with IL-1 blockade, and separate trials
+report similar levels of efficacy of canakinumab and tocilizumab against arthritis
+---
+in sJIA, although these agents have not been directly compared [50,55,66].
+
+
+Due to an enhanced risk of gastrointestinal perforation reported with tocilizumab,
+we avoid IL-6 blockade in patients with known diverticulosis [67].
+
+
+   Tumor necrosis factor inhibitors — In patients for whom a TNF inhibitor is
+appropriate, we typically begin with infliximab because the infused route enables
+maximal dosing, since in our experience patients with AOSD often require high-
+dose therapy (eg, infliximab 10 mg/kg monthly).
+
+
+Benefit for patients with AOSD has been reported with etanercept [45,68,69],
+infliximab [45,69-73], and adalimumab [13,45,74], usually in patients who have
+experienced an inadequate response to glucocorticoids and MTX. These benefits
+predominantly affect arthritic features; fever and rash respond inconsistently,
+and TNF inhibition is not effective for MAS.
+
+
+The following data illustrate the range of findings:
+
+
+   ●  Among 12 patients with AOSD resistant to prior DMARD therapy, 7 achieved
+      ACR20 improvement after six months of treatment with etanercept [68]. In
+      three patients with fever and rash at disease entry, only one demonstrated
+      improvement in these disease manifestations.
+   ●  Six patients treated with infliximab experienced resolution of their fever,
+      rash, hepatosplenomegaly, arthralgia, and myalgia after the first series of
+      infusions [72]. Glucocorticoid doses were reduced during the follow-up
+      period of 5 to 28 months suggesting that infliximab had been effective.
+      Similar benefits with infliximab were noted in a second study [73].
+
+
+Case reports and small series indicate that treatment failure, partial response,
+and loss of efficacy over time are not uncommon [69,75]. This was illustrated in
+a series of 20 patients with disease refractory to MTX who were treated with
+etanercept (10 patients), infliximab (15 patients), or both agents sequentially (5
+patients) [69]. The following results were noted:
+
+
+   ●  Complete remissions were observed in 5 patients (1 with etanercept, 4 with
+      infliximab).
+   ●  Partial responses were observed in 11 patients (6 with etanercept, 5 with
+      infliximab).
+   ●  Despite these initial benefits, 17 patients (85 percent) ultimately
+      discontinued treatment with the TNF inhibitor, most often for loss of efficacy
+      (11 patients).
+
+
+The potential adverse effects of TNF inhibitors in AOSD, which are described in
+detail separately, are the same as those in patients with RA. (See "Tumor
+necrosis factor-alpha inhibitors: An overview of adverse effects".)
+
+
+REFRACTORY TO STANDARD THERAPIES — For patients with adult-onset
+Still's disease (AOSD) who fail to respond to well-established therapies, several
+alternate options can be considered:
+
+
+   ●  Janus kinase inhibitors — We employ Janus kinase (JAK) inhibitors in
+      patients with AOSD for whom conventional nonbiologic and biologic
+---
+   treatments have proven insufficient to enable symptom control with no more
+   glucocorticoids than prednisone 5 mg daily or equivalent. The JAK proteins
+   mediate intracellular signaling downstream of multiple cytokines and growth
+   factors, including interleukin (IL) 6 and interferons. Limited data suggest
+   that agents in the class may be useful for patients with systemic juvenile
+   idiopathic arthritis (sJIA)/AOSD [76-78].
+
+
+   In the largest series published, 14 patients with AOSD refractory to
+   prednisone and at least one disease-modifying antirheumatic drug (DMARD)
+   were treated with tofacitinib 5 mg twice daily, resulting in remission in seven
+   and partial response in six, as well as a marked reduction of glucocorticoid
+   requirement [79]. Since interferon gamma appears to play a key pathogenic
+   role in macrophage activation syndrome (MAS), JAK inhibitors may be
+   particularly appealing for AOSD patients with a history of MAS. The use,
+   dosing, and adverse effects of JAK inhibitors are described in further detail
+   separately. (See "Treatment of rheumatoid arthritis in adults resistant to
+   initial conventional synthetic (nonbiologic) DMARD therapy", section on 'JAK
+   inhibitor therapy' and "Treatment of rheumatoid arthritis in adults resistant
+   to initial biologic DMARD therapy", section on 'JAK inhibitors' and "Treatment
+   and prognosis of hemophagocytic lymphohistiocytosis" and "Overview of the
+   Janus kinase inhibitors for rheumatologic and other inflammatory
+   disorders".)
+●  Other agents
+
+
+    •  Cyclosporine – Some evidence suggests that cyclosporine is effective in
+       AOSD [7,13,80-83]. We prefer other agents because of the risks
+       associated with cyclosporine use, including nephrotoxicity. The calcineurin
+       inhibitors cyclosporine and tacrolimus are options for treatment of MAS.
+       (See "Pharmacology of calcineurin inhibitors" and "Cyclosporine and
+       tacrolimus nephrotoxicity" and "Treatment and prognosis of
+       hemophagocytic lymphohistiocytosis".)
+    •  Thalidomide – Thalidomide is effective in some patients with sJIA [84,85].
+       One report identified efficacy in a case of AOSD [86]. Teratogenicity,
+       neuropathy, and cost represent barriers to use, but thalidomide could be
+       considered in carefully selected patients with refractory AOSD.
+    •  Rituximab – Limited data suggest that rituximab, a chimeric monoclonal
+       antibody that depletes peripheral B cells for 6 to 12 months or longer,
+       may be of benefit for the treatment of AOSD that is refractory to other
+       biologic agents [87]. It was reported as effective in AOSD complicated by
+       thrombotic microangiopathy [88]. It is widely used for the treatment of
+       rheumatoid arthritis (RA). (See "Rituximab: Principles of use and adverse
+       effects in rheumatoid arthritis".)
+
+
+    •  Intravenous immune globulin – Intravenous immune globulin has been
+       administered to patients with AOSD, with sustained benefit reported in
+       some patients, particularly in the context of MAS [89-93]. (See "Overview
+       of intravenous immune globulin (IVIG) therapy".)
+---
+       •  Tadekinig alfa – A recombinant IL-18 binding protein, tadekinig alfa is an
+          investigational agent that has shown preliminary evidence of efficacy in
+          some patients with AOSD [94]. This agent is not yet commercially
+          available.
+
+
+       •  Cyclophosphamide - Cyclophosphamide has been employed successfully
+          in AOSD at the case-report level, including in patients with MAS [93,95].
+       •  Combination biologic therapy – This approach is typically avoided because
+          of concerns over synergistic immunosuppression; combination biologics
+          have been employed for some patients with refractory sJIA/AOSD,
+          including anakinra with abatacept and anakinra with the JAK inhibitor
+          baricitinib [77,96].
+       •  Allogeneic bone marrow transplantation – Bone marrow transplantation
+          (allogeneic) has been reported as effective in some patients with
+          refractory sJIA [97,98]. Autologous transplantation has also been
+          reported [97,99,100]. Treatment-related morbidity and mortality remain
+          an important concern for this approach.
+
+
+MONITORING
+
+
+Disease and drug monitoring — Monitoring of the response to therapy
+includes assessment at regular intervals of the clinical and laboratory response as
+well as for adverse effects of medications. Patients with new-onset and
+exacerbations ("flares") of adult-onset Still's disease (AOSD) generally need to be
+seen at least every two to four weeks depending upon treatment and clinical
+status.
+
+
+Patients on a stable medical regimen who are doing well clinically are generally
+seen every three to four months. Clinical, laboratory, and radiologic monitoring of
+disease activity and joint injury is otherwise similar to that performed in patients
+with rheumatoid arthritis (RA). (See "General principles and overview of
+management of rheumatoid arthritis in adults", section on 'Assessment and
+monitoring' and "General principles and overview of management of rheumatoid
+arthritis in adults", section on 'Clinical assessment of disease and related
+testing'.)
+
+
+Particular attention is given to the following:
+
+
+   ●  Medical history – Patients should be asked about fever, rash, new joint
+      swelling, sore throat, and other symptoms that had characterized the
+      patient's illness when disease was active.
+   ●  Laboratory testing – We obtain blood for a complete blood count (CBC),
+      blood urea nitrogen and creatinine, electrolytes, ferritin, D-dimer, and
+      alanine and aspartate aminotransferases (ALT, AST; and additional liver
+      function studies if abnormalities are seen).
+
+
+      Given reports of hepatotoxicity attributed to anakinra, we monitor liver
+      enzymes within two weeks after starting this medication and every two to
+      four months thereafter [101,102].
+---
+      Additional monitoring with most of these studies for macrophage activation
+      syndrome (MAS) is also indicated in patients starting a new medication.
+      (See 'Monitoring for MAS' below.)
+   ●  Monitoring for complications of AOSD – Certain conditions may occur as
+      complications during the course of treatment of AOSD. These include MAS
+      and possibly an AOSD-associated lung disease similar to a condition found in
+      some patients with systemic juvenile idiopathic arthritis (sJIA). We closely
+      monitor for MAS during the early stages of treatment with the introduction
+      of any agent and continue to have a low threshold for considering MAS in
+      any patient with AOSD. (See 'Monitoring for MAS' below and 'Monitoring for
+      lung disease' below.)
+
+
+Information regarding the adverse effects of medications in AOSD is derived from
+case reports, small case series, and a very small number of randomized trials, as
+well as extrapolation from sJIA.
+
+
+Monitoring for MAS — Regular monitoring for MAS is prudent when initiating
+any new treatment for AOSD with active systemic features since MAS is a leading
+cause of death in patients with AOSD [103]. MAS can occur at any time, even
+when a patient's disease is well controlled on biologic therapies, and can occur
+without an obvious trigger [104]. There are no data, other than the infrequent
+reports of MAS associated with certain drug therapies, to indicate any special or
+novel concerns regarding the agents used in the treatment of AOSD. However, in
+patients receiving interleukin (IL) 1 or IL-6 blockade, MAS may initially present
+with attenuated clinical and laboratory features [105].
+
+
+A high degree of suspicion should be maintained as clinical features of MAS may
+strongly resemble features of AOSD. The appearance of MAS in patients with
+AOSD is typically heralded by a recurrence of systemic symptoms, including fever
+and rash, although this is not invariably the case. The physical examination may
+reveal lymphadenopathy and/or hepatosplenomegaly.
+
+
+In patients starting a new medication for AOSD, including nonsteroidal
+antiinflammatory drugs (NSAIDs), we obtain the following laboratory studies
+every two weeks initially and with any escalation of the dose:
+
+
+   ●  CBC, differential white count, and platelet count
+   ●  AST and ALT
+   ●  Ferritin
+   ●  Erythrocyte sedimentation rate (ESR) and C-reactive protein (CRP)
+   ●  D-dimer
+
+
+The most specific routine laboratory finding is ferritin, which frequently rises to
+levels >5000 ng/L, although concomitant therapy with tocilizumab and, to a
+lesser extent, IL-1 blockers can blunt this rise [105]. CRP rises as a reflection of
+inflammation, though the ESR may fall paradoxically through fibrinogen
+consumption, leading to a marked increase in the ratio between ferritin and ESR
+[106]. D-dimer reflects intravascular coagulation; commonly elevated in active
+sJIA/AOSD, a marked increase is typically seen in MAS. Additional changes in
+routine laboratory studies include leukopenia, anemia, thrombocytopenia, and
+---
+increases in hepatic transaminases [10].
+
+
+The frequency of testing can be decreased to monthly if the dose is stable and if
+the aminotransferases remain within the normal range. Testing can be decreased
+to every three months after the liver function studies have remained normal for
+at least three months on a stable drug regimen.
+
+
+Patients suspected of MAS should be immediately referred for consultation with a
+rheumatologist or hematologist with expertise in hemophagocytic syndromes
+associated with autoimmune and inflammatory diseases. (See "Clinical
+manifestations and diagnosis of adult-onset Still's disease", section on
+'Macrophage activation syndrome' and "Clinical features and diagnosis of
+hemophagocytic lymphohistiocytosis", section on 'Triggers' and "Clinical features
+and diagnosis of hemophagocytic lymphohistiocytosis", section on 'Rheumatologic
+disorders/MAS'.)
+
+
+Monitoring for lung disease — Clinicians should be attentive to a novel and
+potentially serious pulmonary complication of sJIA, and possible AOSD, described
+since the early 2000s in case reports and case series; in sJIA, this has been
+termed sJIA-lung disease (sJIA-LD) [107-109]. Lung disease in patients with
+AOSD was reported in one series in 18 of 147 patients, in whom it was associated
+with higher mortality, typically from refractory MAS rather than the lung disease
+itself; whether these cases correspond to sJIA-LD is unclear [110]. However,
+clinicians caring for patients with AOSD, especially those receiving IL-1 or IL-6
+inhibitors, should be aware of this association, although risk in patients with
+AOSD is not fully defined [111].
+
+
+In sJIA this syndrome has been found most commonly in patients whose disease
+begins at a young age (many under two years) and who have a history of
+episodes of MAS; laboratory correlates include elevation of IL-18 and, in many
+patients, a striking eosinophilia [108,109]. Further clinical associations include
+trisomy 21, erythematous clubbing of the digits, and, in 30 percent, a history of
+anaphylactic-type reactions to infused tocilizumab [109]. Most but not all affected
+children have received IL-1 inhibitors and often also IL-6 inhibitors, raising the
+possibility that sJIA-LD could represent a complication of therapy or, alternately,
+of reduced use of glucocorticoids and methotrexate (MTX) [109,111].
+
+
+MEDICATION TAPERING AND DURATION OF THERAPY — A substantial
+portion of patients with adult-onset Still's disease (AOSD) are ultimately able to
+come entirely off therapy, unlike patients with other chronic inflammatory
+rheumatic diseases such as rheumatoid arthritis (RA) (see "Clinical
+manifestations and diagnosis of adult-onset Still's disease"). Some of these
+patients may have been destined to experience a "monocyclic" form of AOSD
+(analogous to monocyclic systemic juvenile idiopathic arthritis [sJIA]). It is
+possible that aggressive therapy given during a "window of opportunity" in early
+disease may favorably impact the disease course [12,16,20]. Protocols for
+tapering and discontinuation of disease-modifying antirheumatic drugs (DMARDs)
+in AOSD are not available.
+
+
+For patients in complete remission for at least three months, we gradually taper
+medications with the goal of drug discontinuation. Conventional synthetic
+---
+DMARDs such as methotrexate (MTX) are typically weaned by a gradual reduction
+of the dose by 2.5 to 5 mg every two to three months, whereas for biologic
+agents, extending the interval between doses may be modestly preferable
+[16,112,113].
+
+
+As examples, we take the following approach to tapering of biologic DMARDs
+based upon our clinical experience and that of other experts:
+    ●  Anakinra – We wean anakinra to every other day for one month followed by
+       discontinuation, cautioning patients to keep 7 to 14 doses of anakinra on
+       hand to allow immediate resumption of treatment if disease recurs [16].
+
+
+    ●  Canakinumab – For canakinumab, we increase the interval from monthly to
+       every other month for two infusions and then to every three months for two
+       infusions before discontinuing [112].
+    ●  Tocilizumab – For tocilizumab, we space injections from weekly to every
+       other week for two months and then to monthly for two months before
+       discontinuing; infusions are spaced to monthly and then every other month
+       (two infusions at each step) before ending therapy.
+
+
+In patients in whom disease recurs, we return to full-intensity therapy to regain
+control before tapering again to the lowest tolerated dose or dose frequency.
+
+
+TREATMENT OF RELAPSE — The treatment of choice in a patient who relapses
+while on therapy or after discontinuation of treatment depends upon the
+symptoms and findings, including the extent and severity of organ system
+involvement, as well as the intensity of the inflammatory response:
+
+
+    ●  Flare during tapering – Increasing medication doses to the level
+       previously effective may be adequate in patients who flare during the
+       tapering of medications. (See 'Medication tapering and duration of therapy'
+       above and 'Subsequent therapy: Established disease' above.)
+    ●  Mild symptoms – In general, mild symptoms can be addressed using
+       nonsteroidal antiinflammatory drug (NSAIDs). (See 'Mild to moderate
+       disease' above and 'Treatment approach' above.)
+    ●  Systemic symptoms – Systemic symptoms such as fever and rash require
+       biologic therapy and/or glucocorticoids, with careful monitoring for incipient
+       macrophage activation syndrome (MAS). (See 'Monitoring for MAS' above.)
+
+
+    ●  Arthritis – Arthritis can be addressed by conventional disease-modifying
+       antirheumatic drugs (DMARDs) such as methotrexate (MTX) or leflunomide
+       (LEF), or by institution or change in biologic therapy (favoring interleukin
+       [IL] 6 blockade). Incipient or active MAS requires glucocorticoids, often
+       together with IL-1 blockade or other agents. In patients who flare during the
+       tapering of medications, increasing medication doses to the level previously
+       effective may be adequate. (See 'Initial therapy: New-onset disease' above
+       and 'Subsequent therapy: Established disease' above.)
+
+
+    ●  Severe disease – In patients with severe relapses or with the new
+       development of life-threatening disease manifestations, a modification of
+---
+      therapy to incorporate an approach similar to that used for initial severe
+      disease may be required, depending upon the specific medications to which
+      the patient has previously responded or with which they are being treated at
+      the time of the clinical change. (See 'Initial therapy: New-onset disease'
+      above and 'Subsequent therapy: Established disease' above.)
+
+
+PROGNOSIS — The functional status of patients with adult-onset Still's disease
+(AOSD) is often good, even in the setting of a chronic disease pattern. Several
+predictors of chronic disease and of an unfavorable outcome have been described
+in AOSD [14,114,115]:
+
+
+   ●  Development of an erosive polyarthritis during the initial presenting episode
+      of disease
+   ●  Involvement of the shoulders or hips
+   ●  A history of macrophage activation syndrome (MAS)
+   ●  A history of cardiac involvement, including pericarditis
+
+
+Prior to routine use of biologics, the need for more than two years of systemic
+glucocorticoid therapy was also a poor prognostic factor.
+
+
+In one series published in 1991 of 62 patients with AOSD, 36 percent had a
+chronic disease course, but 90 percent were judged to be American College of
+Rheumatology (ACR) Functional Class 1 (able to perform usual activities of daily
+living, including self-care, vocational, and avocational activities) [14,116]. In
+findings published in 1987, polyarticular onset and chronic joint involvement were
+associated with a poorer functional outcome, but systemic symptoms were not;
+joint arthroplasty significantly improved the functional status of AOSD patients
+with chronic destructive arthritis [15]. These observations were made prior the
+standard use of biologic agents in this condition. No prospective long-term
+studies of patients with AOSD receiving early biologic therapy are available.
+
+
+Chronic active inflammation resistant to treatment can lead to AA (secondary)
+amyloidosis [117-119]. Use of anti-interleukin (IL) 1 therapies may prevent
+progression of amyloid but may not treat extant disease [120]. (See "Causes and
+diagnosis of AA amyloidosis and relation to rheumatic diseases".)
+
+
+SOCIETY GUIDELINE LINKS — Links to society and government-sponsored
+guidelines from selected countries and regions around the world are provided
+separately. (See "Society guideline links: Adult-onset Still's disease".)
+
+
+SUMMARY AND RECOMMENDATIONS
+   ●  New-onset adult-onset Still’s disease (AOSD)
+       •  Mild disease – For patients with mild disease, such as fevers, rash,
+          arthralgias, or mild arthritis, and in the absence of macrophage activation
+          syndrome (MAS), we suggest initial therapy with antiinflammatory doses
+          of a nonsteroidal antiinflammatory drug (NSAID) rather than
+          glucocorticoids or conventional or biologic disease-modifying
+          antirheumatic drugs (DMARDs) (Grade 2C). An antiinflammatory dose
+          and regimen should be used (eg, naproxen [500 mg twice daily],
+          ibuprofen [800 mg three times daily]). (See 'Approach to initial therapy'
+---
+       above and 'Mild to moderate disease' above.)
+    •  Moderate to severe disease – For patients with moderate to severe
+       AOSD, which may include serositis, debilitating arthritis, fevers refractory
+       to NSAIDs, or internal organ involvement, and for patients in whom two
+       weeks of NSAIDs are insufficient, we suggest anakinra rather than either
+       NSAIDs alone, glucocorticoids, or another DMARD (Grade 2C). Our usual
+       initial dose is 100 mg subcutaneously daily. Glucocorticoids (20 to 60 mg
+       orally daily, depending upon the severity of disease and the initial
+       response) are a reasonable alternative if anakinra is unavailable. (See
+       'Approach to initial therapy' above and 'Moderate to severe disease'
+       above.)
+    •  Concern for MAS – For patients in whom incipient or active MAS
+       remains a concern, we suggest combining anakinra with glucocorticoid
+       therapy, rather than using a single agent (Grade 2C). (See 'Concern for
+       incipient or active MAS' above.)
+●  Management of established disease
+    •  Glucocorticoid-sparing therapy – For patients unable to reduce
+       glucocorticoids to ≤10 mg daily of prednisone (or equivalent) after one
+       month of therapy, we suggest the addition of a glucocorticoid-sparing
+       DMARD rather than continuing the same level of glucocorticoid therapy
+       (Grade 2C). (See 'Treatment approach' above and 'Glucocorticoid-
+       sparing therapy for chronic management' above.).
+
+
+         -  For patients with arthritis (including any evidence of erosive joint
+            disease on joint radiographs), we prefer methotrexate (MTX).
+            Alternatives to MTX include leflunomide (LEF) and tocilizumab or
+            other interleukin (IL) 6 inhibitor. (See 'Methotrexate and other
+            conventional DMARDs' above and 'Interleukin 6 inhibition' above.)
+
+
+         -  For patients with arthritis that has not responded to conventional
+            DMARDs (MTX or LEF) and who are also refractory to IL-1 and IL-6
+            inhibition, a tumor necrosis factor (TNF) inhibitor may be used; we
+            limit its use in AOSD to refractory arthritis. (See 'Tumor necrosis
+            factor inhibitors' above.)
+
+
+         -  For patients with predominantly systemic symptoms and/or
+            suspected incipient MAS, we prefer anakinra, an IL-1 inhibitor.
+            Canakinumab is a reasonable alternative to anakinra. (See 'Anakinra'
+            above.)
+
+
+    •  Monitoring – Monitoring of the response to therapy includes assessment
+       at regular intervals of the clinical and laboratory response as well as for
+       adverse effects of medications. Usual laboratory monitoring includes a
+       complete blood count (CBC), blood urea nitrogen and creatinine,
+       electrolytes, ferritin, D-dimer, and alanine and aspartate
+       aminotransferases (ALT, AST). (See 'Disease and drug monitoring' above
+       and 'Monitoring for MAS' above.)
+---
+       •  Duration of therapy – For patients in complete remission for at least
+          three months, we gradually taper medications with the goal of drug
+          discontinuation. (See 'Medication tapering and duration of therapy'
+          above.)
+
+
+       •  Treatment of relapse – Treatment for patients who relapse while on
+          therapy or after discontinuation of treatment depends upon the
+          symptoms and findings, including the extent and severity of organ
+          system involvement, as well as the intensity of the inflammatory
+          response. Increasing medication doses to the level previously effective
+          may be adequate in patients who flare during the tapering of
+          medications. (See 'Treatment of relapse' above.)
+
+
+ACKNOWLEDGMENT — The UpToDate editorial staff acknowledges John M
+Esdaile, MD, who contributed to an earlier version of this topic review.
+
+
+                                            REFERENCES
+
+
+  1.  Still GF. On a Form of Chronic Joint Disease in Children. Med Chir Trans
+      1897; 80:47.
+  2.  Still GF. On a form of chronic joint disease in children. Arch Dis Child 1941;
+      16:156.
+  3.  Bywaters EG. Still's disease in the adult. Ann Rheum Dis 1971; 30:121.
+  4.  Nigrovic PA, Colbert RA, Holers VM, et al. Biological classification of
+      childhood arthritis: roadmap to a molecular nomenclature. Nat Rev
+      Rheumatol 2021; 17:257.
+  5.  Reginato AJ, Schumacher HR Jr, Baker DG, et al. Adult onset Still's disease:
+      experience in 23 patients and literature review with emphasis on organ
+      failure. Semin Arthritis Rheum 1987; 17:39.
+  6.  Jung JH, Jun JB, Yoo DH, et al. High toxicity of sulfasalazine in adult-onset
+      Still's disease. Clin Exp Rheumatol 2000; 18:245.
+  7.  Stern A, Riley R, Buckley L. Worsening of macrophage activation syndrome
+      in a patient with adult onset Still's disease after initiation of etanercept
+      therapy. J Clin Rheumatol 2001; 7:252.
+  8.  Banse C, Vittecoq O, Benhamou Y, et al. Reactive macrophage activation
+      syndrome possibly triggered by canakinumab in a patient with adult-onset
+      Still's disease. Joint Bone Spine 2013; 80:653.
+  9.  Kobayashi M, Takahashi Y, Yamashita H, et al. Benefit and a possible risk of
+      tocilizumab therapy for adult-onset Still's disease accompanied by
+      macrophage-activation syndrome. Mod Rheumatol 2011; 21:92.
+10.   Ravelli A, Minoia F, Davì S, et al. 2016 Classification Criteria for Macrophage
+      Activation Syndrome Complicating Systemic Juvenile Idiopathic Arthritis: A
+      European League Against Rheumatism/American College of
+      Rheumatology/Paediatric Rheumatology International Trials Organisation
+      Collaborative Initiative. Arthritis Rheumatol 2016; 68:566.
+11.   Ahn SS, Yoo BW, Jung SM, et al. Application of the 2016
+      EULAR/ACR/PRINTO Classification Criteria for Macrophage Activation
+      Syndrome in Patients with Adult-onset Still Disease. J Rheumatol 2017;
+---
+     44:996.
+12.  Nigrovic PA. Review: is there a window of opportunity for treatment of
+     systemic juvenile idiopathic arthritis? Arthritis Rheumatol 2014; 66:1405.
+13.  Franchini S, Dagna L, Salvo F, et al. Efficacy of traditional and biologic
+     agents in different clinical phenotypes of adult-onset Still's disease. Arthritis
+     Rheum 2010; 62:2530.
+14.  Pouchot J, Sampalis JS, Beaudet F, et al. Adult Still's disease:
+     manifestations, disease course, and outcome in 62 patients. Medicine
+     (Baltimore) 1991; 70:118.
+15.  Cush JJ, Medsger TA Jr, Christy WC, et al. Adult-onset Still's disease. Clinical
+     course and outcome. Arthritis Rheum 1987; 30:186.
+16.  Ter Haar NM, van Dijkhuizen EHP, Swart JF, et al. Treatment to Target Using
+     Recombinant Interleukin-1 Receptor Antagonist as First-Line Monotherapy in
+     New-Onset Systemic Juvenile Idiopathic Arthritis: Results From a Five-Year
+     Follow-Up Study. Arthritis Rheumatol 2019; 71:1163.
+17.  Wouters JM, van de Putte LB. Adult-onset Still's disease; clinical and
+     laboratory features, treatment and progress of 45 cases. Q J Med 1986;
+     61:1055.
+18.  Khraishi M, Fam AG. Treatment of fulminant adult Still's disease with
+     intravenous pulse methylprednisolone therapy. J Rheumatol 1991; 18:1088.
+19.  Bisagni-Faure A, Job-Deslandre C, Menkes CJ. Intravenous
+     methylprednisolone pulse therapy in Still's disease. J Rheumatol 1992;
+     19:1487.
+20.  Nigrovic PA, Mannion M, Prince FH, et al. Anakinra as first-line disease-
+     modifying therapy in systemic juvenile idiopathic arthritis: report of forty-six
+     patients from an international multicenter series. Arthritis Rheum 2011;
+     63:545.
+21.  Vastert SJ, de Jager W, Noordman BJ, et al. Effectiveness of first-line
+     treatment with recombinant interleukin-1 receptor antagonist in steroid-
+     naive patients with new-onset systemic juvenile idiopathic arthritis: results
+     of a prospective cohort study. Arthritis Rheumatol 2014; 66:1034.
+22.  Pardeo M, Rossi MN, Pires Marafon D, et al. Early Treatment and IL1RN
+     Single-Nucleotide Polymorphisms Affect Response to Anakinra in
+     Systemic Juvenile Idiopathic Arthritis. Arthritis Rheumatol 2021; 73:1053.
+23.  Fisher CJ Jr, Dhainaut JF, Opal SM, et al. Recombinant human interleukin 1
+     receptor antagonist in the treatment of patients with sepsis syndrome.
+     Results from a randomized, double-blind, placebo-controlled trial. Phase III
+     rhIL-1ra Sepsis Syndrome Study Group. JAMA 1994; 271:1836.
+24.  Opal SM, Fisher CJ Jr, Dhainaut JF, et al. Confirmatory interleukin-1 receptor
+     antagonist trial in severe sepsis: a phase III, randomized, double-blind,
+     placebo-controlled, multicenter trial. The Interleukin-1 Receptor Antagonist
+     Sepsis Investigator Group. Crit Care Med 1997; 25:1115.
+25.  Vastert SJ, Jamilloux Y, Quartier P, et al. Anakinra in children and adults
+     with Still's disease. Rheumatology (Oxford) 2019; 58:vi9.
+26.  Colafrancesco S, Manara M, Bortoluzzi A, et al. Management of adult-onset
+---
+     Still's disease with interleukin-1 inhibitors: evidence- and consensus-based
+     statements by a panel of Italian experts. Arthritis Res Ther 2019; 21:275.
+27.  Nigrovic PA. Autoinflammation and autoimmunity in systemic juvenile
+     idiopathic arthritis. Proc Natl Acad Sci U S A 2015; 112:15785.
+28.  Kessel C, Lippitz K, Weinhage T, et al. Proinflammatory Cytokine
+     Environments Can Drive Interleukin-17 Overexpression by γ/δ T Cells in
+     Systemic Juvenile Idiopathic Arthritis. Arthritis Rheumatol 2017; 69:1480.
+29.  Henderson LA, Hoyt KJ, Lee PY, et al. Th17 reprogramming of T cells in
+     systemic juvenile idiopathic arthritis. JCI Insight 2020; 5.
+30.  Ruscitti P, Cipriani P, Liakouli V, et al. Managing Adult-onset Still's disease:
+     The effectiveness of high-dosage of corticosteroids as first-line treatment in
+     inducing the clinical remission. Results from an observational study.
+     Medicine (Baltimore) 2019; 98:e15123.
+31.  Oen K, Duffy CM, Tse SM, et al. Early outcomes and improvement of
+     patients with juvenile idiopathic arthritis enrolled in a Canadian multicenter
+     inception cohort. Arthritis Care Res (Hoboken) 2010; 62:527.
+32.  Mehta P, Cron RQ, Hartwell J, et al. Silencing the cytokine storm: the use of
+     intravenous anakinra in haemophagocytic lymphohistiocytosis or
+     macrophage activation syndrome. Lancet Rheumatol 2020; 2:e358.
+33.  Eloseily EM, Weiser P, Crayne CB, et al. Benefit of Anakinra in Treating
+     Pediatric Secondary Hemophagocytic Lymphohistiocytosis. Arthritis
+     Rheumatol 2020; 72:326.
+34.  Simeni Njonnou SR, Soyfoo MS, Vandergheynst FA. Efficacy of sarilumab in
+     adult-onset Still's disease as a corticosteroid-sparing agent. Rheumatology
+     (Oxford) 2019; 58:1878.
+35.  Kalyoncu U, Solmaz D, Emmungil H, et al. Response rate of initial
+     conventional treatments, disease course, and related factors of patients with
+     adult-onset Still's disease: Data from a large multicenter cohort. J
+     Autoimmun 2016; 69:59.
+36.  Hu QY, Zeng T, Sun CY, et al. Clinical features and current treatments of
+     adult-onset Still's disease: a multicentre survey of 517 patients in China.
+     Clin Exp Rheumatol 2019; 37 Suppl 121:52.
+37.  Fautrel B, Borget C, Rozenberg S, et al. Corticosteroid sparing effect of low
+     dose methotrexate treatment in adult Still's disease. J Rheumatol 1999;
+     26:373.
+38.  Ruscitti P, Sota J, Vitale A, et al. The administration of methotrexate in
+     patients with Still's disease, "real-life" findings from AIDA Network Still
+     Disease Registry. Semin Arthritis Rheum 2023; 62:152244.
+39.  Woo P, Southwood TR, Prieur AM, et al. Randomized, placebo-controlled,
+     crossover trial of low-dose oral methotrexate in children with extended
+     oligoarticular or systemic arthritis. Arthritis Rheum 2000; 43:1849.
+40.  Alcântara AC, Leite CA, Leite AC, et al. A longterm prospective real-life
+     experience with leflunomide in juvenile idiopathic arthritis. J Rheumatol
+     2014; 41:338.
+41.  Sayarlioglu M, Ucmak H, Ozkaya M, et al. Leflunomide and methotrexate
+---
+     combination in refractory adult-onset Still's disease. Ann Pharmacother
+     2007; 41:1319.
+42.  Weinblatt ME, Kremer JM, Coblyn JS, et al. Pharmacokinetics, safety, and
+     efficacy of combination treatment with methotrexate and leflunomide in
+     patients with active rheumatoid arthritis. Arthritis Rheum 1999; 42:1322.
+43.  Weinblatt ME, Dixon JA, Falchuk KR. Serious liver disease in a patient
+     receiving methotrexate and leflunomide. Arthritis Rheum 2000; 43:2609.
+44.  Fitzgerald AA, Leclercq SA, Yan A, et al. Rapid responses to anakinra in
+     patients with refractory adult-onset Still's disease. Arthritis Rheum 2005;
+     52:1794.
+45.  Gerfaud-Valentin M, Maucort-Boulch D, Hot A, et al. Adult-onset still
+     disease: manifestations, treatment, outcome, and prognostic factors in 57
+     patients. Medicine (Baltimore) 2014; 93:91.
+46.  Nordström D, Knight A, Luukkainen R, et al. Beneficial effect of interleukin 1
+     inhibition with anakinra in adult-onset Still's disease. An open, randomized,
+     multicenter study. J Rheumatol 2012; 39:2008.
+47.  Kalliolias GD, Georgiou PE, Antonopoulos IA, et al. Anakinra treatment in
+     patients with adult-onset Still's disease is fast, effective, safe and steroid
+     sparing: experience from an uncontrolled trial. Ann Rheum Dis 2007;
+     66:842.
+48.  Lequerré T, Quartier P, Rosellini D, et al. Interleukin-1 receptor antagonist
+     (anakinra) treatment in patients with systemic-onset juvenile idiopathic
+     arthritis or adult onset Still disease: preliminary experience in France. Ann
+     Rheum Dis 2008; 67:302.
+49.  Giampietro C, Ridene M, Lequerre T, et al. Anakinra in adult-onset Still's
+     disease: long-term treatment in patients resistant to conventional therapy.
+     Arthritis Care Res (Hoboken) 2013; 65:822.
+50.  Ruperto N, Brunner HI, Quartier P, et al. Two randomized trials of
+     canakinumab in systemic juvenile idiopathic arthritis. N Engl J Med 2012;
+     367:2396.
+51.  Brunner HI, Quartier P, Alexeeva E, et al. Efficacy and Safety of
+     Canakinumab in Patients With Systemic Juvenile Idiopathic Arthritis With
+     and Without Fever at Baseline: Results From an Open-Label, Active-
+     Treatment Extension Study. Arthritis Rheumatol 2020; 72:2147.
+52.  Kedor C, Listing J, Zernicke J, et al. Canakinumab for Treatment of Adult-
+     Onset Still's Disease to Achieve Reduction of Arthritic Manifestation
+     (CONSIDER): phase II, randomised, double-blind, placebo-controlled,
+     multicentre, investigator-initiated trial. Ann Rheum Dis 2020; 79:1090.
+53.  Cavalli G, Tomelleri A, De Luca G, et al. Efficacy of canakinumab as first-line
+     biologic agent in adult-onset Still's disease. Arthritis Res Ther 2019; 21:54.
+54.  Petryna O, Cush JJ, Efthimiou P. IL-1 Trap rilonacept in refractory adult
+     onset Still's disease. Ann Rheum Dis 2012; 71:2056.
+55.  De Benedetti F, Brunner HI, Ruperto N, et al. Randomized trial of
+     tocilizumab in systemic juvenile idiopathic arthritis. N Engl J Med 2012;
+     367:2385.
+---
+56.  Shimizu M, Nakagishi Y, Yachie A. Distinct subsets of patients with systemic
+     juvenile idiopathic arthritis based on their cytokine profiles. Cytokine 2013;
+     61:345.
+57.  de Benedetti F, Massa M, Robbioni P, et al. Correlation of serum interleukin-
+     6 levels with joint involvement and thrombocytosis in systemic juvenile
+     rheumatoid arthritis. Arthritis Rheum 1991; 34:1158.
+58.  De Benedetti F, Massa M, Pignatti P, et al. Serum soluble interleukin 6 (IL-6)
+     receptor and IL-6/soluble IL-6 receptor complex in systemic juvenile
+     rheumatoid arthritis. J Clin Invest 1994; 93:2114.
+59.  Kaneko Y, Kameda H, Ikeda K, et al. Tocilizumab in patients with adult-
+     onset still's disease refractory to glucocorticoid treatment: a randomised,
+     double-blind, placebo-controlled phase III trial. Ann Rheum Dis 2018;
+     77:1720.
+60.  De Bandt M, Saint-Marcoux B. Tocilizumab for multirefractory adult-onset
+     Still's disease. Ann Rheum Dis 2009; 68:153.
+61.  Ortiz-Sanjuán F, Blanco R, Calvo-Rio V, et al. Efficacy of tocilizumab in
+     conventional treatment-refractory adult-onset Still's disease: multicenter
+     retrospective open-label study of thirty-four patients. Arthritis Rheumatol
+     2014; 66:1659.
+62.  Suematsu R, Ohta A, Matsuura E, et al. Therapeutic response of patients
+     with adult Still's disease to biologic agents: multicenter results in Japan. Mod
+     Rheumatol 2012; 22:712.
+63.  Puéchal X, DeBandt M, Berthelot JM, et al. Tocilizumab in refractory adult
+     Still's disease. Arthritis Care Res (Hoboken) 2011; 63:155.
+64.  Inoue N, Shimizu M, Tsunoda S, et al. Cytokine profile in adult-onset Still's
+     disease: Comparison with systemic juvenile idiopathic arthritis. Clin
+     Immunol 2016; 169:8.
+65.  Vercruysse F, Barnetche T, Lazaro E, et al. Adult-onset Still's disease
+     biological treatment strategy may depend on the phenotypic dichotomy.
+     Arthritis Res Ther 2019; 21:53.
+66.  Colafrancesco S, Priori R, Valesini G, et al. Response to Interleukin-1
+     Inhibitors in 140 Italian Patients with Adult-Onset Still's Disease: A
+     Multicentre Retrospective Observational Study. Front Pharmacol 2017;
+     8:369.
+67.  Strangfeld A, Richter A, Siegmund B, et al. Risk for lower intestinal
+     perforations in patients with rheumatoid arthritis treated with tocilizumab in
+     comparison to treatment with other biologic or conventional synthetic
+     DMARDs. Ann Rheum Dis 2017; 76:504.
+68.  Husni ME, Maier AL, Mease PJ, et al. Etanercept in the treatment of adult
+     patients with Still's disease. Arthritis Rheum 2002; 46:1171.
+69.  Fautrel B, Sibilia J, Mariette X, et al. Tumour necrosis factor alpha blocking
+     agents in refractory adult Still's disease: an observational study of 20 cases.
+     Ann Rheum Dis 2005; 64:262.
+70.  Cavagna L, Caporali R, Epis O, et al. Infliximab in the treatment of adult
+     Still's disease refractory to conventional therapy. Clin Exp Rheumatol 2001;
+     19:329.
+---
+71.  Caramaschi P, Biasi D, Carletto A, Bambara LM. A case of adult onset Still's
+     disease treated with infliximab. Clin Exp Rheumatol 2002; 20:113.
+72.  Kraetsch HG, Antoni C, Kalden JR, Manger B. Successful treatment of a
+     small cohort of patients with adult onset of Still's disease with infliximab:
+     first experiences. Ann Rheum Dis 2001; 60 Suppl 3:iii55.
+73.  Kokkinos A, Iliopoulos A, Greka P, et al. Successful treatment of refractory
+     adult-onset Still's disease with infliximab. A prospective, non-comparative
+     series of four patients. Clin Rheumatol 2004; 23:45.
+74.  Benucci M, Li GF, Del Rosso A, Manfredi M. Adalimumab (anti-TNF-alpha)
+     therapy to improve the clinical course of adult-onset Still's disease: the first
+     case report. Clin Exp Rheumatol 2005; 23:733.
+75.  Aarntzen EH, van Riel PL, Barrera P. Refractory adult onset Still's disease
+     and hypersensitivity to non-steroidal anti-inflammatory drugs and cyclo-
+     oxygenase-2 inhibitors: are biological agents the solution? Ann Rheum Dis
+     2005; 64:1523.
+76.  Huang Z, Lee PY, Yao X, et al. Tofacitinib Treatment of Refractory Systemic
+     Juvenile Idiopathic Arthritis. Pediatrics 2019; 143.
+77.  Ladhari C, Jorgensen C, Pers YM. Treatment of refractory adult onset Still's
+     disease with combination anakinra and baricitinib therapy. Rheumatology
+     (Oxford) 2019; 58:736.
+78.  Honda M, Moriyama M, Kondo M, et al. Tofacitinib-induced remission in
+     refractory adult-onset Still's disease complicated by macrophage activation
+     syndrome. Scand J Rheumatol 2020; 49:336.
+79.  Hu Q, Wang M, Jia J, et al. Tofacitinib in refractory adult-onset Still's
+     disease: 14 cases from a single centre in China. Ann Rheum Dis 2020;
+     79:842.
+80.  Shojania K, Chalmers A, Rangno K. Cyclosporin A in the treatment of adult
+     Still's disease. J Rheumatol 1995; 22:1391.
+81.  Omagari K, Matsunaga Y, Yamashita H, et al. Successful treatment with
+     cyclosporin in adult-onset Still disease manifesting as acute hepatitis with
+     marked hyperferritinemia. Am J Med Sci 2003; 326:148.
+82.  Marchesoni A, Ceravolo GP, Battafarano N, et al. Cyclosporin A in the
+     treatment of adult onset Still's disease. J Rheumatol 1997; 24:1582.
+83.  Mitamura M, Tada Y, Koarada S, et al. Cyclosporin A treatment for Japanese
+     patients with severe adult-onset Still's disease. Mod Rheumatol 2009;
+     19:57.
+84.  Lehman TJ, Schechter SJ, Sundel RP, et al. Thalidomide for severe systemic
+     onset juvenile rheumatoid arthritis: A multicenter study. J Pediatr 2004;
+     145:856.
+85.  García-Carrasco M, Fuentes-Alexandro S, Escárcega RO, et al. Efficacy of
+     thalidomide in systemic onset juvenile rheumatoid arthritis. Joint Bone Spine
+     2007; 74:500.
+86.  Meaux-Ruault N, Magy N, Gil H, Dupond JL. Efficacy of thalidomide in
+     refractory adult Still's disease: a new case report. Clin Exp Rheumatol 2003;
+     21:272.
+---
+  87.  Ahmadi-Simab K, Lamprecht P, Jankowiak C, Gross WL. Successful
+       treatment of refractory adult onset Still's disease with rituximab. Ann Rheum
+       Dis 2006; 65:1117.
+  88.  Lee WS, Yoo WH. Rituximab for refractory adult-onset Still's disease with
+       thrombotic microangiopathy. Rheumatology (Oxford) 2014; 53:1717.
+  89.  Mahmud T, Hughes GR. Intravenous immunoglobulin in the treatment of
+       refractory adult Still's disease. J Rheumatol 1999; 26:2067.
+  90.  Bennett AN, Peterson P, Sangle S, et al. Adult onset Still's disease and
+       collapsing glomerulopathy: successful treatment with intravenous
+       immunoglobulins and mycophenolate mofetil. Rheumatology (Oxford) 2004;
+       43:795.
+  91.  Vignes S, Wechsler B, Amoura Z, et al. Intravenous immunoglobulin in adult
+       Still's disease refractory to non-steroidal anti-inflammatory drugs. Clin Exp
+       Rheumatol 1998; 16:295.
+  92.  Permal S, Wechsler B, Cabane J, et al. [Treatment of Still disease in adults
+       with intravenous immunoglobulins]. Rev Med Interne 1995; 16:250.
+  93.  Hot A, Toh ML, Coppéré B, et al. Reactive hemophagocytic syndrome in
+       adult-onset Still disease: clinical features and long-term outcome: a case-
+       control study of 8 patients. Medicine (Baltimore) 2010; 89:37.
+  94.  Gabay C, Fautrel B, Rech J, et al. Open-label, multicentre, dose-escalating
+       phase II clinical trial on the safety and efficacy of tadekinig alfa (IL-18BP) in
+       adult-onset Still's disease. Ann Rheum Dis 2018; 77:840.
+  95.  Tsuji Y, Iwanaga N, Adachi A, et al. Successful Treatment with Intravenous
+       Cyclophosphamide for Refractory Adult-Onset Still's Disease. Case Rep
+       Rheumatol 2015; 2015:163952.
+  96.  Record JL, Beukelman T, Cron RQ. Combination therapy of abatacept and
+       anakinra in children with refractory systemic juvenile idiopathic arthritis: a
+       retrospective case series. J Rheumatol 2011; 38:180.
+  97.  M F Silva J, Ladomenou F, Carpenter B, et al. Allogeneic hematopoietic stem
+       cell transplantation for severe, refractory juvenile idiopathic arthritis. Blood
+       Adv 2018; 2:777.
+  98.  Morelle G, Castelle M, Pinto G, et al. Sustained remission after haploidentical
+       bone marrow transplantation in a child with refractory systemic juvenile
+       idiopathic arthritis. Pediatr Rheumatol Online J 2021; 19:27.
+  99.  De Kleer IM, Brinkman DM, Ferster A, et al. Autologous stem cell
+       transplantation for refractory juvenile idiopathic arthritis: analysis of clinical
+       effects, mortality, and transplant related morbidity. Ann Rheum Dis 2004;
+       63:1318.
+100.   Brinkman DM, de Kleer IM, ten Cate R, et al. Autologous stem cell
+       transplantation in children with severe progressive systemic or polyarticular
+       juvenile idiopathic arthritis: long-term follow-up of a prospective clinical
+       trial. Arthritis Rheum 2007; 56:2410.
+101.   Ahmed O, Brahmania M, Alsahafi M, et al. Anakinra Hepatotoxicity in a
+       Patient With Adult-Onset Still's Disease. ACG Case Rep J 2015; 2:173.
+102.   Canna S, Frankovich J, Higgins G, et al. Acute hepatitis in three patients
+---
+      with systemic juvenile idiopathic arthritis taking interleukin-1 receptor
+      antagonist. Pediatr Rheumatol Online J 2009; 7:21.
+103.  Wang R, Li T, Ye S, et al. Macrophage activation syndrome associated with
+      adult-onset Still's disease: a multicenter retrospective analysis. Clin
+      Rheumatol 2020; 39:2379.
+104.  Minoia F, Davì S, Horne A, et al. Clinical features, treatment, and outcome of
+      macrophage activation syndrome complicating systemic juvenile idiopathic
+      arthritis: a multinational, multicenter study of 362 patients. Arthritis
+      Rheumatol 2014; 66:3160.
+105.  Schulert GS, Minoia F, Bohnsack J, et al. Effect of Biologic Therapy on
+      Clinical and Laboratory Features of Macrophage Activation Syndrome
+      Associated With Systemic Juvenile Idiopathic Arthritis. Arthritis Care Res
+      (Hoboken) 2018; 70:409.
+106.  Eloseily EMA, Minoia F, Crayne CB, et al. Ferritin to Erythrocyte
+      Sedimentation Rate Ratio: Simple Measure to Identify Macrophage
+      Activation Syndrome in Systemic Juvenile Idiopathic Arthritis. ACR Open
+      Rheumatol 2019; 1:345.
+107.  Kimura Y, Weiss JE, Haroldson KL, et al. Pulmonary hypertension and other
+      potentially fatal pulmonary complications in systemic juvenile idiopathic
+      arthritis. Arthritis Care Res (Hoboken) 2013; 65:745.
+108.  Schulert GS, Yasin S, Carey B, et al. Systemic Juvenile Idiopathic Arthritis-
+      Associated Lung Disease: Characterization and Risk Factors. Arthritis
+      Rheumatol 2019; 71:1943.
+109.  Saper VE, Chen G, Deutsch GH, et al. Emergent high fatality lung disease in
+      systemic juvenile arthritis. Ann Rheum Dis 2019; 78:1722.
+110.  Ruscitti P, Berardicurti O, Iacono D, et al. Parenchymal lung disease in adult
+      onset Still's disease: an emergent marker of disease severity-
+      characterisation and predictive factors from Gruppo Italiano di Ricerca in
+      Reumatologia Clinica e Sperimentale (GIRRCS) cohort of patients. Arthritis
+      Res Ther 2020; 22:151.
+111.  Nigrovic PA. Storm Warning: Lung Disease in Systemic Juvenile Idiopathic
+      Arthritis. Arthritis Rheumatol 2019; 71:1773.
+112.  Quartier P, Alexeeva E, Constantin T, et al. Tapering Canakinumab
+      Monotherapy in Patients With Systemic Juvenile Idiopathic Arthritis in
+      Clinical Remission: Results From a Phase IIIb/IV Open-Label, Randomized
+      Study. Arthritis Rheumatol 2021; 73:336.
+113.  Laskari K, Tektonidou MG, Katsiari C, et al. Outcome of refractory to
+      conventional and/or biologic treatment adult Still's disease following
+      canakinumab treatment: Countrywide data in 50 patients. Semin Arthritis
+      Rheum 2021; 51:137.
+114.  Meng J, Chi H, Wang Z, et al. Characteristics and risk factors of relapses in
+      patients with adult-onset Still's disease: a long-term cohort study.
+      Rheumatology (Oxford) 2021; 60:4520.
+115.  Bodard Q, Langlois V, Guilpain P, et al. Cardiac involvement in adult-onset
+      Still's disease: Manifestations, treatments and outcomes in a retrospective
+      study of 28 patients. J Autoimmun 2021; 116:102541.
+---
+116.    Hochberg MC, Chang RW, Dwosh I, et al. The American College of
+        Rheumatology 1991 revised criteria for the classification of global functional
+        status in rheumatoid arthritis. Arthritis Rheum 1992; 35:498.
+117.    Wendling D, Humbert PG, Billerey C, et al. Adult onset Still's disease and
+        related renal amyloidosis. Ann Rheum Dis 1991; 50:257.
+118.    Rivera F, Gil CM, Gil MT, et al. Vascular renal AA amyloidosis in adult Still's
+        disease. Nephrol Dial Transplant 1997; 12:1714.
+119.    Delplanque M, Pouchot J, Ducharme-Bénard S, et al. AA amyloidosis
+        secondary to adult onset Still's disease: About 19 cases. Semin Arthritis
+        Rheum 2020; 50:156.
+120.    Topaloglu R, Batu ED, Orhan D, et al. Anti-interleukin 1 treatment in
+        secondary amyloidosis associated with autoinflammatory diseases. Pediatr
+        Nephrol 2016; 31:633.
+
+
+  Topic 5595 Version 36.0
