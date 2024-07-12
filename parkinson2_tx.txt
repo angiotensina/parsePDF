@@ -1,0 +1,3248 @@
+                                                                                                        199
+
+                                          Movement Disorders
+                                                                                    Blair Ford, MD
+                                                                   Howard Geyer, MD, PhD            15
+                                                                     Susan B. Bressman, MD
+
+subthalamic nucleus, making up an extrapyramidal motor
+control system with extensive, reciprocal connections to the
+thalamus, cortex, brainstem, and cerebellum.
+    Many movement disorders are treated symptomatically,
+using agents that suppress or reduce unwanted movements,
+but in some cases therapies are available that address the
+underlying pathophysiology. In recent decades, treatment
+options including pharmacologic and surgical approaches
+have expanded, thanks to advances in basic sciences such as
+genetics and neurophysiology. In the sections that follow,
+the major movement disorder syndromes are described,
+with an emphasis on clinical diagnosis and treatment.
+
+
+
+   ▼▼PARKINSONISM & PARKINSON DISEASE
+
+               ESSENTIALS OF DIAGNOSIS
+
+▶  Tremor at rest
+▶  Bradykinesia
+
+▶  Rigidity
+▶  Loss of postural reflexes
+▶  Flexed posture
+▶
+   Freezing
+
+▶General Considerations
+
+The term parkinsonism may be used when a patient exhibits
+one or more of the following findings: tremor at rest, brady-
+kinesia, rigidity, loss of postural reflexes, flexed posture, and
+freezing. Two of these findings, at least one of which must
+be tremor at rest or bradykinesia, are required to make a
+diagnosis of definite parkinsonism. Parkinson disease (PD)
+makes up 80% of cases of parkinsonism. PD has a prevalence
+of about 160 cases per 100,000 people and an incidence of
+Movement disorders are conditions that produce either
+reduced or excessive movement. Neurologic disorders that
+result in a paucity or slowness of movement are termed
+hypokinetic disorders. The category of hypokinetic disorders
+is represented by Parkinson disease and other causes of
+parkinsonism.     Hyperkinetic disorders are characterized by
+excessive, involuntary movements. Hyperkinetic disorders
+can usually be placed into one of five main categories of
+abnormal movement: dystonia, chorea, tremor, myoclonus,
+or tic.
+    Abnormal movements may be difficult to recognize or
+categorize because of their unusual appearance, complexity,
+subtlety, or variability. Movement disorder specialists tend
+to isolate or reduce abnormal movements to their unitary
+components, but often it is the pattern of the movement
+and its body part distribution that provides the important
+diagnostic clue. In addition, many diseases cause abnormal
+movements that can be fit into two or more categories or
+abnormal movement phenomenology. Table 15–1 provides
+descriptions of the main categories of movement disorders.
+    There are many other types of abnormal movements that
+do not fit cleanly into a simple classification of phenom-
+enology.   Athetosis, meaning “no fixed posture,” was first
+coined in reference to postanoxic birth injury to denote a
+quivering “fibrillary” movement of the limbs and digits. In
+modern usage, the term describes a slow, continuous, writh-
+ing movement that bears similarities to both chorea and
+dystonia. Ballism refers to large-amplitude random flinging
+movements of the limbs and represents a proximal form of
+chorea. Unilateral ballism is termed hemiballism and is most
+often caused by an infarct of the contralateral subthalamic
+nucleus. Akathisia, meaning “inability to sit,” describes inner
+restlessness and intolerance of remaining still, together with
+repetitive fidgeting, squirming, and pacing movements.
+    Many, but not all, movement disorders result from dis-
+ordered function of the basal ganglia, a group of intercon-
+nected subcortical nuclei. The basal ganglia comprise the
+substantia nigra, putamen, caudate, globus pallidus, and
+---
+              200                                                         CHAPTER 15
+
+Table 15–1.         General classification of abnormal movements.
+                                                            Description and Associated
+                     Category of Movement                         Clinical Features
+ Hypokinetic      Parkinsonism                      Akinesia/bradykinesia, Rigidity
+                                                    Tremor at rest
+                                                    Postural instability
+                                                    Gait freezing
+                                                    Flexion posture
+
+
+
+
+ Hyperkinetic     Dystonia                          Torsional movements that are partially
+                                                        sustained and produce twisting
+                                                        postures
+
+
+
+                  Chorea                            Random, quick, unsustained,
+                                                        purposeless movements that have an
+                                                        unpredictable, flowing pattern
+
+
+
+
+                  Tic                               Stereotyped, automatic purposeless
+                                                        movements and vocalizations
+
+
+                  Myoclonus                         Sudden, shock-like movements
+
+
+
+
+                  Tremor                            Repetitive oscillation of a body part
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+▶Pathogenesis
+The key motor symptoms of PD result from degeneration
+of dopamine [DA]-producing neurons within the pars
+
+compacta of the substantia nigra and norepinephrine [NE]
+cells of the locus coeruleus in the brainstem. However, PD
+is a complex clinical disorder that includes various nonmo-
+tor manifestations including impaired olfaction, autonomic
+dysfunction (eg, constipation, orthostatic hypotension),
+sleep disturbance (eg, rapid-eye movement [REM] behavior
+disorder), and alterations in mood and cognition. Underly-
+ing these clinical symptoms (many of which may precede
+overt motor signs) is pathology involving neurons outside
+the substantia nigra (eg, medullary and olfactory nuclei).
+
+
+                            Differential Diagnosis
+Parkinson disease
+Diffuse Lewy body disease
+Atypical neurodegenerative Parkinson syndromes: Progressive supranuclear
+    palsy (PSP), multiple systems atrophy (MSA), corticobasoganglionic
+    degeneration (CBGD)
+Hydrocephalus
+Vascular parkinsonism
+Neuroleptic-induced parkinsonism
+Wilson disease
+Idiopathic or primary dystonia
+Dopa-responsive dystonia
+Anoxic-hypoxic injury
+Trauma
+Post-encephalitic dystonia
+Tardive dystonia
+Huntington disease
+Neuroacanthocytosis
+Post-infectious chorea
+Drug-induced chorea
+Vascular chorea
+Autoimmune chorea
+Chorea gravidarum
+Tourette syndrome
+Cerebral palsy/developmental delay syndromes
+Autism
+Huntington disease
+Physiologic myoclonus
+Essential myoclonus
+Metabolic encephalopathy
+Postanoxic myoclonus
+Progressive myoclonic epilepsy
+Essential tremor
+Physiologic tremor
+Parkinson tremor
+Cerebellar tremor
+         about 20 cases per 100,000 people per year. Prevalence and
+         incidence increase with age. Prevalence at age 70 is about
+         550 cases per 100,000 people, with an approximate incidence
+         of 120 cases per 100,000 people per year. The mean age of
+         symptom onset is 56 years in both sexes. However, the age
+         range is wide, and young-onset PD (occurring in patients
+         younger than 40 years) is not infrequent. PD is nearly twice
+         as common in men as in similarly aged women. Family his-
+         tory of PD appears to be associated with an increased risk for
+         development of PD, and mutations in identified PD genes
+         account for 5–40% of cases depending on an individual’s
+         ancestry. Most of the remainder of cases are thought to be
+         etiologically complex, resulting from gene–environment and
+         gene–gene interactions.
+---
+                                                                                            MOvEMENT DISORDERS                                                                      201
+
+     The pathologic hallmark of PD is the presence of eosino-
+philic cytoplasmic inclusions, termed                 Lewy bodies,        within
+many of the surviving neurons. When symptoms become
+clinically evident, 60% of dopaminergic neurons in the sub-
+stantia nigra already have been lost, and the basal ganglia
+(striatal) dopamine level has decreased by 80%. The precise
+cause of degeneration of dopaminergic cells within the
+substantia nigra is unknown in most individuals, but recent
+advances in molecular genetics have clarified genetic influ-
+ences that contribute to the development of neuronal toxicity
+and parkinsonism in highly penetrant, autosomal dominant
+or autosomal recessive familial PD. Mutations in six genes
+(SNCA, LRRK2, PRKN, DJ1, PINK1, and                         ATP13A2) have
+conclusively been shown to cause familial parkinsonism. In
+addition, common variations in three genes (MAPT, LRRK2,
+and SNCA) and loss-of-function mutations in GBA have been
+well validated as susceptibility factors for PD. These genes
+encode proteins such as α-synuclein, parkin, and DJ-1, which
+are involved in folding, trafficking, and clearance of intracel-
+lular proteins and in maintaining mitochondrial function.
+Gene mutations result in mishandling of intracellular pro-
+teins, increased oxidative stress, free-radical formation, and
+energy depletion within the cell, causing oxidative damage
+and cell death. See Table 15–2 for a description of the gene
+mutations involved in PD. A currently influential hypothesis
+posits that PD results from the spread of α-synuclein from
+one neuron to another in a manner resembling the behavior
+of prions.
+
+                    Table 15–2.        Parkinson disease genes.
+                      Gene Mutation         Inheritance                              Phenotype                                                          Pathology
+                     SNCA                 AD                Early-onset rapidly progressive parkinsonism with dementia;      α-Synuclein Lewy bodies, frequent tau inclusions, neuronal loss
+                                                                overlap with DLBD and MSA                                        in brainstem [LC and SNpc], and hippocampus
+                     Parkin               AR                Early-onset parkinsonism, with slower course; sleep benefit,     SNpc neuronal loss with absent Lewy bodies
+                                                                dystonia, hyperreflexia, levodopa-responsive, prone to
+                                                                dyskinesias
+                     PINK1                AR                Early-onset PD, with psychosis                                   Lewy body pathology, SNpc neuronal loss, sparing LC
+                     DJ-1                 AR                Early-onset parkinsonism, with tremor, falls, poor response to   Sever SN and LC neuronal loss, prominent diffuse Lewy bodies,
+                                                                levodopa, dementia; rare                                         including cortex
+                     LRRK2                AD                Late onset, tremulous PD                                         Neuronal loss in LC and SNpc
+                                                            Most prevalent monogenic cause of PD; most common
+                                                                mutation G2019S
+                     GCH1                                   Childhood-onset dystonia-parkinsonism [dopa-responsive           Absent Lewy bodies
+                                                                dystonia]
+                     GBA                  AR                Typical levodopa-responsive PD, earlier onset,                   LB pathology, cortical involvement
+                                                                common cognitive impairment, prevalent among
+                                                                Ashkenazi Jews
+
+▶Prevention
+In PD, preventive strategies have focused on neuroprotec-
+tion of healthy dopamine-producing cells. However, no drug
+or dietary supplement has been shown with certainty to have
+neuroprotective or restorative benefits, despite well-con-
+trolled clinical trials of various agents including monoamine
+oxidase (MAO)-B inhibitors, coenzyme Q10, and vitamin E.
+
+
+▶Clinical Findings
+A.    Symptoms and Signs
+
+The cardinal motor findings of PD include resting tremor,
+bradykinesia, rigidity, loss of postural reflexes, flexed pos-
+ture, and freezing. Onset of symptoms is insidious and usu-
+ally unilateral. Progression is usually slow.
+
+1.   Resting tremor and bradykinesia—These are the
+most characteristic motor features of PD. Tremor at rest
+with a frequency of four to six cycles per second is the
+presenting symptom in 70% of patients. Classically, rest-
+ing tremor remains in one limb or asymmetrically in the
+ipsilateral arm and leg for months or years, but over time
+may generalize to all limbs. Although resting tremor usually
+involves distal limbs, it may also affect the muscles of the
+lips, tongue, jaw, and trunk. Occasionally the tremor is felt as
+an inner tremor before it can be seen. Typically, the tremor
+disappears with action of the involved limb and reemerges
+                    AD = autosomal dominant; AR = autosomal recessive; DLBD = dementia with Lewy bodies; GBA = glucocerebrosidase; LC = locus coeruleus;
+                    LRRK2 = leucine-rich repeat kinase 2; MSA = multiple system atrophy; PD = Parkinson disease; SNCA = α-synuclein; SNpc = substantia nigra,
+                    pars compacta.
+---
+      202                                                                               CHAPTER 15
+
+with maintained posture. Stress, excitement, and walking                                                     and visuospatial impairment. Sensory symptoms include
+can increase the tremor.                                                                                     pain, burning, and tingling. Autonomic disturbances include
+      Bradykinesia manifests as a slowness in activities of daily                                            constipation, impotence, low blood pressure, and inad-
+living, production of movement, and reaction time and con-                                                   equate bladder emptying. Nonmotor symptoms can cause
+tributes to lack of automatic movement. Clinically, patients                                                 significant impairment and should be sought and treated as
+exhibit impaired fine motor movements, loss of facial                                                        necessary.
+expression, reduced arm swing when walking, and flexed
+(stooped) posture. Reduced amplitude of movement is most                                                     B.      Laboratory Tests and Imaging Studies
+evident with repetitive movements such as finger or toe tap-
+ping. Hypomimia (decreased facial expression) results in                                                     To date, there is no blood or cerebrospinal fluid (CSF)
+decreased blink rate and loss of facial gestures. Other signs                                                test that can diagnose PD. Similarly, there is no biological
+of bradykinesia include quiet voice (hypophonia), tachyphe-                                                  marker that can diagnose presymptomatic PD. Certain neu-
+mia, sialorrhea, micrographia, and difficulty rising from a                                                  roimaging studies can be useful in confirming a diagnosis of
+seated position.                                                                                             PD. Routine magnetic resonance imaging (MRI) is typically
+2.    Rigidity—Patients with PD have a sustained increased                                                   normal in patients with PD. Single-photon emission com-
+                                                                                                             puted tomography (SPECT) using 123I-ioflupane permits
+resistance to movement of a limb when that limb is pas-                                                      visualization of the density of dopamine transporters in
+sively extended, flexed, or rotated. Often cogwheeling can be                                                the basal ganglia; it is approved by the US Food and Drug
+appreciated, reflecting tremor superimposed upon rigidity.                                                   Administration (FDA) for differentiating PD, in which
+The rigidity may occur proximally at the neck, shoulders,                                                    dopamine transporter density is reduced, from essential
+or hips or distally at the elbows, wrists, knees, and ankles.                                                tremor (see below), in which it is normal. However, this
+Shoulder pain or stiffness is a frequent initial manifestation                                               modality cannot distinguish PD from atypical parkinsonian
+of PD and is often misdiagnosed as a rotator cuff injury,                                                    syndromes (see below). Another imaging modality which
+arthritis, or bursitis.                                                                                      can be of use is positron emission tomography (PET) imag-
+3.    Loss of postural reflexes—A sign of advancing disease,                                                 ing of the brain using18F-fluorodopa, which shows signifi-
+loss of postural reflexes is evident as spontaneous retropul-                                                cant decreases in fluorodopa uptake in the basal ganglia of
+sion or inability to maintain balance when pulled from                                                       patients with PD. In general, a diagnosis of PD can be made
+behind. Early in the course of the disease postural reflexes                                                 clinically without neuroimaging studies.
+are preserved.
+4.
+sodes of inability to initiate stepping, can be one of theFreezing—This symptom, which refers to brief epi-  ▶Differential Diagnosis
+most disabling symptoms of PD, and it may prove resistant                                                    The diagnosis of PD is based on history, clinical examina-
+to levodopa treatment. Also referred to as                                                motor blocks,      tion, and the absence of incompatible clinical, laboratory,
+freezing typically occurs on initiation of walking, upon                                                     or radiologic abnormalities. No single feature absolutely
+turning, or when walking through narrow passages, cross-                                                     confirms or excludes the diagnosis of PD. Initial response to
+ing streets, or approaching a destination or target, such as                                                 levodopa, which is often dramatic, is expected in PD, but is
+a chair. Patients experience inability to move their feet, as                                                not specific as it can also occur early in the course of atypical
+if glued to the ground, lasting seconds. Freezing that occurs                                                parkinsonian syndromes.
+early or predominantly in the course of disease should raise                                                        Specific features that suggest the presence of an atypi-
+suspicion of an alternative diagnosis such as an atypical par-                                               cal parkinsonian syndrome rather than PD include sym-
+kinsonian syndrome. Festination can occur during walking;                                                    metric onset of symptoms; absence of tremor; early gait
+patients take faster and faster steps and step size becomes                                                  abnormalities, including early falls and prominent freezing;
+smaller. Freezing, festination, and loss of postural reflexes                                                early postural instability; dementia that precedes motor
+are important causes of falling in patients with PD.                                                         symptoms or occurs within the first year; corticospinal
+                                                                                                             signs; cerebellar signs; abnormal eye movements other
+5.    Nonmotor symptoms—Nonmotor symptoms occur                                                              than restricted upward gaze; and symptomatic orthostatic
+frequently in patients with PD and some (eg, depres-                                                         hypotension.
+sion, anxiety, impaired olfaction, constipation, akathisia,                                                         Other          major          causes          of     parkinsonism  are  listed        in
+REM behavior disorder) may precede overt motor signs by                                                      Table 15–3. Drugs that block dopamine receptors (typical
+years. Cognitive changes are common and include slowed                                                       and atypical neuroleptics, certain antiemetics) or deplete
+cognitive functioning (bradyphrenia); prolonged time to                                                      striatal dopamine (reserpine, tetrabenazine) cause                                    drug-
+verbalize thoughts may be prominent. Dementia eventu-                                                        induced parkinsonism; after the causative drug is stopped
+ally occurs in 20–40% of patients with PD (for further                                                       the symptoms usually improve slowly and resolve in most
+discussion, see Chapter 9). Behavioral symptoms include                                                      but not all cases. Anticholinergic drugs can improve par-
+personality changes, depression, reduced attention span,                                                     kinsonism caused by antidopaminergic drugs.
+---
+                                                                                MOvEMENT DISORDERS  203
+
+prevent the progression of disease, although several have
+been evaluated in clinical trials with largely disappointing
+results. Therefore, current therapeutic strategies rely upon
+medications that improve symptoms, with the goal of allow-
+ing the patient to continue functioning independently for
+as long as possible. Treatment must be individualized to the
+patient’s symptoms and stage of disease. Deciding which
+drugs to use and when to use them remains one of the great-
+est challenges of treating PD patients. Physicians typically
+adjust medications and dosages over the course of a patient’s
+disease as new symptoms develop and adverse effects of
+drugs or loss of efficacy supervene.
+    Because striatal (basal ganglia) dopamine deficiency
+causes the main motor symptoms of PD, replacement of
+dopamine with dopaminergic agents is the major pharma-
+cologic strategy. Nondopaminergic agents such as anticho-
+
+linergics, antiglutaminergics, and muscle relaxants are also
+used to treat motor symptoms (Table 15–4).
+1.  Levodopa—Levodopa is the most potent agent for the
+symptomatic treatment of PD. In early, mild PD, it effec-
+tively ameliorates the cardinal motor symptoms, leading to
+the notion that clinical response to levodopa is diagnostic.
+However, adverse effects, including the development of dys-
+kinesias (involuntary movements) and motor fluctuations,
+
+can limit its usefulness. After 5 years of levodopa therapy,
+more than 50% of patients develop fluctuations, including
+wearing off and sudden offs, and dyskinesia; these complica-
+tions of treatment are thought to represent both pre- and
+postsynaptic changes related to disease progression in the
+setting of levodopa exposure. Theoretical concerns that
+levodopa itself may be neurotoxic (eg, through free radical
+
+
+
+Table 15–4.        Medications used in the treatment of
+parkinson disease.
+
+        Class                   Group                          Drug
+
+ Dopaminergic          Dopamine precursor         Levodopa (with carbidopa)
+     agent             Dopamine agonist           Bromocriptine, pramipexole,
+                                                      ropinirole, amantadine,
+                                                      apomorphine
+                       COMT inhibitor             Entacapone, tolcapone
+                       MAO-B inhibitor            Selegiline, rasagiline
+ Nondopaminergic       Anticholinergic            Trihexyphenidyl, diphenhydr-
+     agent                                            amine, amitriptyline
+                       Antiglutaminergic          Amantadin
+                       GABAergic drug             Lorazepam or clonazepam
+ Atypical              Serotonin and dopamine     Quetiapine
+     neuroleptic          antagonist
+COMT = catecholamine O-methyl transferase; GABA = γ-aminobutyric
+acid; MAO = monoamine oxidase.
+
+Table 15–3.        Major parkinsonian syndromes.
+ Primary Idiopathic Parkinsonism
+ Parkinson disease (sporadic and familial)
+ Secondary Parkinsonism
+ Drug-induced (dopamine antagonists and depletors)
+ Hydrocephalus (normal-pressure hydrocephalus)
+ Trauma
+ Tumor
+ Vascular (multi-infarct state)
+ Metabolic (hypoparathyroidism)
+ Toxin (mercury, manganese, carbon monoxide, cyanide, MPTP)
+ Infectious (postencephalitic)
+ Hypoxia
+ Atypical Parkinsonian Syndromes
+ Progressive supranuclear palsy
+ Corticobasal degeneration
+ Multiple system atrophy:
+ • Shy-Drager syndrome
+ • Striatal nigral degeneration
+ • Olivopontocerebellar atrophy
+ Dementias
+ Diffuse Lewy body disease
+ Alzheimer disease
+ Inherited Degenerative Diseases
+ Wilson disease
+ Huntington disease
+ Neuroacanthocytosis
+ Hallervorden-Spatz disease
+
+MPTP = methylphenyltetrahydropyridine.
+
+    Normal-pressure hydrocephalus                 causes a parkinsonian
+gait disorder notable for short, shuffling, or magnetic steps
+and loss of postural reflexes. These symptoms are accom-
+panied by dementia and urinary incontinence that develop
+over time. Imaging of the brain reveals grossly enlarged ven-
+tricles. Diagnosis is confirmed by removal of CSF that results
+in significant improvement of gait; cognitive dysfunction
+and urinary incontinence are less likely to respond.
+    Lower-body parkinsonism may also be caused by vascu-
+lar disease. Vascular parkinsonism, a slowly progressive gait
+disorder with freezing and loss of postural reflexes, results
+from multiple lacunar infarcts that are easily seen on MRI.
+Response to levodopa is not significant, and tremor is rare.
+    Parkinsonism also occurs in diffuse Lewy body disease,
+Alzheimer disease, Huntington disease, and Wilson disease.
+Early, mild PD is commonly misdiagnosed as essential
+tremor. Depression not only frequently complicates PD, but
+when severe can mimic parkinsonism.
+
+▶Treatment
+A.   Pharmacotherapy
+PD is a progressive neurodegenerative disease. No medica-
+tion has been proven definitively to stop, slow, reverse, or
+---
+            204                                                  CHAPTER 15
+
+than regular carbidopa-levodopa. Despite the theory that
+controlled-release levodopa formulations should provide a
+more constant level of bioavailable dopamine to the basal
+ganglia, thus reducing the frequency of motor complica-
+tions, studies have failed to show that initial therapy with
+controlled-release formulations of levodopa decreased the
+development of motor fluctuations. Supplemental carbidopa
+can be prescribed as Lodosyn. In 2015, the FDA approved
+an enteral suspension of carbidopa/levodopa (Duopa) that is
+continuously infused into the jejunum and can be useful in
+patients experiencing motor fluctuations because it provides
+a continuous steady-state infusion of carbidopa-levodopa.
+However, the technology is subject to complications such
+as infection related to the catheter, tubing, and hardware.
+    Adverse effects of levodopa therapy include anorexia,
+nausea, vomiting, confusion, drowsiness, hypersomnolence,
+vivid dreams, nightmares, hallucination, postural hypoten-
+sion, and cardiac arrhythmias. The development of central
+nervous system (CNS) adverse effects such as hallucina-
+tions is often dose-related and may require reduction in the
+dose of levodopa at the expense of worsening parkinsonian
+symptoms.
+2.  Dopamine agonists—After levodopa, the dopamine
+agonists are the most powerful antiparkinson medications.
+
+Dopamine agonists are synthetic compounds that stimulate
+striatal dopamine receptors. Although initially used as add-
+on therapy in patients receiving levodopa, the agonists are
+also commonly used first-line as monotherapy in patients
+with mild PD. Many neurologists do not prescribe dopamine
+agonists for patients older than 70 years of age because these
+patients are more likely to develop confusion, sleepiness,
+and psychosis from these medications. Because levodopa
+gives the greatest symptomatic benefit for the lowest risk
+of adverse effects compared with other agents, levodopa
+is often used as initial therapy in patients older than 70,
+especially those with preexisting cognitive decline. However,
+in patients with PD who are older than 70 but otherwise
+mentally and physically younger than this age, therapy with
+a dopamine agonist should be considered.
+    Studies of dopamine agonists as primary monother-
+apy in early PD show that drug-induced dyskinesias and
+motor fluctuations occur infrequently in these patients
+compared with those receiving levodopa monotherapy.
+However, monotherapy with a dopamine agonist is rarely
+sufficient for adequate symptomatic treatment after 3 years.
+Initial treatment of mild PD with dopamine agonists may
+give satisfactory reduction of PD symptoms while allowing
+for a delay in the initiation of levodopa therapy. Starting
+with a dopamine agonist also allows for a reduced dosages
+of levodopa used in combination with dopamine agonists
+when monotherapy with an agonist is no longer sufficient
+for symptomatic control. These benefits need to be weighed
+against its relative lesser potency and greater risk of certain
+side effects compared with levodopa.
+formation) have been debunked. Although levodopa has
+been prescribed for more than 30 years, its long-term effect
+on disease progression remains unknown.
+    There remains a lack of consensus about when treatment
+with levodopa should be initiated in patients with mild-
+to-moderate parkinsonism. Because of the probability of
+developing motor complications within the first 5 years of
+starting levodopa, many neurologists do not use levodopa
+as a first-line agent and prescribe less potent agents such
+as MAO-B inhibitors, amantadine, and dopamine agonists,
+often as monotherapy, in the mild stages of disease. Indica-
+tions for starting levodopa include disabling symptoms and
+signs such as postural instability and falling. Moderately
+severe PD (ie, patients with bilateral motor symptoms and
+some postural instability but who remain physically inde-
+pendent) and a decline in the ability to carry out activities
+of daily living may also be indications for starting levodopa
+therapy. If patients are unable to tolerate dopamine agonists
+or do not obtain significant symptomatic benefit from a
+dopamine agonist in combination with nondopaminergic
+agents, initiation of levodopa therapy should be considered.
+Many patients older than 70 years of age and those with
+cognitive decline often do not tolerate dopamine agonists or
+nondopaminergic agents, and early use of levodopa should
+be considered for these patients as well. Other neurologists
+routinely use levodopa as first-line therapy even in early
+PD, citing studies that show superior benefit on motor
+symptoms and lower rates of discontinuation due to adverse
+effects compared with levodopa-sparing strategies.
+    Levodopa is converted to dopamine in the brain by
+amino acid decarboxylase. Pharmaceutical levodopa is com-
+bined with a peripheral dopamine decarboxylase inhibitor
+such as carbidopa, which inhibits the peripheral conversion
+of levodopa to dopamine and permits a greater amount of
+levodopa to cross the blood–brain barrier. As a result, the
+amount of levodopa that reaches the brain is greater, and
+peripheral dopamine-induced side effects such as anorexia,
+nausea, and vomiting.
+    Carbidopa-levodopa is available in standard preparations
+that contain a fixed ratio of each drug, 10 mg carbidopa
+to 100 mg levodopa (10/100), 25 mg carbidopa to 100 mg
+levodopa (25/100), and 25 mg carbidopa to 250 mg levodopa
+(25/250). A controlled-release formulation is available in
+ratios of 25 mg carbidopa to 100 mg levodopa (25/100) or
+50 mg carbidopa to 200 mg levodopa (50/200). Treatment
+is usually started by gradually increasing the dosage until
+one tablet of carbidopa-levodopa 25/100 is taken three
+times a day, preferably in the morning, early afternoon, and
+early evening for maximum benefit. Taking the medication
+with meals helps prevent gastrointestinal upset, although
+protein intake may compete with levodopa transport in the
+duodenum. The dosage can be gradually titrated to symp-
+tomatic benefit. Long-acting controlled-release preparations
+of carbidopa-levodopa (Sinemet CR) provide a slower onset
+of effect, less bioavailability, and longer duration of effect
+---
+                                                                            MOvEMENT DISORDERS  205
+
+contraindicated drugs include meperidine, tramadol, metha-
+done, propoxyphene, dextromethorphan, and St. John’s
+wort. One of the metabolites of selegiline is an amphetamine,
+which may result in improved alertness but may also cause
+insomnia. Other side effects include dyskinesias, tremor,
+confusion, and psychosis.
+b.  Amantadine—This              drug    exerts    its anti-PD     effects
+through its mild dopaminergic (augmenting release and
+possibly inhibiting reuptake), anticholinergic, and antiglu-
+taminergic properties. Amantadine (Symmetrel) is effective
+in both mild and advanced PD. In mild PD, amantadine
+can reduce symptoms of PD, especially tremor. In advanced
+PD, amantadine is a useful adjunct to therapy with levodopa
+and dopamine agonists. It is also effective in decreasing
+levodopa-induced dyskinesias. Side effects include periph-
+eral edema, confusion, livedo reticularis, rash, and visual
+hallucinations. The usual dosage is 100 mg twice a day;
+doses up to 400 mg/day can be used. A long-acting form of
+amantadine (Gocovri) was recently approved for treatment
+of dyskinesia.
+
+c.  Entacapone—This drug is used in conjunction with
+levodopa to extend “on” time (duration of action of each
+dose of levodopa) by inhibiting the enzymatic conversion of
+levodopa to its metabolite. This results in increased synaptic
+levels of dopamine. Side effects include diarrhea, dyskinesia,
+and orange discoloration of urine. Entacapone (Comtan)
+comes in a 200-mg tablet and is taken simultaneously with
+levodopa. A formulation that contains 200 mg entacapone
+and various dosages of levodopa (50 mg, 75 mg, 100 mg,
+125 mg, 150 mg, 200 mg) with a proportionate amount of
+carbidopa in one tablet is available as Stalevo.
+d.  Tolcapone—Tolcapone has the same mechanism of
+action and therapeutic effect as entacapone; however, tolcapone
+can cause fulminant hepatitis resulting in death, and explosive
+diarrhea. Although hepatitis is a rare adverse effect, patients
+require baseline and biweekly liver transaminase profiles to
+monitor hepatic function. Tolcapone should not be used except
+when fluctuations are disabling and other drugs fail.
+4.  Nondopaminergic agents—Anticholinergic drugs such
+as trihexyphenidyl (Artane) and benztropine (Cogentin)
+are mild anti-PD drugs used primarily as monotherapy or
+in conjunction with dopaminergic medications in tremor-
+predominant PD. Bradykinesia and rigidity may also be
+minimally improved with anticholinergic therapy. Peripheral
+and central side effects can be prominent, including confu-
+sion, forgetfulness, blurred vision, constipation, dry mouth,
+urinary retention, hallucinations, and psychosis. Such side
+effects are especially problematic in older patients, and
+therefore anticholinergic drugs are generally avoided in this
+population. In such patients who might benefit from adjunc-
+tive therapy with an anticholinergic, a weaker anticholiner-
+gic such as diphenhydramine or amitriptyline can be used
+instead of trihexyphenidyl.
+     Dopamine agonists include the oral agents pramipexole
+(Mirapex) and ropinirole (Requip), both of which are avail-
+able in immediate-release and extended-release formula-
+tions, and the transdermal patch rotigotine (Neupro). They
+have been noted to cause sleep attacks (including when
+driving) and impulse control disorders such as gambling
+and shopping; other side effects include nausea, vomit-
+ing, sleepiness, peripheral edema, orthostatic hypotension,
+and psychotoxicity, including illusions, hallucinations, and
+mania. These symptoms stop when the drug is decreased or
+gradually stopped.
+     All dopamine agonists should be started at very low
+doses and increased gradually to reduce the risk of adverse
+affects. Drug selection is often made based on ease of titra-
+tion and clinician experience. Patients respond individually
+to these medications, and if adverse effects develop from
+one agonist, another can be tried. If a sufficient therapeutic
+response is not attained with agonist monotherapy, other
+agents such as amantadine, trihexyphenidyl, or an MAO-B
+inhibitor can be added. If none of these medications is
+tolerated or efficacious, treatment with levodopa may be
+required.
+     Apomorphine is a nonergot dopamine agonist that is
+available for subcutaneous injection to rapidly treat sudden,
+severe, disabling off periods. Dosing must be titrated slowly
+and under the supervision of a physician. Side effects include
+severe nausea, profound hypotension, dyskinesias, and hal-
+lucinations. Because severe nausea and vomiting occur at
+recommended doses of apomorphine, an antiemetic such as
+trimethobenzamide must be used in conjunction with this
+medication.
+3.  Other dopaminergic agents
+a.   Selegiline, rasagiline, safinamide—These drugs
+are selective MAO-B inhibitors that increase dopamine by
+impairing its metabolism via MAO-B. This mechanism of
+action gives these agents their mild symptomatic effect.
+There are some data suggesting possible neuroprotective
+effects for selegiline and rasagiline, but these apparent effects
+are questionable because of methodologic factors and, if
+present, are small in magnitude.
+     MAO-B inhibitors generally are well tolerated and can be
+used as initial therapy in patients with very mild symptoms
+or as add-on therapy. The dosing of selegiline (Eldepryl) is
+5–10 mg every day. Dosing should not exceed 10 mg/day
+because of risks associated with MAO enzyme inhibitors and
+ingestion of foods containing tyramine. Dosing of rasagiline
+(Azilect) is 0.5–1 mg once a day. Safinamide (Xadago) is
+taken 50–100 mg daily.
+     Coadministration with serotonergic agents, including
+many antidepressants, may lead to serotonin syndrome. This
+adverse interaction appears to be very uncommon but can
+occur, especially when doses are high. Because depression is
+so common in PD, cautious use of antidepressants with vigi-
+lance for symptoms of serotonin syndrome is advised. Other
+---
+             206                                                    CHAPTER 15
+
+
+Table 15–5.       Candidates for deep brain stimulation.
+            Ideal Candidate                         Poor Candidate
+
+ Typical Parkinson disease               Atypical parkinsonism: PSP, MSA,
+                                            vascular parkinsonism
+ Excellent response to individual doses  Poor or absent response to levodopa,
+     of levodopa, even if short-lived       even in high dose
+
+ Dopaminergic dyskinesias,               Postural instability, gait freezing
+     “wearing off” motor fluctuations,
+     or medication-refractory tremor
+ Normal cognition                        Dementia, apathy, or severe depression
+ Good general health                     Severe medical problems
+
+ Excellent support network               Poor or absent support network
+MSA = multiple system atrophy; PSP = progressive supranuclear
+palsy.
+
+
+DBS can also suppress a medication-refractory tremor in
+PD. Medication dosages can often be lowered postsurgi-
+cally, reducing dopamine-induced dyskinesias or other
+side effects. With DBS, as opposed to stereotactic lesioning,
+stimulators are usually implanted bilaterally with the benefit
+of bilateral symptomatic improvement. DBS is reversible;
+pulse generators may be turned off or electrodes can be
+surgically removed without causing damage to brain tissue.
+Recent data have shown that DBS is better than best medical
+therapy in patients with moderately advanced symptoms,
+and there is a tendency in the literature and clinical practice
+to perform DBS surgery earlier in the course of the illness,
+before the onset of gait imbalance, freezing, or dementia.
+Proper patient selection by a neurologist with PD and DBS
+expertise is critical. Realistic expectations of the benefits of
+this surgical procedure are crucial for patients and families.
+Surgery is not curative and does not alter the progression
+of disease.
+    In recent years, the DBS field has advanced through
+refinements in battery technology and lead capability.
+
+
+Table 15–6.       Parkinson disease symptoms that respond
+to deep brain stimulation (DBS).
+
+                                           Symptoms That Do Not Respond
+    Symptoms That Respond to DBS                        to DBS
+ Tremor                                  Gait freezing
+
+ Rigidity                                Postural instability, frequent falls
+ Bradykinesia                            Postural deformity, camptocormia
+
+ Dystonia and dyskinesias                Hypophonia, tachyphemia
+                                         Dementia, apathy
+
+     Benzodiazepines, such as lorazepam, with moderately
+long half-lives, used in small doses (0.5–1 mg twice a day),
+can be useful in treatment of anxiety that can result from and
+further complicate significant motor fluctuations.
+     Hallucinations are a common side effect of dopaminer-
+gic therapy and more prevalent with dopamine agonists
+than with levodopa. The safest approach for patients expe-
+riencing hallucinations and psychosis is to lower the dose
+of dopaminergic therapy, but motor symptoms may not
+permit a reduction in dose, in which case antipsychotic
+medications that do not block dopamine receptors can
+be tried. The most commonly used agent for treatment of
+mild to moderate hallucinations is quetiapine (Seroquel).
+Low-dose quetiapine (12.5–25 mg at bedtime) may also be
+used to treat insomnia, which often occurs in patients with
+PD. Pimavanserin (Nuplazid) is approved for treatment of
+psychosis in PD. If these are not tolerated or are ineffective,
+clozapine (Clozaril) is usually effective. However, the risk
+of bone marrow suppression makes clozapine a difficult
+medicine to use.
+
+B.   Surgery
+Neurosurgery for the symptoms and signs of PD has proven
+effective and long-lasting. The application of stereotactic
+lesion and stimulation techniques to PD, essential tremor,
+and dystonia began serendipitously in 1952 with the inad-
+vertent ligation of the anterior choroidal artery, which
+supplies the medial lentiform nucleus and globus pallidus,
+resulted in the abolition of tremor in a patient with PD. In
+the decades following, and before the advent of levodopa,
+neurosurgical lesioning procedures targeting the globus pal-
+lidus, thalamic nuclei, and other parts of the basal ganglia
+were used to improve the symptoms of PD.
+     The development of          deep brain stimulation            (DBS) in
+the late 1990s revolutionized the field of functional neu-
+rosurgery and the treatment of advanced PD. Electrodes
+implanted into the subthalamic nucleus or the globus
+pallidus were found to provide relief of tremor, rigidity,
+bradykinesia, Parkinson-associated dystonia, and levodopa-
+induced dyskinesias. DBS proved especially advantageous to
+the patient experiencing “wearing off” motor fluctuations
+and dopaminergic dyskinesias, two complications of chronic
+medication treatment that cannot be readily helped using
+medication adjustment alone.
+     Surgical candidates are patients with idiopathic PD who
+are not demented or actively depressed and who respond,
+however briefly, to individual doses of levodopa; such a
+response is necessary in order to determine that a patient
+does not have an atypical parkinsonian syndrome, such
+as progressive supranuclear palsy (PSP), multiple system
+atrophy (MSA), or post-traumatic or vascular parkinson-
+ism. See Table 15–5 for a description of candidates for
+DBS. When successful, DBS results in reductions in “off”
+time of motor fluctuations and in dyskinesias. (For a list
+of symptoms of PD that respond to DBS, see Table 15–6.)
+---
+                                                                                           MOvEMENT DISORDERS                                                                     207
+
+Further, a resurgence in stereotactic lesioning, using focused
+ultrasound and gamma knife radiosurgery, has occurred.
+Both techniques can accurately target the ventral intermedi-
+ate (VIM) thalamus and ablate a disabling tremor, avoiding
+the placement of brain electrode, and attendant hardware,
+but these lesioning procedures can only be performed uni-
+laterally and an off-target lesion will result in permanent
+injury.
+
+▶Prognosis
+PD is a neurodegenerative disorder that worsens slowly over
+years. The natural history of PD is influenced by the age at
+onset of disease, lifestyle, and medical therapy. Although
+there is no conclusive evidence that medical therapies slow
+the progression of disease, morbidity and mortality rates
+from PD have decreased with the use of levodopa. In addi-
+tion to prolonging survival time, functional capacity and
+quality of life are significantly improved by thoughtful treat-
+ment with available medications.
+
+ Schneider SA, Alcalay RN. Neuropathology of genetic synucle-
+    inopathies with parkinsonism: Review of the literature.                Mov
+    Disord 2017;32(11):1504–1523. [PMID: 29124790]
+ Weaver FM, Follett F, Stern M. Bilateral deep brain stimulation vs
+    best medical therapy for patients with advanced Parkinson Dis-
+    ease: A randomized controlled trial. JAMA 2009;301(1):63–73.
+ Xie CL, et al. Levodopa alone compared with levodopa-sparing
+    therapy as initial treatment for Parkinson’s disease: A meta-
+    analysis. Neurol Sci 2015;36:1319. [PMID: 25981231]
+
+  ▼▼ATYPICAL PARKINSONIAN SYNDROMES
+
+The atypical parkinsonian syndromes include progressive
+supranuclear palsy, corticobasal degeneration, and multiple
+system atrophy (Table 15–7). Early in their disease course,
+
+
+▶General Considerations
+PSP is categorized as an atypical parkinsonian syndrome
+or Parkinson-plus syndrome. The prevalence of PSP is esti-
+mated at 1.39 cases per 100,000 people. Similar to PD, PSP
+occurs more frequently in men. The mean age of onset is
+65 years.
+
+▶Pathogenesis
+The pathologic findings in PSP are distinctive for marked
+neuronal degeneration and neurofibrillary tangles and tau-
+positive astrocytes in basal ganglia and brainstem structures.
+The neurofibrillary tangles found in PSP, which contain the
+microtubule-associated protein tau, differ from those seen
+in Alzheimer disease and other neurodegenerative disorders.
+many patients are initially misdiagnosed with idiopathic
+Parkinson disease (PD). A lack of response to levodopa,
+early falls, early freezing (motor blocks), presence of cortical
+or corticospinal abnormalities on examination, and involve-
+ment of cranial nerve function distinguish these syndromes
+from PD. Notably, these syndromes progress rapidly and are
+difficult to treat.
+
+PROGRESSIVE SUPRANUCLEAR PALSY
+
+                 ESSENTIALS OF DIAGNOSIS
+
+▶
+    Progressive parkinsonism
+▶   Vertical    supranuclear         ocular     palsy     or   slow    vertical
+    saccades
+▶   Early onset of falling
+▶
+    Axial rigidity
+                    Table 15–7.        Atypical parkinsonian syndromes.
+                                                                                                                                                 Neuroimaging Findings
+                                   Syndrome                                      Parkinsonism Plus . . .                                    PET                              MRI
+                     Progressive supranuclear palsy (PSP)     Impaired downgaze, neck and axial rigidity, early loss of       Hypometabolic basal ganglia and     Midbrain atrophy
+                                                                  postural reflexes                                               frontal cortex
+                     Corticobasal degeneration (CBD)          Severe unilateral rigidity, alien limb phenomena, unilateral    Asymmetric cortical                 Asymmetric parietal lobe
+                                                                  apraxia, unilateral cortical myoclonus, early dementia          hypometabolism                     atrophy
+                     Multiple system atrophy (MSA)            Laryngeal stridor, increased deep tendon reflexes, dysarthria,  Hypometabolic basal ganglia and     Brainstem atrophy (in all
+                     • Striatonigral degeneration                 absence of tremor                                               frontal lobes (seen in all MSA     MSA syndromes)
+                     • Shy-Drager syndrome                    Early, symptomatic orthostatic hypotension; urinary or fecal        syndromes)
+                     • Olivopontocerebellar atrophy               incontinence
+                                                              Cerebellar dysmetria and dysarthria
+                    MRI = magnetic resonance imaging; PET = positron emission tomography.
+---
+            208                                                CHAPTER 15
+
+        Loss of striatal (basal ganglia) neurons and their postsyn-        ▶Prognosis
+        aptic dopamine receptors explains the poor symptomatic             Symptoms are steadily progressive, and death, often due to
+        response to levodopa and dopamine agonists.                        aspiration, usually occurs 5–10 years after onset of disease.
+
+▶Clinical Findings
+A.  Symptoms and Signs
+The history is notable for early onset of falls, freezing, and
+parkinsonism. Common examination findings early in the
+course of disease include prominent axial rigidity, dystonic
+retrocollis, and facial dystonia, giving patients an angry or
+surprised look. Typical eye findings include supranuclear
+ocular palsy, causing impairment of vertical gaze (more
+commonly downgaze), and ocular square-wave jerks (small
+horizontal saccades alternately to the left and right). Patients
+may be unable to look downward voluntarily, yet reflex
+ocular movements remain normal. Speech may be nasal,
+dysarthric, and slow; phonation is dystonic, giving a raspy
+growl. Gait is wide-based, and postural reflexes are absent.
+As the disease progresses, dysarthria, dysphagia, and cog-
+nitive impairment occur. Cognitive impairment is notable
+for bradyphrenia, impaired verbal fluency, difficulty with
+sequential tasks, impulsivity, poor judgment, and unaware-
+ness of falling risk. Emotional lability, with inappropriate
+weeping or laughing, may occur. In some patients with facial
+dystonia, disabling blepharospasm may occur. Rest tremor
+is distinctly uncommon, and there is no effective response
+to levodopa.
+
+B.  Imaging Studies
+CT or MRI scans of patients with PSP may show brainstem
+atrophy, particularly in the midbrain (giving rise to the
+“hummingbird sign”), and generalized cerebral atrophy.
+PET scanning with         18F-deoxyglucose shows hypometabo-
+lism in the frontal cortex, and brainstem.
+
+▶Differential Diagnosis
+The major alternative diagnoses include PD, corticobasal
+degeneration, multisystem atrophy, vascular parkinsonism,
+and diffuse Lewy body disease.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+▶Differential Diagnosis
+The main alternative diagnoses are PD and PSP. Frontotem-
+poral dementia, PSP, and sometimes Alzheimer disease can
+produce features resembling corticobasal degeneration, in
+which case the term corticobasal syndrome is applied.
+▶Treatment & Prognosis
+
+No effective treatment exists. Levodopa and other dopami-
+nergic drugs are rarely effective. Clonazepam may improve
+myoclonus. Dystonia and rigidity may improve with botuli-
+num toxin injections. Corticobasal degeneration progresses
+CORTICOBASAL DEGENERATION
+
+               ESSENTIALS OF DIAGNOSIS
+
+▶  Parkinsonism
+▶
+   Unilateral arm rigidity and dystonia
+▶  Cortical sensory deficits
+
+
+▶Clinical Findings
+A.   Symptoms and Signs
+
+Patients with corticobasal degeneration often describe uni-
+lateral hand clumsiness with corresponding limb rigidity
+and bradykinesia. The onset is usually insidious, involv-
+ing asymmetric parkinsonism, focal rigidity, and dystonia
+involving one arm, and cortical sensory deficits. Cortical
+sensory loss, apraxia, myoclonus, and alien limb phenom-
+ena (insuppressible, involuntary movements) occur in the
+affected limb. Patients may have coarse rest and action
+tremor. Speech becomes notably slurred and labored, caus-
+ing disturbances in communication and language. Early
+features include falling and loss of postural reflexes. Other
+findings include hyperreflexia and the Babinski sign. Later in
+the course of the disease, both sides of the body are involved,
+disturbances of ocular motility occur, and dementia often
+develops.
+B.   Imaging Studies
+CT and MRI scans may show asymmetric parietal lobe
+atrophy corresponding to the more affected side of the
+brain. Asymmetric frontoparietal atrophy helps to differen-
+tiate corticobasal degeneration from PSP. PET scans show
+reduced     18F-fluorodopa uptake in the basal ganglia and
+asymmetric cortical hypometabolism.
+        ▶Treatment
+        There is no specific treatment for PSP, and symptomatic
+        improvement is difficult to obtain. Levodopa and other
+        anti-PD medications should be tried but are rarely very
+        effective. A combination of dextromethorphan/quinidine
+        (Nuedexta) may help pseudobulbar affect (involuntary emo-
+        tional expression disorder), and zolpidem (Ambien) has
+        been reported to be beneficial for eye movements and motor
+        function in PSP patients. Dystonia can be improved with
+        botulinum toxin injections to affected muscles. Patients may
+        opt for enteric feeding if dysphagia becomes severe.
+---
+                                                                                  MOvEMENT DISORDERS  209
+
+more rapidly than PD, and mean survival is about 6 years
+after onset of symptoms.
+
+MULTIPLE SYSTEM ATROPHY
+
+               ESSENTIALS OF DIAGNOSIS
+▶  Parkinsonism
+
+▶  Symptomatic orthostatic hypotension
+▶  Cerebellar ataxia
+▶  Poor therapeutic response to levodopa
+
+
+▶General Considerations
+
+MSA encompasses distinct subtypes that have overlapping
+clinical and prognostic features. These include the parkin-
+sonian subtype (MSA-P, formerly striatonigral degenera-
+tion), the autonomic subtype (MSA-A, formerly Shy-Drager
+syndrome), and the cerebellar subtype (MSA-C, formerly
+olivopontocerebellar atrophy). Ten percent of patients with
+parkinsonian signs have MSA. In 100 patients with probable
+MSA (14 confirmed at autopsy), the median age of onset was
+53 years, with a range of 33–76 years; 67 patients were men,
+and 33 were women.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+▶Prognosis
+MSA (all three syndromes) progresses rapidly compared
+with PD, and patients with prominent autonomic dysfunc-
+tion have a worse prognosis. Many patients are wheelchair-
+bound or markedly disabled within 5 years of diagnosis.
+Mean survival rate in MSA is about 8–9 years after onset of
+symptoms.
+
+
+  ▼▼ESSENTIAL TREMOR
+
+
+               ESSENTIALS OF DIAGNOSIS
+
+▶  Action tremor of arms, head, and voice
+▶  Family history of tremor (often)
+
+▶  Absence of parkinsonism
+▶  Transient improvement of tremor with alcohol ingestion
+
+
+▶General Considerations
+Essential tremor (ET) is a chronic, progressive neurologic
+condition characterized by action tremors that affect the
+hands as well as the legs, neck, and voice. The former
+descriptor benign essential tremor is not appropriate, because
+lateral margin of the putamen. The “hot cross bun sign,”
+cross-shaped hyperintensity in the pons on T2 axial views,
+may be present in MSA-C, representing degeneration of
+pontocerebellar tracts. PET scan shows hypometabolism in
+the striatum and cerebellum.
+▶Treatment
+Treatment is based on the approach used in PD. Dopaminergic
+medications should be tried for symptomatic relief. A trial of
+levodopa (up to 2 g/day, as tolerated, with carbidopa) should be
+given to assess for levodopa responsiveness. Although patients
+with MSA may initially respond to levodopa because of
+preserved basal ganglia function, symptomatic benefits are
+rarely sustained, and moderate or high doses of levodopa
+may exacerbate preexisting orthostatic hypotension. In
+patients with MSA-A, several methods are used to treat
+symptomatic orthostatic hypotension. Initially, increasing
+salt intake and wearing support hose may be beneficial.
+Drugs such as midodrine (ProAmatine), fludrocortisone
+(Florinef), or droxidopa (Northera) may eventually be
+required if hypotension becomes disabling. Cerebellar symp-
+toms in MCA-C may respond to amantadine 100 mg, up to
+four times a day. Physical therapy with emphasis on balance,
+gait, and range of motion is critical for optimizing mobil-
+ity. The symptoms of MSA respond poorly to deep brain
+stimulation.
+                  ▶Clinical Findings
+                  A.   Symptoms and Signs
+                  Patients with MSA present with parkinsonism and addi-
+                  tional characteristic clinical features. MSA-P is characterized
+                  by parkinsonism without tremor. Other features include
+                  dysarthria, dysphagia, laryngeal stridor, increased deep
+                  tendon reflexes, anterocollis, and early postural instability.
+                  Striatal neurons containing dopamine receptors are lost,
+                  resulting in a characteristically poor response to levodopa.
+                      MSA-A is characterized by parkinsonism and symptom-
+                  atic, autonomic dysfunction. Orthostatic hypotension may
+                  be severe, disabling, and difficult to treat. Other autonomic
+                  symptoms such as bladder and bowel dysfunction and impo-
+                  tence also occur. Brainstem, basal ganglia, preganglionic
+                  sympathetic neuronal, and cerebellar degeneration occurs in
+                  MSA. Occasionally, the basal ganglia are spared, accounting
+                  for unpredictable levodopa responsiveness.
+                      MSA-C is characterized by parkinsonism and cerebel-
+                  lar symptoms. Degeneration of the pons, cerebellum, basal
+                  ganglia, and substantia nigra is present. If the basal ganglia
+                  are not severely degenerated, parkinsonism responds to
+                  levodopa therapy.
+                  B.  Imaging Studies
+
+                  In MSA, T2-weighted MRI scans may show decreased signal
+                  intensity in the putamen as well as slit-hyperintensity in the
+---
+             210                                                      CHAPTER 15
+
+the symptoms advance over time, sometimes to the point
+of disability. ET is more prevalent than PD or Alzheimer
+disease, affecting up to 10% in those older than 65 years of
+age. Onset is most common in persons in their early twen-
+ties or in later adulthood, but ET may occur at any age. Both
+sexes are equally affected. Most patients never seek medical
+attention, because the tremor remains mild. The etiology of
+ET is partly genetic. Many studies show that it is familial in
+50–70% of patients, with autosomal dominant transmission.
+The pathobiology of ET implicates a disorder of cerebellar
+function.
+▶Clinical Findings
+
+A.   Symptoms and Signs
+ET is characterized by a 4–10-Hz symmetric action tremor
+of the arms. Action tremors includes postural tremors
+(maintaining a posture against gravity) and kinetic trem-
+ors (tremor that occurs with voluntary movement of the
+affected limb). Ninety percent of patients have arm and hand
+tremor, 30–50% have head tremor, 20% have voice tremor,
+and approximately 12% have leg tremor. ET is described as
+a monosymptomatic syndrome, yet up to 50% of patients
+have very subtle cerebellar signs, such as impaired tandem
+gait or mild ataxia. In more that 50% of patients, tremor can
+be transiently diminished by ingestion of alcohol. Common
+tasks affected by kinetic arm tremor include writing, drink-
+ing out of a full cup, and eating soup with a spoon.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Table 15–9.         Essential tremor versus parkinson disease:
+clinical.
+
+          Clinical
+     Pathophysiology             Essential Tremor         Parkinsonian Tremor
+ Age of onset                Bimodal: teens,             50 to 65 years
+                                 middle life
+
+ Progession                  May plateau for decades,    Progressive
+                                 later progressive
+ Symmetry                    Onset in both hands,        Unilateral onset,
+                                 usually worse in           asymmetrical
+                                 nondominant hand
+
+ Spiral drawing              Large, tremulous,           Small eccentric
+                                 concentric
+ Alcohol response            Yes (50%)                   No
+ Family history              Yes (50%)                   Less common
+
+ Medication                  Propranolo, primidone,      Levodopa, anticholin-
+                                 benzodiazepines,           ergics, amantadine,
+                                 topiramate                 dopamine agonists
+ Deep brain targets          Ventral intermediate        Subthalamic nucleus
+                                 thalamus, zona          Globus pallidus interna
+                                 incerta
+
+
+Table 15–8.         Essential tremor versus parkinson disease:
+phenomenology.
+                                                                 Parkinsonian
+      Phenomenology                 Essential Tremor                Tremor
+
+ Rest tremor—arms            Rarely; implies coexisting PD    Yes
+ Rest tremor—legs            No                               Yes
+
+ Kinetic tremor              Yes                              Minimally
+ Postural tremor             Tes                              Minimally
+ Intention tremor            Yes                              No
+     (dysmetria at target)
+ Head tremor                 Yes                              No
+ Face and lip tremor         No                               Yes
+
+ Tongue tremor               No                               Yes
+
+ Jaw tremor                  When mouth open or moving        When jaw is at rest
+ Voice                       Tremulous                        Hypophonic,
+                                                                  tachyphemic
+
+ Postural instability        No                               Yes
+ Ataxia; abnormal tandem     Frequent                         Rare
+
+PD = Parkinson disease.
+
+         ▶Differential Diagnosis
+         ET is most frequently misdiagnosed as PD (Tables 15–8 and
+         15–9). Distinguishing features of ET include the absence of
+         rest tremor; the symmetric onset of action tremor; and lack
+         of parkinsonian features such as bradykinesia, rigidity, or
+         loss of postural reflexes. In patients with ET, handwriting is
+         large and tremulous rather than the tremulous micrographia
+         seen in those with parkinsonism. A proximal tremor that
+         reappears with the arms held in wing position is prob-
+         ably a reemergent PD tremor. ET patients have a fourfold
+         increased risk of PD, resulting in the tremor-predominant
+         condition essential tremor–Parkinson disease, or ET-PD.
+             It can be often difficult to distinguish between mild ET
+         and enhanced physiologic tremor [EPT]; ET is chronic and
+         EPT is episodic, often situational, and provoked by a stressor.
+         Patients with head tremors may have dystonia, especially if
+         the head tremor is isolated, and the tremor exhibits dystonic
+         features: directionality, a null point or the stabilizing sensory
+         trick (“geste antagoniste.”) Cerebellar (intention) tremor
+         can be differentiated from ET by the presence of cerebellar
+         signs such as dysmetria and dysdiadochokinesis as well as by
+         marked exaggeration of the tremor as the hand approaches
+         the target (ie, with intention).
+             The leading alternative diagnosis for ET is exaggerated
+         physiologic tremor, an action tremor that resembles ET
+         except that it is occurs under stressors (anxiety) with fatigue,
+---
+                                                                              MOvEMENT DISORDERS  211
+
+ Higuchi Y, Matsude S, Serizawa T. Gamma knife radiosurgery in
+    movement disorders: Indications and limitations. Mov Disord
+    2017;32(1):28–35. [PMID: 27029223]
+ Louis ED. Essential tremor: Evolving clinicopathological concepts
+    in an era of intensive post-mortem enquiry.             Lancet Neurol
+    2010;6:613–622. [PMID: 20451458]
+ Zesiewcz TA, et al. Evidence-based guideline update: treatment
+    of essential tremor: Report of the Quality Standards subcom-
+    mittee of the American Academy of Neurology.                 Neurology
+    2011;77(19):1752–1755.
+
+   ▼▼DYSTONIA
+
+                ESSENTIALS OF DIAGNOSIS
+
+
+▶  Sustained muscle contractions, often causing twisting
+   movements or abnormal postures
+▶  Varies in age of onset, anatomic distribution
+▶  Can be primary, or can be a feature of an underlying
+   neurologic disorder or exogenous insult
+▶  When secondary, frequently accompanied by other
+   abnormal movements or neurologic signs
+
+
+
+▶General Considerations
+Dystonia is a movement disorder characterized by relatively
+sustained and directional muscle contractions that produce
+abnormal postures or twisting and repetitive movements.
+The movements are usually longer in duration than those
+seen in other movement disorders (eg, chorea or myoclo-
+nus), involve the co-contraction of agonist and antagonist
+muscles, and tend to be repetitive or patterned, consistently
+involving the same muscle groups. A formal definition of
+dystonia, originally coined by Oppenheimer in 1991, can
+be paraphrased: Dystonia consists of sustained or intermit-
+tent muscular contractions that are patterned and torsional,
+resulting in abnormal twisting movements and postures.
+Unlike the quick, random movements of chorea, or the
+sudden shock-like movements of myoclonus, dystonia is
+patterned, directional, and sustained at the peak of con-
+traction. In     action dystonia, the dystonic movements are
+elicited only with voluntary movement. When dystonia
+is triggered only with particular actions, it is called                task-
+specific dystonia; examples include writer’s cramp and the
+embouchure dystonia of woodwind and brass musicians.
+Activation of dystonic movements by actions in remote parts
+of the body is called overflow; examples include leg dystonia
+while writing or axial dystonia with talking. Dystonia that is
+suppressed by voluntary activity is called paradoxical dystonia;
+for example, talking or chewing may suppress dystonia
+involving facial and oromandibular muscles (also known as
+Meige syndrome).
+
+Table 15–10.       Treatment of essential tremor.
+
+      Drug              Initial Adult Dose          Usual Effective Dose
+ Propranolol       20 mg/day                     80–240 mg/day
+
+ Primidone         12.5–25 mg at bedtime         50–500 mg/day
+
+ Topiramate        12.5–25 mg/day                100–400 mg/day
+ Clonazepam        0.5 mg/day                    2–4 mg/day
+ Gabapentin        100 mg                        1200–1800 mg/day
+
+or due to medication or stimulants. Tremorogenic agents
+include caffeine, methylphenidate, lithium, valproate, selec-
+tive serotonin reuptake inhibitors, tricyclic antidepressants,
+β-adrenergic agonists, ephedrine, theophylline, corticoste-
+roids, and tacrolimus. Hyperthyroidism can cause a sym-
+metrical tremor that mimics ET. Action tremors occur in
+neuropathy causing weakness.
+
+▶Treatment
+Propranolol, a β-blocker, and primidone, an anticonvulsant,
+are the two first-line and most commonly used agents for
+treatment of ET (Table 15–10). Side effects may limit toler-
+ability and necessitate switching to an alternate medication.
+Benzodiazepines (clonazepam, alprazolam) may be effica-
+cious, perhaps by reducing the anxiety that exacerbates ET.
+The anticonvulsant gabapentin has been used as adjunct
+therapy in ET.
+    Chemodenervation using botulinum toxin improves
+limb tremor, head tremor, and voice tremor. Limitations of
+botulinum toxin therapy include excessive weakness at the
+site of injection and the short-lived nature of the response,
+necessitating reinjection every 3–6 months, depending upon
+the site.
+    For tremors that are disabling and refractory to medica-
+tion, deep brain stimulation targeting the VIM thalamus or
+zona incerta or a stereotactic lesioning procedure may offer
+the only effective therapy. DBS has an advantage over a thal-
+amotomy using focused ultrasound or gamma knife because
+lesioning procedures can only be performed unilaterally, and
+an off-target lesion may cause permanent grain injury. The
+lesioning procedures may be advantageous for patients who
+cannot undergo implantation of a brain electrode.
+
+ Bhatia KP, et al. Consensus statement on the classification
+    of tremors from the task force on tremor of the Interna-
+    tional Parkinson and Movement Disorder Society. Mov Disord
+    2018;33(1):75–87. [PMID: 29193359]
+ Elias WJ, et al. A pilot study of focused ultrasound thalamot-
+    omy for essential tremor. N Engl J Med 2013;369(7):640–648.
+    [PMID: 27959759]
+ Haubenberger D, Hallett, M. Essential tremor. N Engl J Med
+    2018;378:1802–1810. [PMID: 29742376]
+---
+              212                                                           CHAPTER 15
+
+              Factors that tend to exacerbate dystonia include fatigue                           known to result from defined genetic mutations and rooted
+         and     emotional         stress,    whereas        the    movements           usually  in pathology. The new dystonia classification is anchored
+         decrease with relaxation or sleep. Many patients discover                               by two axes—axis I and axis II—as shown in Table 15–11.
+         a tactile or proprioceptive sensory trick (geste antagoniste)                           Axis I combines all of the prior clinical descriptors into a
+         that minimizes the dystonia; for example, a patient with                                framework encompassing age of onset, body distribution,
+         cervical dystonia may touch the chin. Severe dystonia is less                           temporal pattern and associated clinical manifestations.
+         likely to respond to these maneuvers, and joint contractures                                 Dystonia is subclassified by anatomic distribution, by age of
+         can occur when dystonia is long-standing.                                               onset, and by etiology. In            focal dystonia, the abnormal move-
+              The new classification of dystonia is the result of the                            ments involve a single body region, whereas segmental dystonia
+         discovery of several causative genes, which has reduced                                 affects two or more contiguous body parts. When                           multifocal,
+         the previous categories “primary,” “secondary,” and “idio-                              two or more noncontiguous body areas are involved.                              Hemi-
+         pathic” into a wide grouping of dystonia syndromes now                                  dystonia     affects one side of the body and is suggestive of a
+
+
+                                     Axis II
+Pathology                           Evidence of degeneration (including iron
+                                         or copper accumulation)
+                                    Structural lesion (such as tumor, stroke,
+                                         toxic exposure)
+
+Inherited                           Autosomal dominant
+                                    Autosomal recessive
+                                    X-linked
+                                    Mitochondrial
+
+
+
+
+
+
+
+
+
+
+
+Acquired                            Brain injury
+(due to a known specific cause)     Infection
+                                    Drug, Toxin
+                                    Hypoxia
+                                    Vascular
+                                    Paraneoplastic
+                                    Brain accumulation of iron (NBIA: PKAN
+                                         due to mutation in PANK 1 or PANK 2
+                                         genes), neuroferritinopathy,
+                                         aceruloplasminemia
+                                    Wilson disease
+Idiopathic                          Sporadic
+                                    Familial (assumed genetic; mutation not
+                                         yet detected)
+
+
+
+
+
+Table 15–11.           New dystonia classification.
+                                               Axis 1
+  Clinical features        Age of onset             Infancy (0–2 years)
+                                                    Childhood (3–12 years)
+                                                    Adolescence (13–20 years)
+                                                    Early adulthood (21–40 years)
+                                                    Late adulthood (>40 years)
+                           Body distribution        Focal (single body region):
+                                                    Orbicularis oculi (blepharospasm)
+                                                    Larnynx (spasmodic dysphonia)
+                                                    Face (cranial)
+                                                    Neck (cervical dystonia)
+                                                    Arm/hand
+                                                    Foot
+                                                    Segmental:
+                                                    Face and neck
+                                                    Neck and arm
+                                                    Multifocal
+                                                    Generalized (usually involves trunk or
+                                                        both legs)
+                                                    Hemidystonia (usually caused by a focal
+                                                        basal ganglia lesion)
+                           Temporal pattern         By disease course:
+                                                    Acute
+                                                    Chronic or persistent
+                                                    Static
+                                                    Progressive
+                                                    By variability:
+                                                    Paroxysmal
+                                                    Diurnal
+                                                    Task-specific
+
+
+                           Associated features      Isolated (formerly “primary”)
+                                                    except for tremor Combined (formerly
+                                                        “dystonia plus”)
+                                                    Combined
+                                                    Associated with:
+                                                    • Other neurologic conditions
+                                                    • Other movement disorders
+                                                    • Other systemic manifestations
+---
+                                                                            MOvEMENT DISORDERS  213
+
+     Most isolated (formerly “primary”) dystonias are focal
+or segmental in distribution, with onset in adulthood.
+About 10% of patients with isolated dystonia have general-
+ized dystonia, usually starting in childhood or adolescence
+(early-onset). DYT1, a major cause of early-onset dystonia,
+results from mutation of the gene TOR1A located on the
+long arm of chromosome 9 (9q34.1).                    TOR1A      codes for
+torsinA, a heat-shock protein that binds ATP; in DYT1
+dystonia, deletion of a GAG triplet from this gene results in
+loss of a glutamic acid residue from torsinA. This deletion
+is especially common in the Ashkenazi Jewish population,
+where its prevalence is 1 in 2000 persons. It is inherited in
+an autosomal dominant fashion, with reduced penetrance
+of 30%. DYT1 dystonia (formerly called Oppenheim dysto-
+nia or dystonia musculorum deformans) is now classified as
+early-onset, generalized, persistent, isolated, inherited and
+dominant disorder. It has a mean age at onset of 12.5 years
+and begins in a limb in 94% of cases. It tends to progress
+to generalized dystonia; as mentioned earlier, the prob-
+ability of generalization is related to age and site of onset.
+A less common early-onset inherited primary dystonia is
+DYT6 dystonia due to heterozygous mutations in the gene
+THAP1. THAP1 is a member of a family of cellular factors
+that share a conserved THAP (thanatos-associated pro-
+tein) DNA binding domain. Dystonia due to THAP1 often
+involves the arms and axial muscles but differs from DYT1
+in that speech is also frequently affected due to oroman-
+dibular or laryngeal involvement. It may, however, mimic
+DYT1. Other loci for primary dystonia include DYT7 (late-
+onset autosomal dominant focal dystonia in a northwestern
+German family and DYT17 (early-onset autosomal reces-
+sive dystonia in a Lebanese sibship with segmental and gen-
+eralized dystonia including dysphonia and dysarthria). The
+most common genetic dystonia syndromes are presented in
+Table 15–12.
+     The dystonia-plus syndromes include dopa-responsive
+dystonia, rapid-onset dystonia-parkinsonism, and myoclonus-
+dystonia. Perhaps the most important to recognize is dopa-
+responsive dystonia (DRD), or Segawa disease, as it is treated
+very effectively with levodopa. Typically, gait dysfunction
+(often appearing stiff-legged or spastic) begins in early or
+mid-childhood, and symptoms are worst late in the day and
+improve with sleep. Parkinsonism, including rigidity, bra-
+dykinesia, flexed posture, and loss of postural reflexes, may
+be prominent, making juvenile parkinsonism an important
+differential diagnosis. DRD has also been misdiagnosed
+as cerebral palsy. Girls are affected more often than boys.
+Onset in adulthood is uncommon, and may present as focal
+dystonia or parkinsonism. Most cases of DRD are caused
+by heterozygous mutations in the GTP-cyclohydrolase I
+(GCH1) gene located at 14q22.1 (DYT5); many different
+mutations have been identified, making genetic testing
+complex and expensive. The mutations impair the activity
+of GTP-cyclohydrolase I, which catalyzes the rate-limiting
+step in the synthesis of tetrahydrobiopterin, a necessary
+cofactor for tyrosine hydroxylase; tyrosine hydroxylase in
+secondary dystonia. Generalized dystonia involves the legs (or
+one leg and the trunk) plus at least one other area of the body.
+    Cervical dystonia is the most common of the focal dystonias.
+Various combinations of neck muscles may be involved to
+produce abnormal head positions, including horizontal turn-
+ing (torticollis), tilting (laterocollis), flexion (anterocollis), or
+extension (retrocollis). Repetitive jerking of the head may
+resemble tremor, but can usually be distinguished by its
+directional preponderance. Approximately 75% of patients
+complain of neck pain. Less common than cervical dystonia
+are the focal dystonias that involve cranial muscles. Blepha-
+rospasm    causes contraction of the orbicularis oculi; mild
+cases are characterized by increased blink rate with flurries of
+blinking, whereas more severely affected patients have visual
+impairment due to sustained forceful eye closure. Spasmodic
+dysphonia results from dystonia of the vocal cords; abnor-
+mal adduction, which causes a strained, strangled voice, is
+more common than abduction, in which the voice sounds
+whispering and breathy. In oromandibular dystonia there is
+abnormal activity in lower facial, tongue, jaw, and pharyn-
+geal muscles that may interfere with speaking or swallowing.
+Brachial dystonia       is a form of focal dystonia that may be
+primarily, or only, present with writing (writer’s cramp); it is
+probably more common than is usually recognized. In about
+15% of patients, there is spread from the dominant to the
+contralateral arm, at which point it is considered segmental
+bibrachial dystonia. Other segmental dystonias involve the
+cranial muscles (eg, Meige syndrome), sometimes in combi-
+nation with neck muscles (cranial-cervical dystonia).
+    Age at onset is an important prognostic consideration,
+because patients with onset of dystonia in childhood or ado-
+lescence are likely to progress to generalized or multifocal dys-
+tonia, especially when the dystonia initially involves the leg.
+    Classification of a patient’s dystonia by etiology is useful
+for prognosis, for guiding therapy, and for genetic counsel-
+ing. In isolated dystonia, which may be familial or sporadic,
+no associated neurologic abnormalities (eg, dementia, ocu-
+lar abnormalities, ataxia, spasticity, or paresis) are present.
+(An exception is tremor, which is common in patients with
+primary dystonia, especially cervical dystonia.) Isolated dys-
+tonia is distinguished from the combined dystonias (formerly
+“secondary” dystonia or “dystonia plus” or “symptomatic”
+dystonia) by the absence of signs other than dystonia as well
+as by the absence of an identified exogenous cause or brain
+degeneration. The combined dystonias include (1) the inher-
+ited dystonia-plus syndromes, which are similar to primary
+dystonia in that there is no evidence of brain degeneration,
+but signs other than dystonia are present (specifically myoc-
+lonus and parkinsonism); (2) inherited neurologic conditions
+associated with neuronal degeneration (eg, Huntington dis-
+ease, Wilson disease, the spinocerebellar ataxias); (3) dystonia
+associated with PD and other parkinsonisms; and (4) dystonia
+due to environmental causes (eg, exposure to neuroleptics,
+stroke). Finally, dystonia may occur as a feature of other
+movement disorders, such as tic disorders and paroxysmal
+dyskinesias.
+---
+              214                                                         CHAPTER 15
+
+Table 15–12.          Most common genetic dystonia syndromes.
+   Nomenclature            Inheritance              Locus                           Gene Product
+ DYT1                    AD                   9q34.11              TOR1A, torsinA
+
+
+
+ DYT3                    XR                   Xq13.1               TAF1
+ DYT4                    AD                   19.p13.3             TUBB4a, β-tubilin 4a
+ DTY5a                   AD                   14q22.2              GTP cyclohydrolase 1 [GCH-1]
+ DYT5b                   AR                   11p15.5              Tyrosine hydroxylase [TH]
+ DYT6                    AD                   8p11.21              THAP1
+
+ DYT7                    AD                   18p                  Unknown
+ DYT8                    AD                   2q35                 PNKD protein (formerly myofibillogenesis
+                                                                       regulator)
+ DYT11                   AD                   7q21.3               Epilsilon sarcoglycan [SGCE]
+
+ DYT12                   AD                   19.q13.2             Na+/K+-ATPase alpha 3 subunit [ATP1A3]
+ DYT17                   AR                   20p11.2-q13          Unknown
+ DYT18                   AD                   1p34.2               SLC2A1, glucose transporter 1 [GLUT1]
+ DYT19                   AD                   16q13-21             Unknown
+
+ DYT20                   AD                   2q31                 Unknown
+ DYT23                   AD                   9q34.11              CDKN1A-interacting zinc finger protein 1
+                                                                       [CIZ1]
+ DYT24                   AD                   11p14.2              Anoctamin 3 [ANO3]
+ DYT25                   AD                   18p11.21             Guanine nucleotide-binding protein
+                                                                       alpha-activating [GNAL]
+
+         AD = autosomal dominant; AR = autosomal recessive.
+
+
+                         Phenotype
+Original “classic” Openheim phenotype, childhood-onset
+    monosymptomatic disorder, usually begins in the limb,
+    with generalization, prevalence in Ashkenazi Jews,
+    30% penetrance
+“Lubag” X-linked dystonia-parkinsonism, Filipino
+Generalized dystonia with spasmodic dysphonia
+Classic dopa-responsive dystonia (DRD; Segawa disease)
+DRD, infantile parkinsonism
+Mixed dystonia (neck, limbs, generalized); often with
+    dysphonia, mennonites
+Adult-onset cervical dystonia
+Paroxysmal nonkinesigenic dyskinesia [Mount-Reback
+    type]
+Myoclonic dystonia; tremors, myoclonus (parkinsonism,
+    alcohol-responsive, juvenile-onset)
+Rapid-onset dystonia-parkinsonism
+Juvenile-onset torticollis, segmental and generalized spread
+Paroxysmal exertional dyskinesia [PED]
+Paroxysmal kinesigenic dyskinesia [EKD2] but without
+    epilepsy
+Paroxysmal nonkinesigenic dyskinesia [PNKD2]
+Cervical dystonia
+
+Cervical-brachial-cranial dystonia, jerky torticollis
+Craniocervical dystonia
+
+         turn converts tyrosine to levodopa. Inheritance is autosomal                                  heterozygous mutations in GCH1, in genes for other enzymes
+         dominant with reduced penetrance that appears to be sex-                                      involved in pterin metabolism, and in genes encoding tyro-
+         influenced (ie, higher in girls). Although the dystonia may                                   sine hydroxylase. Patients with these defects are often more
+         improve dramatically with anticholinergic medications such                                    severely affected clinically, and features due to deficiency of
+         as trihexyphenidyl, a trial of oral levodopa therapy at low                                   norepinephrine and serotonin may predominate.
+         doses (usually no more than 300–400 mg daily) is useful for                                        Myoclonus-dystonia             (DYT11) is a combined dystonia
+         diagnosis as well as for treatment. Additional support for the                                syndrome with prominent myoclonic jerks, usually affect-
+         diagnosis can be obtained from a phenylalanine-loading test,                                  ing the arms and trunk more than the legs. Inheritance is
+         in which blood levels of phenylalanine remain elevated for a                                  autosomal dominant, and many patients have a mutation in
+         prolonged period, because of the role of tetrahydrobiopterin                                  the epsilon-sarcoglycan (SGCE) gene on chromosome 7q21.
+         as a cofactor for phenylalanine hydroxylase as well as tyro-                                  Onset is usually in childhood or adolescence. The symptoms
+         sine hydroxylase. Measurement of biopterin metabolites in                                     characteristically respond to alcohol, and alcoholism (as well
+         cerebrospinal fluid may also aid in diagnosis.                                                as other psychiatric disorders) is not uncommon.
+              In addition to classic DRD due to heterozygous                           GCH1                 Another rare dystonia combined syndrome is                         rapid-
+         mutations, DRD may result from homozygous or compound                                         onset dystonia-parkinsonism                (DYT 12), in which dystonia
+---
+                                                                  MOvEMENT DISORDERS  215
+
+    Rarer heredodegenerative causes of dystonia include
+other autosomal-recessive inborn errors of metabolism,
+such as Niemann-Pick type C, neuronal ceroid lipofuscino-
+
+sis, GM1 and GM2 gangliosidoses, glutaric academia, and
+methylmalonic aciduria. Formerly called Hallervorden-Spatz
+disease,   pantothenate kinase–associated neurodegeneration
+(PKAN) is an autosomal recessive disease resulting in abnor-
+mal deposition of iron in the basal ganglia, producing child-
+hood onset of dystonia, spasticity, seizures, and dementia.
+Other inherited causes of dystonia (often accompanied by
+parkinsonism and other neurologic signs) that are associ-
+ated with neurodegeneration with brain iron accumulation
+include PLA2G6 (PARK14)-associated neurodegeneration,
+neuroferritinopathy, and Kufor-Rakeb disease (PARK9). Lubag
+(DYT3) is an X-linked recessive dystonia-parkinsonism affect-
+ing male Filipinos. Usual onset is in adulthood, with cranial or
+generalized dystonia; parkinsonism may co-occur or develop
+later. The course tends to be progressive. The deafness-dystonia
+(Mohr-Tranebjaerg) syndrome is an X-linked recessive con-
+dition with mutation in the DDP1 gene. The spinocerebellar
+ataxias (especially SCA3 [Machado-Joseph disease], SCA2,
+and SCA17) can be associated with dystonia, as can dentato-
+rubropallidoluysian atrophy.
+
+▶Pathoanatomy
+
+Many cases of secondary dystonia are associated with lesions
+of the basal ganglia (especially the putamen), or with their
+connections. Degenerative brain changes are not reported
+in primary dystonia, but relatively few brains have been
+studied. One study described neuronal inclusions in the
+brainstem of DYT1 cases. Increased copper deposition in
+the basal ganglia of adult-onset focal dystonia has been
+described. Functional imaging of DYT1 patients with PET
+demonstrates altered metabolism in neural circuits involving
+the cerebral cortex, basal ganglia, thalamus, and cerebellum.
+
+▶Prevention
+No intervention is known to prevent the development of
+
+dystonia. Genetic counseling is useful in educating patients
+about the likelihood of transmitting the condition to succes-
+sive generations.
+
+
+▶Clinical Findings
+A.   Laboratory Findings
+Like most movement disorders, the diagnosis of dystonia
+is made on clinical grounds rather than on the basis of
+laboratory testing. Nevertheless, the cause of the dystonia
+sometimes can be elucidated through further investigations.
+The primary and dystonia-plus dystonias for which genetic
+testing is currently commercially available are DYT1, DYT6,
+DRD, and myoclonus-dystonia. A positive result obviates
+the need for further diagnostic testing. Genetic counseling
+must be available for patients undergoing this test.
+and parkinsonism begin suddenly in adolescence or early
+adulthood and progress over hours to weeks, after which the
+symptoms usually stabilize. Inheritance is autosomal domi-
+nant and maps to 19q13. The responsible gene codes for the
+A3 catalytic subunit of the Na+/K+-ATPase pump.
+
+    Although the causes of combined dystonia are numerous,
+and increasing, patients with isolated dystonia significantly
+outnumber the secondary cases. Nevertheless, it is important
+to identify patients with combined dystonia, as treatment
+of the underlying condition may be warranted. Factors that
+raise the likelihood that dystonia is acquired from a specific
+medical or neurologic cause include history of a potentially
+etiologic factor (eg, perinatal injury, stroke, encephalitis,
+head trauma or peripheral trauma, brain tumor, exposure to
+neurotoxic agents); abnormalities in the neurologic exami-
+nation (including hemidystonia), neuroimaging, or labora-
+tory evaluation; onset of dystonia at rest rather than action;
+early onset of cranial dystonia or late onset of leg dystonia;
+and evidence that the dystonia is psychogenic.
+    One cause of acquired dystonia is exposure to drugs that
+block dopamine receptors; neuroleptic agents used in psychi-
+atric practice and the antiemetics are most frequently respon-
+sible. Dystonia may occur soon after initiation of therapy
+(acute dystonic reaction) or after prolonged treatment (tardive
+dystonia). These are discussed in more detail in the section on
+drug-induced movement disorders. Exogenous causes also
+include injury to the CNS (especially the basal ganglia, cere-
+bellum, and thalamus) or peripheral nervous system; dystonia
+can be a feature of complex regional pain syndrome. It is also
+relatively common for dystonia to emerge through psycho-
+genic mechanisms; features that suggest a nonorganic etiology
+include movements that vary over time, disappearance with
+distraction, give-way weakness, and sensory findings that do
+not conform to a physiologically plausible pattern.
+    Inherited degenerative diseases that can cause dystonia
+include many autosomal dominant and autosomal recessive
+conditions, X-linked dominant and recessive conditions, and
+mitochondrial defects. As mentioned previously, these dis-
+eases usually do not cause pure dystonia. Wilson disease is an
+important consideration, because it requires early treatment. It
+results from mutations in the ATP7B gene on chromosome 13,
+which produce a defect in copper metabolism, leading to the
+insidious development of neurologic, psychiatric, or hepatic
+dysfunction. Inheritance is autosomal recessive; more than
+200 different mutations have been reported, making genetic
+testing impractical. When onset is in childhood, Wilson
+disease usually presents with hepatic dysfunction, but neu-
+rologic presentation is most typical in adult-onset disease.
+Dystonia can be generalized, segmental, or multifocal, but
+cranial involvement is characteristic; Wilson’s original 1912
+monograph highlighted the typical “sardonic” smile. Other
+common neurologic abnormalities include tremor (classi-
+cally “wing-beating”), dysarthria, dysphagia, drooling, ataxia,
+and dementia. In addition to brain and liver (cirrhosis, acute
+hepatitis) involvement, systemic findings can involve the
+eyes, heart, kidneys, bones, joints, glands, and muscles.
+---
+             216                                                   CHAPTER 15
+
+hyperintensity (the “eye-of-the-tiger sign”). PET scanning
+may be supportive of primary dystonia, but rarely is crucial
+in making the diagnosis.
+
+▶Differential Diagnosis
+
+A variety of central and peripheral nervous systems disorders,
+as well as non-neurologic conditions, can be associated with
+abnormal postures that resemble torsion dystonia (sometimes
+called   pseudodystonia). For example, tonic seizure activity
+can produce sustained twisting movements. Head tilt can
+reflect palsy of the trochlear nerve, vestibulopathy, pathology
+in the posterior fossa, or a retropharyngeal soft tissue mass. Stiff
+person syndrome causes contraction of axial and proximal limb
+muscles. Nerve and muscle abnormalities include neuromyo-
+tonia (Isaac syndrome), the myotonic disorders, inflammatory
+myopathies, and glycogen storage diseases (eg,                     Satoyoshi
+disease). Carpopedal spasms of tetany can be the manifestation
+of hypocalcemia, hypomagnesemia, or alkalosis. Orthopedic
+and rheumatologic processes involving bones, ligaments, or
+joints can result in abnormal postures. In Sandifer syndrome,
+patients (typically young boys) with hiatal hernia develop head
+tilt in association with gastroesophageal reflux.
+
+▶Complications
+
+Long-standing torsion dystonia can result in fixed contrac-
+tures or scoliosis. Dystonic storm or status dystonicus is a
+rare but life-threatening disorder that may occur in primary
+or secondary dystonia, especially in children or adolescents
+with underlying generalized dystonia. Severe repeated dys-
+tonic spasms may interfere with respirations and cause
+hyperpyrexia, dehydration, and acute renal failure secondary
+to rhabdomyolysis; it requires aggressive treatment that may
+include emergent deep brain stimulation.
+
+▶Treatment
+When dystonia is secondary, treatment of the underlying con-
+dition may produce improvement in the dystonia. In patients
+with tardive dystonia or an acute dystonic reaction, dopamine
+receptor–blocking drugs should be eliminated or replaced
+whenever possible (as detailed in section on drug-induced
+movement disorders). Structural lesions may be amenable to
+surgical correction. Management of Wilson disease consists
+of copper chelation therapy (usually with penicillamine as a
+first-line agent) and oral zinc, which induces copper-binding
+metallothionein in enterocytes. Some of the inborn errors
+of metabolism may respond to dietary restriction or supple-
+mentation. Patients with DRD usually are maintained on
+low-dose carbidopa/levodopa therapy. Although currently
+there is no curative therapy for primary dystonia, several
+effective options for symptomatic treatment are available;
+these include oral pharmacologic agents, chemodenerva-
+tion, and surgery. Of the various oral medications that have
+been studied, anticholinergic agents are the most efficacious
+     Genetic testing for DYT1 dystonia is indicated for patients
+with onset of dystonia before 26 years of age, as well as for
+patients with later onset who have a relative with early-onset
+dystonia. Data to guide DYT6 testing are insufficient at pres-
+ent. Most patients with clinically typical DRD have identified
+mutations in GCH1 if comprehensive analysis is performed,
+including testing for deletions. There is genetic testing for
+myoclonus-dystonia, although many sporadic cases do not
+harbor SGCE mutations. Genetic testing is also available for
+many of the secondary dystonias, including SCAs and PKAN.
+An excellent resource for genetic counseling and testing
+information is www.genetests.org, a publicly funded resource.
+     If genetic testing is negative or is not indicated, much of
+the remaining work-up is directed toward identifying a sec-
+ondary cause for the patient’s dystonia. Treatable conditions
+that should always be considered in the differential diagnosis
+include DRD and Wilson disease. We offer a trial of carbi-
+dopa/levodopa to all non-DYT1 patients with early onset of
+symptoms as well as to late-onset patients with features sug-
+gesting DRD (ie, parkinsonism, diurnal variation). The dose
+is increased as tolerated over several weeks; although a daily
+dose of 600 mg levodopa is sometimes required, failure to
+respond to a dose of 300 mg/day usually excludes the diag-
+nosis of DRD. Wilson disease should be excluded in patients
+with onset of dystonia before age 50. Diagnostic laboratory
+findings in patients with neurologic signs due to Wilson dis-
+ease include MRI abnormalities involving the putamen, thala-
+mus, and brainstem; reduced serum ceruloplasmin; increased
+24-hour urinary copper excretion; and Kayser-Fleischer rings
+in the cornea due to deposition of copper in Descemet
+membrane. These are best seen with slit lamp examination.
+Although noninvasive studies are usually adequate for diag-
+nosing neurologic Wilson disease, liver biopsy to assess cop-
+per content has high sensitivity and may be considered.
+     Evaluation of secondary dystonia is dictated by clues pro-
+vided by the history and examination. Routine blood tests such
+as complete blood count, electrolytes, glucose, calcium, magne-
+sium, coagulation profile, and kidney, liver, and thyroid func-
+tion may be supplemented by sedimentation rate, antinuclear
+antibody screen, and syphilis screen. Specific clinical findings
+or laboratory abnormalities may dictate further investigations,
+including electrophysiologic studies, lumbar puncture, biopsy
+of various tissues, or metabolic studies of blood, urine, or
+cerebrospinal fluid. Testing for the human immunodeficiency
+virus should be considered in the appropriate setting.
+B.   Imaging Studies
+
+All patients suspected of having a secondary form of dystonia
+should undergo MRI (or, if not possible, CT) of the brain. In
+primary dystonia and in the dystonia-plus syndromes, brain
+MRI is normal. In secondary and heredodegenerative dysto-
+nias, MRI may show calcification, necrosis, or other abnor-
+malities in the basal ganglia. In some cases, these changes
+are quite specific; for instance, T2-weighted MRI in PKAN
+often shows hypointensity in the globus pallidus with medial
+---
+                                                                                       MOvEMENT DISORDERS       217
+
+dyskinesias and dystonia in Parkinson disease and neuro-
+physiologic studies that demonstrate an abnormal pattern
+of neuronal discharging from the globus pallidus in patients
+with generalized dystonia, current surgical interventions
+target this region of the basal ganglia. Although either palli-
+dotomy or DBS can modulate the pallidal output, DBS has
+the advantages over ablative surgery of being reversible and
+having multiple stimulator parameters that can be adjusted
+noninvasively to optimize the outcome in a particular
+patient. DBS has been performed in patients with primary
+generalized dystonia, secondary generalized dystonia, cervi-
+cal dystonia, blepharospasm, Meige syndrome, and tardive
+dystonia. In a 2006 meta-analysis of 24 studies including
+137 patients who underwent DBS for dystonia, the great-
+est improvement was seen in patients with PKAN, DYT1
+dystonia, and tardive dystonia. Surgical denervation proce-
+dures such as ramisectomy and rhizotomy as well as myec-
+tomy may be useful in selected cases of cervical dystonia.Because patients with dystonia often have associated
+comorbidities, consultation with specialists including ortho-
+pedic surgeons, physiatrists, and psychiatrists can be useful.
+Many patients derive benefit from physical, occupational,
+and speech therapy. Various devices have been developed
+that provide sensory input via the affected body part,
+simulating a sensory trick. Alternative and complementary
+modalities such as acupuncture, biofeedback, massage, and
+relaxation techniques may be helpful.
+
+ Albanese A, et al. Phenomenology and classification of dystonia:
+     A consensus update. Mov Disord 2013;28(7):863–873. [PMID:
+     23649720]
+ Lohmann K, Klein C. Update on the genetics of dystonia. Curr
+     Neurol Neurosci Rep 2017;17(3):26. [PMID: 28283962]
+ Schwarz CS, Bressman SB. Genetics and treatment of dystonia.
+     Neurol Clin 2009;27:697–718. [PMID: 19555827]
+ Shanker V, Bressman SB. Diagnosis and management of dystonia.
+     Continuum (Minneap Minn) 2016;22(4 Movement Disorders):
+     1227–1245. [PMID: 27495206]
+
+
+   ▼▼MYOCLONUS
+
+
+                ESSENTIALS OF DIAGNOSIS
+
+▶
+    Brief, sudden, shock-like, involuntary muscle contractions
+
+▶General Considerations
+
+Myoclonus means “a quick movement of muscle.” Myo-
+clonic jerks are shock-like, involuntary muscle contractions
+that may be rhythmic and repetitive or random and unpre-
+dictable. The jerks may be focal, segmental, or generalized.
+Myoclonic jerks are often stimulus-sensitive and induced by
+sudden noise or movement. Positive myoclonus, a sudden,
+
+Table 15–13.        Oral medications used in management of
+dystonia.
+                                           Usual Effective Dose (mg/day)
+
+ Anticholinergic agents
+    Trihexyphenidyl                     6–80
+    Benztropine                         4–8
+    Ethopropazinea                      100–400
+ Benzodiazepines
+    Clonazepam                          1–4
+    Diazepam                            10–60
+    Lorazepam                           1–6
+ Dopamine-depleting agents
+    Tetrabenazine                       50–200
+    Reserpine                           1–3
+ GABA agonist
+    Baclofen                            30–80
+aGABA = γ-amino butyric acid.
+ Not available in the United States.
+
+
+(Table 15–13). Trihexyphenidyl is the best studied and prob-
+ably the most widely used, although benztropine, diphen-
+hydramine, and ethopropazine (which is not available in the
+United States) may be useful as well. Use is often limited by
+peripheral anticholinergic adverse effects, including blurred
+vision, dry mouth, urinary retention, sedation, and confusion,
+and doses should be titrated slowly. Pilocarpine eye drops or
+oral pyridostigmine, a peripherally acting anticholinesterase,
+may be effective in counteracting these unwanted effects.
+Anticholinergic medications can be used singly or in combi-
+nation with other drugs, including baclofen, benzodiazepines,
+and muscle relaxants such as cyclobenzaprine. Dopamine-
+depleting agents and atypical antipsychotics may be helpful in
+the treatment of dystonia. Preliminary observations suggest
+that newer antiepileptic drugs (eg, zonisamide, topiramate,
+levetiracetam) may be useful in suppressing dystonic move-
+ments, but further study of their role is needed.
+    Chemodenervation of overactive muscles by injection of
+botulinum toxin is the treatment of choice for focal dystonia.
+The toxin produces muscle weakness by interfering with pro-
+teins in the presynaptic nerve terminal that are responsible
+for release of acetylcholine into the neuromuscular junction.
+This therapy is effective in the treatment of blepharospasm,
+cervical dystonia, spasmodic dysphonia, writer’s cramp, and
+oromandibular dystonia. Side effects can arise from unin-
+tended weakness in nearby muscles due to diffusion of toxin.
+Antibodies to botulinum toxin can develop with repeated
+injections, resulting in loss of therapeutic effect.
+    Patients whose dystonia is disabling and refractory to
+oral medications and chemodenervation may be candidates
+for surgery of the peripheral or CNS. Thalamotomy, pio-
+neered in the 1960s, is the oldest CNS surgical approach to
+dystonia. Based on the efficacy of pallidotomy for treating
+---
+             218                                                    CHAPTER 15
+
+may occur in primary generalized epilepsy, multiple sclerosis,
+encephalitis, Creutzfeldt-Jakob disease, Alzheimer disease,
+degenerative disease, toxic states, and metabolic encephalopa-
+thies. Two types of myoclonus originate from the spinal cord.
+Spinal segmental myoclonus is typically rhythmic, stimulus-
+sensitive, and restricted to a few adjacent segments of the
+spinal cord. Propriospinal myoclonus causes slow, generalized
+truncal jerks that produce truncal flexion, and in a subset of
+patients the etiology is psychogenic. Myoclonus can result
+from a peripheral nerve lesion. Movements are limited to the
+involved motor unit, usually are not sensitive to stimuli, and
+are irregular. An example is hemifacial spasm caused by a
+lesion to the facial nerve.
+B.    Imaging Studies and Other Tests
+Electroencephalography (EEG) may be useful to clarify an
+epileptic syndrome, but cortical myoclonus does not produce
+abnormalities on routine EEG. Definitive localization of a
+cortical myoclonic focus requires time-locked, back-averaged
+EEG, a highly specialized technique. In cortical myoclonus,
+somatosensory evoked potentials may show large-amplitude
+potentials. CT or MRI may reveal a focal, causal lesion.
+
+▶Treatment
+
+Therapy of myoclonus is empiric, and for best results, anti-
+myoclonic agents are used in combination (Table 15–14).
+Choice of therapeutic agents is based on diagnosis, origin of
+
+
+ Table 15–14.        Treatment of myoclonus.
+                   Initial Adult
+       Drug            Dose        Usual Effective Dose        Indication
+
+  Clonazepam       0.5 mg/day     2 mg/day divided        Posthypoxic
+                                      3 times a day          myoclonus
+                                                          Spinal myoclonus
+                                                          Progressive
+                                                             myoclonic epilepsy
+                                                          Essential myoclonus
+  Levetiracetam    250 mg/day     1000–1500 mg/day        Posthypoxic
+                                                             myoclonus
+                                                          Cortical myoclonus
+                                                          Spinal myoclonus
+  Piracetam        400 mg         1200–16,000 mg/day      Posthypoxic
+                      3 times         divided 3 times        myoclonus
+                      a day           a day               Cortical myoclonus
+                                                          Progressive myoclonic
+                                                             epilepsy
+                                                          Essential myoclonus
+  Primidonea       25 mg/day      500–750 mg/day          Cortical myoclonus
+  Valproate        125 mg         750–1000 mg/day         Most forms of
+                      2 times         divided 2 times        myoclonus
+                      a day           a day
+ aNot approved by the Food and Drug Administration.
+
+brief muscle jerk, is caused by active muscle contraction.
+Negative myoclonus (ie, asterixis) is a sudden, brief, cessa-
+tion of muscle contraction in actively contracting muscles
+that results in loss of posture followed by a compensatory
+contraction. Myoclonus may be difficult to distinguish from
+other hyperkinetic involuntary movements, especially tics
+and tremor. Unlike tics, myoclonus cannot be suppressed,
+and it does not wax and wane. In addition, myoclonus usu-
+ally produces a faster movement than a tic. Tremor is usually
+slower than myoclonus and is rhythmic and oscillatory.
+
+▶Classification
+Etiologic classification of myoclonus includes physiologic,
+essential,     epileptic,    and    symptomatic         forms.     Normally
+occurring muscle jerks such as hiccups (myoclonus of the
+diaphragm) and hypnic jerks are termed physiologic myoc-
+lonus. Essential myoclonus is a rare disorder that may be
+hereditary (autosomal dominant), sporadic, or of unknown
+cause. An important inherited cause of myoclonus that usu-
+ally starts in childhood and is commonly accompanied by
+dystonia is myoclonus-dystonia due to mutations in epsilon–
+sarcoglycan (DYT11); the syndrome is discussed earlier in
+the section on dystonia. Myoclonus that occurs in the set-
+ting of underlying epilepsy is termed                epileptic myoclonus.
+Examples include epilepsia partialis continua and juvenile
+myoclonic epilepsy. Progressive myoclonic epilepsy includes
+a group of degenerative disorders characterized by epilepsy,
+myoclonus, and progressive neurologic deterioration. Exam-
+ples of progressive myoclonic epilepsies include neuronal
+ceroid lipofuscinosis, Lafora body disease, Unverricht-
+Lundborg disease, myoclonus with epilepsy and ragged-red
+fibers (MERFF), and mitochondrial encephalomyopathy, lactic
+acidosis, and stroke-like episodes (MELAS).                    Symptomatic
+myoclonus may occur in the setting of renal and liver failure,
+drug intoxication, anoxic brain injury (posthypoxic myoclonus),
+Creutzfeldt-Jakob disease, Huntington disease, Alzheimer
+disease, and parkinsonism.
+     Myoclonus may originate from the cerebral cortex,
+subcortical structures, brainstem, spinal cord, or peripheral
+nerves. Choice of antimyoclonic therapy is guided by the
+origin of the myoclonus. Definitive localization of the focus
+of myoclonus requires complex electrophysiologic studies
+that are not routinely available.
+
+▶Clinical Findings
+
+A.   Symptoms and Signs
+Cortical myoclonus manifests as stimulus-sensitive, spontane-
+ous, arrhythmic muscle jerks, often restricted to a body part
+such as the arm, leg, or face. Cortical myoclonic jerks originate
+within the sensorimotor cortex and may be manifestations
+of a focal cortical lesion (tumor, stroke, inflammation), focal
+epilepsy, or epilepsia partialis continua. Subcortical myoc-
+lonus most often originates from the brainstem, resulting in
+stimulus-sensitive, generalized jerks. Subcortical myoclonus
+---
+                                                                            MOvEMENT DISORDERS  219
+
+disease. In addition, dopamine receptor–blocking agents
+suppress tics.
+
+▶Clinical Findings
+
+A.   Tic Phenomenology
+Tics are abrupt, purposeless, brief movements that occur
+suddenly out of a background of normal motor activity. Tics
+can be simple or complex. Simple motor tics are quick and
+short-lived: blinking, ocular deviation, facial grimacing, neck
+movements, and shoulder shrugging are examples of simple
+motor tics. Some simple motor tics are slower, sustained,
+tonic movements, such as limb muscle tensing or abdominal
+tightening. Other tics have a torsional, twisting aspect that
+is sustained at the peak of contraction, resembling dystonia.
+    Complex tics are coordinated, sequenced stereotyped
+acts, such as tapping or touching, or pantomiming an
+obscene gesture (copropraxia). Complex tics may have the
+appearance of compulsive acts, and indeed, the distinction
+is not always clear. Compulsions are driven by an irrational
+fear or anxiety that can be allayed by performing a specific
+sequence of gestures or actions, such as tapping a certain
+number of times.The term stereotypy or stereotyped movement describes
+continuous and repetitive tic movement of restricted rep-
+ertoire. Usage has linked stereotypy with developmental
+delay, autism spectrum disorder, and other neurobehavioral
+disorders—but in appearance, stereotypies resemble tics.
+    Simple vocal or phonic tics include throat-clearing
+noises, grunting, clicking, sniffing, barking, squeaking, and
+other purposeless sounds. Verbal tics, consisting of repeti-
+tive purposeless words and phrases, including obscenities
+(coprolalia), are example of complex vocal tics.
+    Most patients with tics report a premonitory sensation
+or urge, coincident with a build-up of inner tension that
+is relieved temporarily when the tic is released. Sometimes
+patients describe their prodromal feeling as a localized sen-
+sation, such as a tingling or burning, in the body part that
+participates in the tic. Many individuals can temporarily
+suppress their tics, especially during intense situations such
+as an interview or a visit to the physician, only to experi-
+ence an amplified release of tics after the encounter. It is
+commonly observed that tics may decrease during times of
+intense concentration, such as when playing a videogame or
+participating in sports. Tics may also persist during sleep.
+Echo phenomena are common in TS: Some individuals
+can imitate with extraordinary speed and accuracy a sound
+(echolalia) or gesture (echopraxia). A related phenomenon
+is the tendency for some patients to repeat their own stereo-
+typed phrases, words, and syllables, termed palilalia.
+
+B.   Clinical Features of Tic Disorders
+
+Tic disorders usually begin in childhood. The mean age
+at onset is about 6 years, with increasing severity over the
+first several years. In 96% of patients, the tics present before
+myoclonus, and side-effect profile. Standard antimyoclonic
+drugs include clonazepam, levetiracetam, piracetam, primi-
+done, and valproic acid. Valproic acid is effective in both
+cortical and subcortical myoclonus. Levodopa-carbidopa
+and sodium oxybate have been reported to benefit myoc-
+lonus dystonia, and the latter also may help posthypoxic
+cortical myoclonus.
+
+  Dijk JM, Tijssen MA. Management of patients with myoclo-
+     nus: Available therapies and the need for an evidence-based
+     approach. Lancet Neurol 2010;9:1028–1036. [PMID: 20864054]
+  Eberhardt    O,    Topka    H.   Myoclonic      disorders.    Brain  Sci
+     2017;7(8):103. [PMID: 28805718]
+
+
+   ▼▼TOURETTE SYNDROME & TIC DISORDERS
+
+
+                ESSENTIALS OF DIAGNOSIS
+
+▶   Chronic disorder of motor and vocal tics, usually begin-
+    ning before the age of 21
+▶   Male predominance
+▶   Frequently familial
+▶   Frequently associated with attention-deficit/hyperactiv-
+    ity disorder (ADHD) and obsessive-compulsive disorder
+    (OCD)
+
+
+▶General Considerations
+
+Tic disorders are conditions that cause sudden, repetitive,
+stereotyped, purposeless brief actions, gestures, sounds, and
+words. The prototype tic disorder, Tourette syndrome (TS),
+was described in a seminal 1885 report by George Gilles de la
+Tourette, in which several cardinal observations were made:
+onset during childhood, the hereditary nature of the condition,
+male predominance, and association with psychiatric disease.
+     TS is worldwide in distribution, with a 3:1 male gender
+preponderance. Estimates of the prevalence of TS in the
+population vary markedly, ranging as high as 4.2%, depend-
+ing on the methodology of the study. The prevalence of all
+types of tic disorders is considerably higher, in the range of
+20%. Studies of schoolchildren with learning difficulties tend
+to show a higher prevalence of TS. Tic disorders may exist
+in pure form, but they are often associated with comorbid
+psychiatric symptoms, as described later.
+     Despite the overwhelming clinical evidence that most
+cases of tic disorder are familial, no gene for TS has been
+identified. The cause of tics is unknown, but the leading
+hypothesis postulates a heightened sensitivity of dopamine
+receptors in the caudate and putamen, termed the dopamine
+hypersensitivity hypothesis. This notion is supported by
+the clinical observation that tics occur in many disorders of the
+basal ganglia, including Parkinson disease and Huntington
+---
+             220                                                    CHAPTER 15
+
+
+Table 15–15.         Primary tic disorders.
+           Diagnosis                                Criteria
+
+ Tourette syndrome              Presence of multiple motor and vocal tics
+                                Age at onset <21 y
+                                Tics must occur many times daily, nearly every
+                                    day, over a period of >1 y
+                                Disturbance causes marked distress or signifi-
+                                    cant impairment in daily functioning
+                                Condition cannot be ascribed to known neuro-
+                                    logic disorder (symptomatic or secondary
+                                    tic disorder)
+ Transient tic disorder         Duration of tic disorder <1 y
+
+ Chronic tic disorder           Chronic motor or chronic vocal tics (but not
+                                    both) >1 y
+ Chronic single tic disorder    Chronic single motor or chronic single vocal tic
+
+ Adult-onset tic disorder       Tic disorder that begins after the age of 21 y
+                                Two temporal patterns: de novo adult-onset tics
+                                    and recurrent childhood tics: a tic disorder
+                                    that went into remission and recurred during
+                                    adulthood
+
+
+Group in 1993, are listed in Table 15–15. The most com-
+mon and mildest tic disorder is transient tic disorder
+(TTD), estimated to occur in up to 24% of schoolchildren.
+The disorder is characterized by tics that go into perma-
+nent remission within 1 year of onset, and so the diagnosis
+can only be made retrospectively. Chronic multiple tic dis-
+order (CMTD) is a syndrome of multiple motor or vocal
+tics, but not both. Chronic single tic disorder (CSTD) is
+a condition in which patients experience only a single,
+recurrent motor or vocal tic. Such a classification is artifi-
+cial, because all tic disorders represent variants that share
+a common underlying pathophysiology and genetic pre-
+disposition. The severity of a tic disorder is independent
+of the temporal profile, because a patient with a single,
+disruptive tic may be more disabled than an individual
+with multiple mild tics.
+
+▶Differential Diagnosis
+
+Tics can usually be differentiated from other major types
+of hyperkinetic movements because they are uniquely ste-
+reotyped and usually preceded by a premonitory sensation.
+A blinking tic may have the appearance of blepharospasm,
+but the presence of tics at other body sites marks the condi-
+tion as a tic disorder. Furthermore, although tics typically
+begin in childhood, blepharospasm is largely a disorder with
+onset in adult life. Complex motor tics may be difficult to
+differentiate from compulsions, and indeed many patients
+exhibit both types of behaviors. Tics occur automatically,
+with little premeditation, whereas compulsive motor acts are
+deliberately performed, purposeless actions often driven by
+age 11. The most common initial symptom is eye blinking,
+and during the course of the disorder, nearly all patients
+experience tics involving the face and neck. Vocalizations
+are reported as the initial symptom in about one third of
+patients, and the most common phonic tic is throat-clearing.
+Sniffing and coughing are frequent phonic tics that can be
+quite disruptive and trigger an initial medical evaluation for
+asthma or an otolaryngeal problem. Coprolalia, the most
+notorious and potentially disabling of tics, is present only in
+a small minority of patients with tic disorders, estimated at
+
+less than 3%.
+     About 50% of TS patients demonstrate symptoms of
+OCD, such as compulsive checking, counting, obsessive
+orderliness,      hoarding,       and    obsessive     fears    or   worries.
+About half of patients with TS show evidence of ADHD,
+manifested by inattention, distractibility, impulsivity, and
+hyperactivity, or pure attention deficit disorder without
+hyperactivity (ADD). Boys with TS are more likely to
+have ADHD symptoms, whereas girls with TS have OCD
+symptoms. In contrast to tics, ADHD and OCD symptoms
+are significantly associated with impaired emotional and
+social adjustment. A small number of individuals manifest
+self-injurious behavior. In addition to ADHD and OCD,
+the behavioral spectrum of TS includes conditions such
+as generalized anxiety disorder, panic attacks, phobias,
+and mood disorder. Overall, patients with TS have normal
+intelligence.
+
+C.   Classification of Tic Disorders
+
+The spectrum of tic disorders ranges from mild, transient
+tics to multiple, chronic, disabling tics with associated psy-
+chopathology. For the purpose of diagnostic clarity, classifi-
+cation systems have evolved using standard clinical criteria.
+Primary tic disorders are “essential” idiopathic conditions in
+which the tics represent the only neurologic sign.
+     Secondary tic disorders are neurologic disorders in which
+tics are part of a larger neurologic syndrome that may include
+developmental delay, parkinsonism, dystonia, chorea, or
+a known genetic or acquired neurologic injury, including
+trauma, infection, or stroke. Secondary tic disorders almost
+always result from lesions of the basal ganglia. Among the
+many neurodegenerative causes of tic disorders are Hun-
+tington disease, neuroacanthocytosis, and Parkinson disease.
+The Pediatric Autoimmune Neuropsychiatric Disorders
+Associated With Streptococcal infections, or PANDAS, is a
+concept of some controversy suggesting that a large number
+of cases of tic disorders and obsessive-compulsive behaviors
+result from an immune-mediated cross-reaction between
+streptococcal infection and the basal ganglia. The strength
+of the association is weak, however, and does not justify
+the treatment of routine TS with antibiotics or immune-
+modulating therapy, such as plasmapheresis or intravenous
+immune globulin.
+     The classification criteria for primary tic disorders,
+formulated by the Tourette Syndrome Classification Study
+---
+                                                                                    MOvEMENT DISORDERS  221
+
+an obsessive idea and may be repeated a specified number of
+times in a certain order.
+
+▶Treatment
+A.   General Approach
+
+The first step in the management of TS is to determine
+whether treatment is even required. The goal of treatment
+is not to achieve complete tic suppression but to allow a
+patient to function and live normally. It is always important
+to consider the treatment of tics in the context of the associ-
+ated psychopathology (ADHD, ADD, OCD, anxiety, depres-
+sion, personality disorder), which, if present, can be more
+disabling than the tic disorder. Furthermore, it is critically
+important to target the most distressing or disabling feature
+in the treatment plan. A comprehensive approach involves
+psychiatric evaluation and treatment, education of patients,
+family members, and school personnel, restructuring the
+school environment, and supportive counseling. In recent
+years, there has been increasing emphasis on behavioral
+modification techniques for controlling tics, although fur-
+ther study is needed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+▶Prognosis
+The course of tic disorders is unpredictable, marked by tic
+patterns that evolve, wax, and wane, varying in severity and
+prevalence over time. The treatment of tic disorders is purely
+symptomatic, and there is no evidence that it has any effect
+
+
+
+Table 15–16.        Agents for treating tic disorders.
+
+                    Usual Effective
+      Drug          Dose (mg/day)             Potential Adverse Effects
+ Clonidine         0.05–0.5            Drowsiness, hypotension
+
+ Guanfacine        0.5–4               Drowsiness, hypotension
+ Clonazepam        0.25–2              Drowsiness, irritability
+
+ Tetrabenazine     12.5–100            Drowsiness, hypotension, depression,
+                                          parkinsonism
+ Reserpine         0.25–3              Drowsiness, hypotension, depression,
+                                          parkinsonism
+ Risperidone       0.5–12              Parkinsonism, weight gain, risk of
+                                          tardive dyskinesias
+
+ Olanzapine        2.5–15              Parkinsonism, risk of tardive dyskinesias
+ Pimozide          0.5–10              Parkinsonism, risk of tardive
+                                          dyskinesias, retinopathy,
+                                          prolonged QT interval
+
+ Fluphenazine      1–5                 Parkinsonism, risk of tardive dyskinesias
+ Haloperidol       0.5–20              Parkinsonism, risk of tardive dyskinesias
+
+pimozide have actually been approved by the FDA for the
+treatment of TS. The list of incompletely evaluated agents
+for treating tics is long and includes the dopamine agonist
+ropinirole and nicotine. Patients with focal tics restricted
+to a small body part, such as blinking tics or a stereotyped
+neck twitch, may be treated successfully using injections of
+botulinum toxin.
+    Patients with associated ADHD or OCD may require
+specific treatment, because drugs used for tic suppression
+do not help these behaviors. ADHD symptoms are treated
+using psychostimulants, and OCD symptoms are treated
+using serotonin reuptake inhibitors. Although many patients
+with tic disorders are followed by pediatricians or primary
+neurologists, a psychiatrist may be required to prescribe
+and supervise the required pharmacotherapy. The phar-
+macologic treatment of TS is summarized in Table 15–16.
+Many of the agents in common use are not approved for this
+indication, and caution must be exercised to avoid adverse
+effects and medication interactions. The dose ranges for each
+agent are provided, but it is important for clinicians to tailor
+treatment to the individual and seek the advice of specialists,
+including psychiatrists, in complex cases.
+                   B.   Pharmacotherapy
+                   Medication therapy should be considered only if the symp-
+                   toms of TS are functionally disabling and not remediable
+                   by nonpharmacologic interventions. A number of thera-
+                   peutic agents are available to treat the symptoms of TS, and
+                   each medication should be chosen on the basis of specific
+                   target symptoms and potential side effects. For example,
+                   tic suppression may be the most important goal for one
+                   patient, whereas treatment of OCD may take precedence
+                   in another.
+                        The choice of medication depends on the severity of
+                   symptoms, side-effect profile, presence of comorbid psy-
+                   chopathology, and the physician’s experience. For control-
+                   ling tics, centrally acting α-2 agonists, such as clonidine or
+                   guanfacine, are considered drugs of first choice because of a
+                   favorable side-effect profile. Clonazepam may be helpful in
+                   the treatment of tics and is well-tolerated in children. Medi-
+                   cations that reduce or blunt dopaminergic transmission pre-
+                   dictably suppress tics, but they carry a higher risk of adverse
+                   effects. The catecholamine-depleting agents tetrabenazine
+                   and reserpine are effective tic-suppressing agents, but they
+                   may cause hypotension, depression, sedation, and reversible
+                   parkinsonism.
+                        Neuroleptic drugs (haloperidol, risperidone, trifluo-
+                   perazine, molindone, thiothixene, olanzapine, ziprasidone,
+                   pimozide, and most recently aripiprazole), which act as
+                   dopamine receptor antagonists, are the most predictably
+                   effective tic-suppressing medications but cause weight
+                   gain, depression, sedation, and they also carry a small but
+                   definite risk of inducing permanent tardive dyskinesia.
+                   Risperidone has been shown in a number of studies to
+                   reduce tic frequency and intensity. Only haloperidol and
+---
+            222                                                  CHAPTER 15
+
+self-limited or chronic, persistent, and irreversible. The
+range of abnormal movements caused by DRBAs is wide,
+and it is important for clinicians to recognize the individual
+drug-induced syndromes because (1)                acute drug reactions
+are immediately treatable if recognized and (2) the appear-
+ance, or phenomenology, of the abnormal movements
+comprising a tardive        syndrome determines treatment and
+prognosis. Because drug-induced movement disorders are
+iatrogenic, and sometimes permanent, it is essential that
+clinicians warn patients about their potential to occur when
+prescribing these medications.
+    The entire category of movement syndromes caused
+by DRBAs is sometimes conflated as “extrapyramidal syn-
+drome” (EPS), but the term vastly oversimplifies a com-
+plex group of disorders, each with its own distinct clinical
+features,    therapeutic     approach,      and    prognosis.     Tardive
+movement disorders tend to appear late in the course of
+treatment, hence the term          tardive. DRBAs may also cause
+acute movement disorders, chiefly acute dystonia and acute
+akathisia. In addition, chronic exposure to DRBAs may pro-
+duce reversible parkinsonism.
+
+    Most DRBAs are neuroleptics used for the treatment of
+psychosis, and although many newer agents are marketed
+as “atypical,” such as risperidone, these drugs can readily
+induce parkinsonism and tardive dyskinesias. To date, all
+of the newest DRBAs, including lurasidone, aripiprazole,
+ziprasidone, paliperidone, among other recently developed
+agents, have been reported to cause parkinsonism or tar-
+dive dyskinesias. In addition, many other agents used for
+depression (amoxapine), gastrointestinal ailments (metoclo-
+pramide), and cardiac disease (flunarizine) are DRBAs with
+the potential to cause tardive syndromes (Tables 15–17
+and 15–18).
+    The risk of developing a tardive syndrome is related to
+the avidity of D2 receptor binding and blockade but presum-
+ably also to individual susceptibility factors that have not
+been elucidated. The only antipsychotic agents that appear
+to have little or no risk of inducing a tardive syndrome are
+(1) clozapine and quetiapine, which have weak affinity for
+D2 receptors and appear to exert their antipsychotic effects
+
+
+
+Table 15–17.        Neurologic adverse effects of dopamine
+receptor antagonists.
+ Acute reactions
+ • Acute dystonia
+ • Acute (or subacute) akathisia
+ Drug-induced parkinsonism
+ Neuroleptic malignant syndrome
+ Tardive syndromes
+ • Classical tardive dyskinesia
+ • Tardive dystonia
+ • Tardive akathisia
+
+on the long-term course of the condition. Approximately
+one half of patients experience a gradual and complete
+remission in tics by the end of adolescence. Tic severity
+during childhood does not appear to predict the long-term
+outcome. In general, the prognosis for normal occupational
+and social functioning depends more on the associated psy-
+chopathology than the tics.
+
+ Frundt O, Woods D, Ganos C. Behavioral therapy for Tourette
+    syndrome     and    chronic   tic  disorders.   Neurol    Clin   Pract
+    2017;7(2):148–156. [PMID: 29185535]
+ Piacentini J, et al. Behavior therapy for children with Tourette
+    disorder:   Randomized       controlled    trial. JAMA      2010;303:
+    1929–1937. [PMID: 20483969] (A controlled trial of behavioral
+    therapy shows improvements in tic severity using the Yale
+    Global Tic Severity Scale.)
+ Quezada J, Coffman KA. Current approaches and new develop-
+    ments in the pharmacological management of Tourette syn-
+    drome. CNS Drugs. 2018;32(1):33–45. [PMID: 29335879]
+ The Tourette’s Syndrome Study Group. Treatment of ADHD in
+    children with tics: A randomized controlled trial.         Neurology
+    2002;58:527–536. [PMID: 11865128] (Clinical trial describ-
+    ing treatment of Tourette syndrome and ADHD concludes
+    that methylphenidate can help behavioral symptoms without
+    exacerbating tics.)
+
+
+  ▼▼TARDIvE DYSKINESIA & OTHER
+        DRUG-RELATED MOvEMENT DISORDERS
+
+
+               ESSENTIALS OF DIAGNOSIS
+
+▶  Dopamine        receptor–blocking          agents     (DRBAs)      may
+   cause acute, subacute, and chronic, persistent hyperki-
+   netic movement disorders
+▶
+   Acute dystonia and akathisia are self-limited move-
+   ment disorders that are triggered by exposure to high-
+   potency DRBAs
+▶  Tardive dyskinesias are a group of iatrogenic, persistent
+   movement disorders induced by chronic exposure to
+   DRBAs and include classic tardive dyskinesias, tardive
+   dystonia, and tardive akathisia
+▶  Tardive syndromes have a low spontaneous remission
+   rate
+▶  Drug-induced         parkinsonism        is   a   dose-dependent,
+   reversible syndrome caused by DRBAs
+
+
+▶General Considerations
+
+Many drugs cause abnormal movements. Of particular
+note are movement disorders resulting from exposure to
+neuroleptics and other agents that block central dopamine
+receptors. These neurologic syndromes may be acute and
+---
+                                                                                  MOvEMENT DISORDERS  223
+
+1.   Acute Dystonia
+▶Clinical Findings
+The acute dystonic reaction is a sustained, torsional muscle
+contraction, usually confined to a body segment, occur-
+ring after initial treatment using a DRBA. The classic
+clinical scenario is that of a young patient who receives
+a high-potency neuroleptic, such as haloperidol, in the
+emergency department and subsequently develops a sus-
+tained contraction of the neck muscles. All agents that
+block dopamine D2           receptors can induce acute dystonic
+reactions, including risperidone and other so-called “atypical”
+agents. Serotoninergic agents have also been reported to
+induce acute dystonic reactions. The onset of symptoms
+ranges from immediately after the first dose to several days
+of treatment. In about half of the cases, the acute dystonic
+reaction occurs within 48 hours, and in 90% by 5 days after
+starting the therapy.
+    Acute dystonic reactions most often affect the ocular
+muscles (oculogyric crisis), face, jaw, tongue, neck and
+trunk, and less often limbs. A typical acute dystonic reaction
+may consist of head tilt backward or sideways with tongue
+protrusion and forced opening of the mouth, often with
+arching of trunk and ocular deviation upward or laterally.
+Rarely, the syndrome can recur with subsequent exposures
+to D2 receptor–blocking agents.
+
+▶Treatment
+In patients with acute dystonic reactions, symptoms can be
+relieved within minutes using parenteral anticholinergics or
+antihistaminics. Diphenhydramine 50 mg or benztropine
+mesylate 1 to 2 mg or biperiden 1 to 2 mg is given intrave-
+nously and can be repeated if the dystonia does not abate
+within 30 minutes. Intravenous diazepam is also effective
+and can be used as an alternative therapy. If untreated, the
+majority of cases resolve spontaneously within 12 to 48 hours
+after the last dose of the offending agent. DRBAs with high
+anticholinergic activity have a relatively low incidence rate
+of acute dystonic reactions, and therefore prophylactic use of
+anticholinergics (eg, benztropine) has been especially recom-
+mended in young patients beginning treatment with high-
+potency DRBAs.
+
+2.   Acute Akathisia
+▶Clinical Findings
+
+Akathisia comprises two elements, one subjective and the
+other objective. The subjective symptom is extreme restless-
+ness and intolerance of remaining still. Patients complain
+of a disturbing inner tension with vivid phrases like “I feel
+that I’m jumping out of my skin” or “I’m about to explode.”
+Table 15–18.        Dopamine receptor–blocking agents.
+             Class                                   Drug
+ Phenothiazines                 Chlorpromazine, triflupromazine
+ • Aliphatic                    Thioridazine, mesoridazine
+ • Piperidine                   Trifluoperazine, prochlorperazine,
+ • Piperazine                   perphenazine, fluphenazine
+ Thioxanthenes
+ • Aliphatic                    Chlorprothixene
+ • Piperazine                   Thiothixene
+
+ Butyrophenones                 Haloperidol, droperidol
+ Diphenylbutylpiperidine        Pimozide
+
+ Dibenzazepine                  Loxapine
+ Dibenzodiazepine               Clozapine, quetiapine
+
+ Thienobenzodiazepine           Olanzapine
+ Substituted benzamide          Metoclopramide, tiapride, sulpiride, clebopride,
+                                    remoxipride, veralipride
+
+ Indolone                       Molindone
+ Pyrimidinone                   Risperidone
+
+ Benzisothiazole                Ziprasidone
+ Benzisoxazole                  Iloperidone
+ Quinolinone                    Aripiprazole
+ Tricyclic                      Amoxapine
+ Calcium channel blocker        Flunarizine, cinnarizine
+
+Adapted with permission from Fahn S, Jankovic J: Principles and Practice
+of Movement Disorders. Philadelphia, PA: Churchill Livingstone/
+Elsevier; 2007.
+
+through serotoninergic mechanisms, and (2) pimavanserin,
+indicated for treating psychosis in PD, which exerts inverse
+agonist and antagonist activity at serotonin 2A receptors
+(5-HT2A) receptors.
+
+ACUTE SYNDROMES CAUSED BY NEUROLEPTICS
+
+
+                ESSENTIALS OF DIAGNOSIS
+▶  Acute dystonia is a focal or segmental torsional muscle
+   spasms that usually occurs within hours of treatment
+   using a high-potency dopamine receptor–blocking
+   drug
+▶  Acute akathisia is a sensation of restlessness that occurs
+   within hours of treatment using a high-potency dopa-
+   mine receptor–blocking drug
+---
+            224                                                  CHAPTER 15
+
+The objective component, visible to an observer, are repetitive
+movements of limited repertoire performed by the patient to
+relieve the inner restlessness, such as marching in place, shift-
+ing the limbs, writhing and rolling movements, or stereotypic
+caressing or rocking movements. Some patients moan as part
+of a generalized akathisic state. Most cases of acute akathisia
+occur within 1 month of drug exposure, or shortly after an
+increase in the dose of their neuroleptic. Akathisia may occur
+in any condition of dopamine deficiency or blockade. It was
+first observed in patients with advanced parkinsonism but is
+now most frequently encountered as an acute side effect of
+neuroleptic drugs.
+
+▶Differential Diagnosis
+
+The differential diagnosis of repetitive movements includes
+states of agitation due to encephalopathy; pain; or psy-
+chiatric disease such as agitated depression, psychosis, or
+obsessive-compulsive disorder. Unusual syndromes of inner
+vibrations and tremors are described in patients with parkin-
+sonism, dementia, or tardive dyskinesia.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+               ESSENTIALS OF DIAGNOSIS
+
+▶  Tardive dyskinesia is a syndrome of stereotyped, choreic
+   movements involving the face and distal extremities
+   caused by chronic exposure to DRBAs
+▶  Tardive dystonia should be distinguished from classi-
+   cal tardive dyskinesias because it consists of sustained,
+   torsional, often disabling muscle spasms that affect any
+   part of the body
+▶  Tardive akathisia is a syndrome of chronic restlessness
+   resulting from exposure to dopamine receptor–blocking
+   drugs
+▶  Tardive syndromes have a low rate of spontaneous
+   remission and often cause permanent disability
+
+
+▶General Considerations
+Tardive syndromes are late, persistent abnormal movements
+induced by chronic exposure to DRBAs. The risk of devel-
+oping a tardive syndrome is proportional to its dopamine
+D2   receptor affinity and the duration of drug exposure,
+although some cases have appeared within weeks of the
+first doses. The three main tardive syndromes are (1) clas-
+sical tardive dyskinesia, (2) tardive dystonia, and (3) tardive
+akathisia. Tardive dyskinesias are hypothesized to result
+from permanent alterations in synaptic dopaminergic sensi-
+tivity induced by dopamine receptor blockade.
+    When a tardive syndrome develops, gradual withdrawal of
+the offending agent should be considered. Abrupt withdrawal
+of the inciting agent is associated with a more severe emer-
+gence of abnormal movements. General treatment guidelines
+parkinsonism also occurs increasingly with advanced age, in
+parallel with the incidence of idiopathic PD.
+    Drug-induced parkinsonism is typically reversible when
+the medication is reduced or discontinued, but sometimes
+the remission of symptoms takes many months. When par-
+kinsonism develops in a patient receiving neuroleptics, the
+adverse effect should be weighed against the benefits of treat-
+ment. If a patient has strong need for DRBA therapy, some
+degree of parkinsonism may be tolerable. For patients at risk
+for falling due to drug-induced parkinsonism, a change in
+therapy should be considered, either reducing the dose of
+neuroleptic or replacing the DRBA with quetiapine, pima-
+vanserin or clozapine. There is little evidence that dopamine
+agonists or levodopa ameliorate drug-induced parkinsonism
+in the presence of a DRBA. Some patients show persisting
+parkinsonism despite prolonged discontinuation of neuro-
+leptics, probably reflecting the development of actual PD; no
+pathologically proven case of tardive parkinsonism exists.
+
+TARDIVE SYNDROMES
+
+        ▶Treatment
+        Acute akathisia is self-limited, disappearing on discontinu-
+        ation of the offending neuroleptic. Acute akathisia can be
+        controlled by anticholinergics when neuroleptics need to be
+        continued; other agents that can reduce akathisia include
+        β-blockers, clonidine, and mirtazapine.
+        NEUROLEPTIC-INDUCED PARKINSONISM
+
+
+                       ESSENTIALS OF DIAGNOSIS
+
+        ▶
+           Dose-dependent parkinsonism caused by DRBAs
+        ▶  The syndrome may be clinically indistinguishable from
+           classic PD
+        ▶  Parkinsonism gradually resolves if the offending agent
+           is removed
+
+
+        Neuroleptic-induced parkinsonism is a dose-related side effect
+        of DRBAs and may be indistinguishable in appearance from
+        idiopathic PD. It develops with use of either DRBAs or dopa-
+        mine-depleting drugs such as reserpine and tetrabenazine. All
+        neuroleptics can induce parkinsonism in proportion to their
+        D2 receptor affinity, the dosage, and duration of treatment,
+        with the exception of clozapine and quetiapine; other agents
+        that can induce mild reversible parkinsonism include valproate
+        and calcium channel blockers. The incidence of drug-induced
+        parkinsonism in patients taking DRBAs varies from 15% to
+        60%. Women are almost twice as frequently affected as men,
+        a reverse of the ratio in idiopathic PD. Neuroleptic-induced
+---
+                                                                                       MOvEMENT DISORDERS  225
+
+repetitive, patterned choreic movements of the toes and fin-
+gers, the latter sometimes termed piano-playing movements.
+Sometimes, there is rhythmic rocking of the trunk.
+
+▶Differential Diagnosis
+
+The differential diagnosis of choreic movements of the face
+includes Huntington disease, idiopathic dystonia of the face
+(primary oromandibular dystonia, or Meige syndrome),
+senile and edentulous chorea of the face, branchial myoc-
+lonus, facial tics, and myokymia. In tardive dyskinesias, the
+pattern of the movements is typically rhythmic, repetitive,
+and stereotypical, in contrast to the orofacial chorea seen
+in Huntington disease, which is random and unpredictable.
+
+▶Treatment
+The most potent agents for treating tardive dyskinesias
+are catecholamine depletors and, paradoxically, DRBAs.
+The rationale for using dopamine-depleting drugs, such as
+reserpine and tetrabenazine, is that these agents effectively
+reduce dopaminergic synaptic activity, thereby reducing
+tardive dyskinesia symptoms, without exposing the brain to
+an offending DRBA. These agents are slowly titrated to the
+point of mild parkinsonism, usually reaching a dose range of
+reserpine 0.5–2 mg daily or tetrabenazine 25–100 mg daily.
+These agents may cause adverse effects that include parkin-
+sonism, hypotension, akathisia, sedation, and depression,
+and are contraindicated in patients with depression.
+    The newer agent, valbenazine, a vesicular monoamine
+transporter type 2 [VMAT2] treats tardive dyskinesia by
+reversibly impairing the dopamine transporter as it loads
+dopamine into synaptic vesicles for release, thereby reduc-
+ing symptoms associated with dopamine hypersensitivity.
+Although tardive dyskinesia can be temporarily suppressed
+using increasing doses of DRBAs, continuing exposure to these
+agents may lead to worsening of the movements in the long
+term. α-Methylparatyrosine, a competitive inhibitor of tyro-
+sine hydroxylase, is not very effective when used alone but can
+be a potent antidopaminergic drug when combined with other
+presynaptically acting drugs, such as dopamine depletors.
+2.   Tardive Dystonia
+
+▶Clinical Findings
+
+Tardive dystonia differs from tardive dyskinesias in that the
+movements are sustained and interfere with normal motor
+function. Just as DRBAs may induce acute dystonia, persistent,
+sustained, disabling dystonic movements may result from
+chronic DRBA exposure. Tardive dystonia, which resembles
+idiopathic dystonia, is more disabling than classical tardive
+dyskinesia. The combination of retrocollis, trunk arching
+backward, internal rotation of the arms, and extension of the
+elbows and flexion of the wrists is a frequently observed pat-
+tern in severely disabled patients. The onset of tardive dystonia
+
+Table 15–19.         General guidelines for treating tardive
+syndromes.
+ •  Taper and slowly eliminate causative agents, if clinically possible. Avoid sudden
+    cessation of these drugs, which may exacerbate symptoms.
+ •  If it is necessary to treat the movements, the drugs of first choice are the
+    dopamine-depleting drugs reserpine, tetrabenazine, and α-methylparatyrosine.
+    It is important to monitor the development of depression, hypotension,
+    sedation, and parkinsonism.
+ •  If dopamine-depleting agents do not help, consider a trial of clozapine or
+    quetiapine.
+ •  Dopamine receptor–blocking agents may be used as medications of last resort
+    for tardive syndromes, despite the risk of worsening the syndrome over the
+    long term.
+ •  Globus pallidus stimulation should be considered for disabling tardive dystonia
+    if medication treatment fails.
+
+for tardive syndromes are provided in Table 15–19. The
+remission rate for tardive syndromes is unknown, and per-
+manent symptoms may occur.
+
+
+1.    Classical Tardive Dyskinesia
+
+▶Clinical Findings
+Dyskinesia is a general term simply meaning abnormal move-
+ments. Over the years, tardive dyskinesia has become syn-
+onymous with the first described complication of long-term
+dopamine receptor antagonist therapy: continuous, repetitive,
+rhythmical, stereotypic movements involving oral, buccal,
+and lingual areas. Prevalence estimates range from 0.5–65%
+in the literature, but is probably closer to 12% in patients
+on chronic haloperidol treatment. Older age, female gender,
+cumulative drug exposure, and the presence of an affective
+disorder are associated with increased prevalence of classi-
+cal tardive dyskinesia; African-Americans appear to have a
+higher risk than Caucasians. In the past decade, the incidence
+of tardive dyskinesias may be in slight decline due to the use
+of second-generation D2 antagonists, which demonstrate less
+receptor blocking affinity. On the other hand, children are
+increasingly treated for psychiatric symptoms using “atypical”
+neuroleptics, so the long-term incidence of tardive dyskinesia
+in this population must be carefully tracked.
+     Classical tardive dyskinesia causes a pattern of repetitive,
+complex chewing motions, occasionally with lip-smacking
+and opening of the mouth, tongue protrusion, lip pursing,
+and sucking movements. The mouth movements in classical
+tardive dyskinesia are readily suppressed by patients when
+they are asked to do so, and they cease during talking or
+eating. Because tardive dyskinesias do not interfere with basic
+functions, patients are often unaware of their movements.
+The constant lingual movements may lead to tongue hyper-
+trophy, and macroglossia is a common clinical sign. Tardive
+dyskinesias may also cause limb movements, usually distal,
+---
+            226                                                   CHAPTER 15
+
+NEUROLEPTIC MALIGNANT SYNDROME
+
+
+                ESSENTIALS OF DIAGNOSIS
+▶
+   Fever, rigidity, and changes in mental status, with
+   elevated muscle enzymes, dehydration, and autonomic
+   instability
+▶  The syndrome usually develops on stable therapeutic
+   doses of DRBAs
+▶  Must be distinguished from serotonin syndrome, malig-
+   nant hyperthermia, acute generalized parkinsonism or
+   dystonia (“dystonic storm”), and other causes of meta-
+   bolic encephalopathy
+
+
+▶Clinical Findings
+Neuroleptic malignant syndrome (NMS) is an idiosyn-
+cratic, potentially life-threatening syndrome consisting of
+(1) hyperthermia, usually with other autonomic distur-
+bances such as tachycardia, diaphoresis, and labile blood
+pressure; (2) extrapyramidal signs, usually muscle rigidity
+or dystonia, and often with elevated muscle enzymes; and
+(3) altered mental status, such as agitation, inattention, and
+confusion. The pathophysiologic mechanism of NMS and
+the individual susceptibility factors are not well understood.
+    NMS usually begins abruptly while the patient is on
+therapeutic, not toxic or supratherapeutic, dosages of anti-
+psychotic medication. All the symptoms are fully manifest
+within 24 hours of onset and reach a maximum severity
+within 72 hours. There appears to be no relationship between
+the duration of therapy and the development of symptoms,
+as NMS can develop soon after the first dose or at any time
+after prolonged treatment. Recovery usually occurs within
+one to several weeks, but the syndrome is fatal in 20–30%
+of cases. Prolonged hyperthermia and generalized muscle
+contractions may cause rhabdomyolysis, with renal failure.
+Muscle biopsies show swelling, edema, and often vacuolar
+changes in muscle fibers. All agents that block dopamine
+D2 receptors can induce NMS, including risperidone, olan-
+zapine, aripiprazole, and other “atypical” neuroleptics; the
+only antipsychotics that do not induce NMS are clozapine,
+quetiapine, and pimavanserin. The differential diagnosis
+includes malignant hyperthermia, serotonin syndrome, and
+acute baclofen withdrawal, in addition to fever of any cause
+in the intensive care unit; the diagnosis depends on an accu-
+rate history of drug exposure and interactions.
+
+▶Treatment
+
+Treatment of NMS consists of discontinuing the DRBAs and
+providing supportive measures. Rapid relief of symptoms
+usually follows administration of dantrolene, bromocriptine,
+or levodopa. Reexposure to dopamine receptor antagonists
+does not necessarily lead to recurrence of NMS. Residual
+ranges from days to years after exposure to a DRBA. Severe tar-
+dive dystonia is more common in young men, whereas severe
+classical tardive dyskinesia is more common in older women.
+
+▶Treatment
+As with classical tardive dyskinesia, the most effective medica-
+tions for tardive dystonia are antidopaminergic drugs, either
+dopamine depletors or DRBAs, but a smaller percentage
+of patients improves. As with classical tardive dyskinesia,
+increasing doses of DRBAs might temporarily help tardive
+dystonia, but continuing exposure may cause worse move-
+ments over time. In tardive dystonia, anticholinergics (eg,
+benztropine or trihexyphenidyl) are almost as effective as
+antidopaminergic drugs. The atypical antipsychotic, clozap-
+ine, is been helpful in some patients. For medically intractable
+tardive dystonia, bilateral globus pallidus interna [GPi] stimu-
+lation using implantable electrodes can be effective.
+
+3.   Tardive Akathisia
+
+▶Clinical Findings
+
+Tardive akathisia is a rare syndrome of restlessness and
+intolerance of remaining still, coupled with continuous,
+stereotyped, repetitive pacing and fidgeting movements.
+Tardive akathisia resembles acute akathisia in its subjec-
+tive sense of intolerance or remaining still, and its outward
+manifestations of restlessness, except that the tardive form is
+persistent and may be permanent.
+▶Treatment
+
+Tardive akathisia can be helped by reserpine and tetrabena-
+zine. In this respect, the clinical pharmacology more closely
+resembles that of classical tardive dyskinesia than acute
+akathisia. Opioids, such as codeine 15–60 mg daily, are
+reported to be beneficial in reducing the sensation of rest-
+lessness in chronic akathisia. Most of the patients develop
+tardive akathisia within the first 2 years of treatment.
+
+ Bhidayasiri R, Jitkrisadakul O, Friedman J, Fahn S. Updating
+    the recommendations for treatment of tardive syndromes:
+    A systematic review of new evidence and practical treatment
+    algorithm. J Neurol Sci 2018; 1–9. [PMID: 29454493]
+ Factor SA, et al. Effects of valbenazine in participants with tardive
+    dyskinesia: Results of the 1-year KINECT 3 extension study.
+    J Clin Psychiatry 2017;78(9):1344–1350. [PMID: 29141124]
+ Hauser RA, et al. KINECT 3: A phase 3 randomized, double-blind
+    placebo-controlled trial of valbenazine for tardive dyskinesia.
+    Am J Psychiatry 2017;174(5):476–484. [PMID: 28320223]
+ Savitt D, Jankovic J. Tardive syndromes. J Neurol Sci 2018;389:
+    35–42. [PMID: 29506749]
+ Stegmayer K, Walther S, van Harten P. Tardive dyskinesias asso-
+    ciated with atypical antipsychotics: Prevalence, mechanisms
+    and management strategies. CNS Drugs             2018;32(2):135–147.
+    [PMID: 29427000]
+---
+                                                                               MOvEMENT DISORDERS  227
+
+to move the legs or walk about, which immediately relieves
+the unpleasant sensations. Symptoms typically begin inter-
+mittently and may be mild, but they may be debilitating and
+completely disruptive to sleep and necessitate medical inter-
+vention. Some patients experience leg restlessness during the
+day or in wakeful situations that involve immobility, such
+as sitting in an audience or air travel. Patients with PD may
+experience nocturnal parkinsonian akathisia after the last
+evening dose of levodopa wears off; this condition resembles
+RLS but lacks the signature leg paresthesias.
+     RLS has long been linked to periodic limb movements
+(PLMs), a movement disorder that occurs during sleep. The
+full cycle of these movements consists of brief jerks of either
+leg, dorsiflexion of the great toe and foot, and a briefly sus-
+tained tonic flexion spasm of the entire leg; the movement
+has the appearance of an exaggerated Babinski or flexor with-
+drawal reflex. The limb movements tend to recur every 20 sec-
+onds or so in trains that may last for hours. PLMs usually occur
+during stage 1 and stage 2 sleep and decrease in deeper sleep
+stages. Present in more than 80% of patients with RLS, PLMs
+also occur in other sleep disorders, including narcolepsy and
+REM behavior disorder, a condition of acting out vivid dreams.
+     In recent years, a number of genetic risk factors for RLS
+have been identified, although a specific causative gene has
+
+not yet been found. In families with RLS, the disorder is
+transmitted as an autosomal dominant trait. Several medical
+conditions are associated with an increased prevalence of RLS,
+including iron deficiency, uremia, peripheral neuropathy,
+diabetes, rheumatoid arthritis, pregnancy, gastric surgery, and
+the fibromyalgia syndrome. Patients with PD experience leg
+restlessness, but the true prevalence of RLS in PD is uncertain.
+
+B.   Laboratory Findings
+Laboratory testing in RLS is aimed at identifying secondary
+causes of the syndrome. Iron studies and ferritin levels are
+the most important tests. Additional testing includes rou-
+tine serum chemistry. Electrodiagnostic testing should be
+performed in patients with symptoms or signs of peripheral
+nerve dysfunction. In selected cases, a routine sleep study, or
+polysomnography, will reveal an increased amount of noc-
+turnal movement and wakeful periods, delayed sleep onset,
+and PLMs of sleep.
+
+▶Differential Diagnosis
+It is important to distinguish RLS from akathisia, an intol-
+erance of remaining still or sitting that may occur due to
+exposure to DRBAs or in PD. In RLS, the sensory discomfort
+and urge to move are localized to the legs, unlike in akathisia,
+which causes generalized discomfort or restlessness. RLS can
+be distinguished from nocturnal leg cramps, which cause
+painful muscle contractions, tightness, and tenderness. RLS
+must further be differentiated from peripheral neuropathy,
+radiculopathy, reflex sympathetic dystrophy, and other
+localized sensory disturbances that can involve the legs;
+catatonia lasting weeks to months has been reported after
+recovery from the acute syndrome, with some individuals
+responding to electroconvulsive therapy.
+
+
+ Trollor JN, Chen X, Sachdev PS. Neuroleptic malignant syn-
+    drome associated with atypical antipsychotic drugs. CNS Drugs
+    2009;23:477–492. [PMID: 19480467]
+
+
+  ▼▼RESTLESS LEGS SYNDROME
+
+               ESSENTIALS OF DIAGNOSIS
+
+
+▶  A syndrome of restlessness and unpleasant sensations
+   in the legs, which is relieved by moving or walking
+▶  Associated with periodic limb movements of sleep
+▶  Chronic, progressive course
+▶
+   Responsive to dopamine agonists, opiates, and other
+   agents
+
+
+▶General ConsiderationsEnglish
+Thomas      Willis,    17th    century                  physician,      first
+
+described a condition of leg restlessness (“unquietness”)
+and involuntary movements that interfered with sleep and
+was relieved by walking. As fully delineated by Ekbom, rest-
+less legs syndrome (RLS) is a chronic condition that usually
+begins during middle age and worsens with time. RLS is a
+circadian disorder that typically begins in the evening and
+may progressively worsen during the night. The disorder
+is common, affecting 3–10% of individuals. Many cases are
+familial, inherited in an autosomal dominant fashion. The
+cause of RLS is unknown, but the disorder is associated with
+iron-deficiency anemia, uremia, and peripheral neuropathy.
+RLS    frequently     responds      to   dopaminergic        medication,
+implicating a role of central dopamine pathways in the
+pathophysiology of the disorder.
+
+▶Clinical Findings
+A.   Symptoms and Signs
+The key diagnostic features of RLS include ill-defined discom-
+fort or unusual sensations (“dysesthesias”) in the legs, some-
+times described as intolerable tingling, crawling, creeping
+[“formication”], stretching, pulling, or prickling sensations
+(Table 15–20). Individuals with RLS usually do not describe
+their leg discomfort as painful muscular cramping or aching,
+a point of differentiation from nocturnal leg cramps. The
+legs are invariably involved, usually bilaterally, whereas the
+trunk and arms are rarely affected. RLS typically occurs dur-
+ing rest or sleep, or when patients are drowsy and attempting
+repose. The discomfort is associated with an irresistible urge
+---
+     228                                                    CHAPTER 15
+
+                                                                                       are first-line drugs for RLS. Unfortunately, dopamine drug
+Table 15–20.        Clinical features of restless legs syndrome.                       treatment is sometimes associated with rebound, an increase
+ Diagnostic Features                                                                   in symptoms when the medication wears off; and                        aug-
+ •  Desire or need to move the limbs, usually associated with uncomfortable or         mentation, a progressively shorter latency to the onset of
+    unpleasant sensations                                                              symptoms, necessitating earlier and higher dosing of dopa-
+ •  Symptoms of motor restlessness                                                     minergic medication. For this reason, calcium α-2-δ ligands
+ •  Symptoms worse or exclusively present at rest, with at least partial or temporary  (pregabalin, gabapentin), while less effective, are sometimes
+    relief by activity                                                                 preferred over dopamine agonists for long-term therapy.
+ •  Symptoms maximal during evening and night                                          Furthermore, dopamine agonists may trigger pathologic
+ Typical Features                                                                      compulsive behaviors. For severe RLS, the opioids codeine,
+ •  Involuntary movements: periodic limb movements                                     methadone, and naltrexone/naloxone can be effective, but
+ •  Sleep disturbance                                                                  these agents carry a risk of dependence. Clonazepam, car-
+ •  Normal neurologic examination                                                      bamazepine, baclofen, and clonidine have all been reported
+ •  Generally chronic course, often progressive                                        as successful treatments for RLS. Because RLS symptoms
+ •  Positive family history                                                            are chronic and progressive, it is important to treat using
+                                                                                       the lowest effective doses. In patients with iron deficiency
+in these disorders, the symptoms do not show the nocturnal                             and RLS, treatment with iron is curative. Any treatment
+predilection of RLS, and neurologic evaluation reveals nerve                           approach for RLS must also include optimization of sleep-
+or root dysfunction. The painful legs and moving toes syn-                             ing habits.
+drome is an unusual and rare disorder that causes cutaneous                            ▶Prognosis
+pain and writhing, choreic toe movements, sometimes asso-
+ciated with peripheral neuropathy.                                                     The prognosis for RLS is generally good. Although the dis-
+     The differential diagnosis for PLMs comprises a wide                              order is lifelong, small doses of medication and the develop-
+variety of normal and abnormal movements in sleep, includ-                             ment of optimal sleep hygiene usually keep the symptoms
+ing hypnic jerks, normal postural shifts, nocturnal seizures,                          under control.
+parasomnias such as sleep walking and pathologic arousals,
+and REM sleep behavior disorder.                                                        Garcia-Borreguerro D, et al. Guidelines for the first-line treat-
+▶Treatment                                                                                 ment of restless legs syndrome, prevention and treatment of
+                                                                                           dopaminergic augmentation. Sleep Med 2016;21:1–11. [PMID:
+Several classes of medication are effective in RLS, includ-                                27448465]
+ing dopaminergic agents, opioids, benzodiazepines, and                                  Wijemanne S, Ondo W. Restless legs syndrome: Clinical features,
+anticonvulsants, usually taken as a single dose before                                     diagnosis and a practical approach to management.               Pract
+bed. The dopamine agonists pramipexole and ropinirole                                      Neurol 2017;17:444–452. [PMID: 29097554]
