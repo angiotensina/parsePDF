@@ -1,0 +1,6 @@
+# Sensitive files
+.env
+.env.*
+.env.local
+.env.production
+.env.development
